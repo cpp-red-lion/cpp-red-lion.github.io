@@ -1,3 +1,3 @@
-# My Projects
+# Projects
 
 To do...
