@@ -1,7 +1,5 @@
 # About me
 
-<img src="vic2017.jpg" width="150">
-
 **Victor Ciura** is a _Senior Software Engineer_ at [CAPHYON](https://www.caphyon.com) and _Technical Lead_ on the [Advanced Installer](https://www.advancedinstaller.com) team.  
 For well over a decade, he designed and implemented several core components and libraries of Advanced Installer.  
 
