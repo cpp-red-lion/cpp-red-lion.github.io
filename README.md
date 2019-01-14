@@ -1,7 +1,5 @@
 
-## [About](about/me.html)
-
-## [Presentations]()
+[About](about/me.html) | [Presentations](presentations.html) | [Projects](projects.html)
 
 
 
