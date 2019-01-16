@@ -2,7 +2,7 @@
 
 ## [Advanced Installer](https://www.advancedinstaller.com) 
 
-Advanced Installer is a powerful, yet easy to use, Windows Installer authoring tool which helps you create MSI installs, App-V and UWP [MSIX](https://www.advancedinstaller.com/msix-introduction.html) packages.  
+[Advanced Installer](https://www.advancedinstaller.com) is a powerful, yet easy to use, Windows Installer authoring tool which helps you create MSI installs, App-V and UWP [MSIX](https://www.advancedinstaller.com/msix-introduction.html) packages.  
 Advanced Installer is an IDE targeting exclusively Windows developers that need to build deployment packages for their products. Aside from serving as a developer IDE, closing the ALM loop, Advanced Installer is also a comprehensive sys-admin tool helping thousands of IT workers in their repackaging and infrastructure deployment needs.
 
 At [CAPHYON](https://www.caphyon.com), I worked on Advanced Installer almost since its inception, developing various components, core-technologies and libraries, since 2005.
