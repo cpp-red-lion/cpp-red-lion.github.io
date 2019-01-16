@@ -1,3 +1,20 @@
 # Projects
 
-To do...
+## [Advanced Installer](https://www.advancedinstaller.com) 
+
+Advanced Installer is a powerful, yet easy to use, Windows Installer authoring tool which helps you create MSI installs, App-V and UWP [MSIX](https://www.advancedinstaller.com/msix-introduction.html) packages.  
+Advanced Installer is an IDE targeting exclusively Windows developers that need to build deployment packages for their products. Aside from serving as a developer IDE, closing the ALM loop, Advanced Installer is also a comprehensive sys-admin tool helping thousands of IT workers in their repackaging and infrastructure deployment needs.
+
+At [CAPHYON](https://www.caphyon.com), I worked on Advanced Installer almost since its inception, developing various components, core-technologies and libraries, since 2005.
+
+Advanced Installer is built almost exclusively in **C++** as a Win32/WTL GUI desktop application. Small parts of it are built using HTML5 or C# and it makes use of some third-party open-source C/C++ libraries, such as: Boost, Expat, HTMLayout, LZMA, Scintilla, SQLite, WTL, zlib.
+It is a fairly big codebase, with over **3 million** lines of C++ code, which produces over 170 DLL and EXE modules (most of them are customer deployed, others are internal tools).
+
+## [Clang Power Tools](http://clangpowertools.com)  
+
+One of my "hobbies" is tidying-up and modernizing (C++17) the aging codebase of Advanced Installer and has been known to build tools that help this process: [Clang Power Tools](http://clangpowertools.com)   
+
+Clang Power Tools is a free Visual Studio [extension](https://marketplace.visualstudio.com/items?itemName=caphyon.ClangPowerTools) helping Visual Studio C++ developers leverage [Clang/LLVM](http://releases.llvm.org/download.html) tools (clang++, clang-tidy and clang-format), in order to perform various code transformations and fixes like modernizing code to C++11/14/17 and finding subtle latent bugs with its static analyzer and CppCoreGuidelines checks.  
+
+This project is [open source](https://github.com/Caphyon/clang-power-tools) and has enjoyed fantastic adoption and interest with the Visual C++ community.  
+
