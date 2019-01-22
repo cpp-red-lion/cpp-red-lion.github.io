@@ -19,8 +19,8 @@
 #### Workshop: “Using C++/STL for Competitive Programming and Software Development”
 #### STL Algorithms - Principles and Practice
 [💡Abstract](2015/STL Workshop DCTI/HandoutSTLAlgorithmsDCTI.pdf) 
-[📜Slides](2015/STL Workshop DCTI/STL Algorithms - Principles and Practice 2015.pdf)
-[📷Pictures](2015/STL Workshop DCTI/pics)
+[📜Slides](2015/STL Workshop DCTI/STL Algorithms - Principles and Practice 2015.pdf) 
+[📷Pictures](2015/STL Workshop DCTI/pics)  
 
 ---
 ## 2014
