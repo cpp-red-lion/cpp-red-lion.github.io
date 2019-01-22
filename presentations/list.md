@@ -21,7 +21,7 @@
 ---
 ## 2014
 
-### AppManagEvent Conference, Utrecht (Netherlands) 
+### 🗺️ AppManagEvent Conference, Utrecht (Netherlands) 
 #### “Leveraging OS virtualization for your repackaging and testing infrastructure” 
 [💡Abstract](https://appmanagevent.com/index.php/event-information/previous-editions/ame2014/agenda/session-list-2014/218-leveraging-os-virtualization-for-your-repackaging-and-testing-infrastructure-tech-session) 
 [📜Slides](2014/Conferences/AME2014_Victor_Ciura.pdf) 
