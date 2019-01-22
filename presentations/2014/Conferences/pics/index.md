@@ -1,6 +1,6 @@
 # ↩️ [Presentations()](https://cpp-red-lion.github.io/presentations/list.html)
 
-![](IMG_2596.jpg)  
-![](IMG_2597.jpg)  
-![](IMG_2599.jpg)  
-![](IMG_2668.jpg)  
+![](IMG_2596.JPG)  
+![](IMG_2597.JPG)  
+![](IMG_2599.JPG)  
+![](IMG_2668.JPG)  
