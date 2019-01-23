@@ -18,7 +18,7 @@
 ---
 ## 2015
 
-### 🗺️ Computer Science Department, University of Craiova (Romania) 
+### 🗺️ [Department of Computer Engineering](http://dcti.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 
 #### Workshop: “Using C++/STL for Competitive Programming and Software Development”
 #### STL Algorithms - Principles and Practice
