@@ -21,9 +21,9 @@
 [💡Abstract](2016/Open4Tech Summer School/HandoutSTL_INFO.pdf) 
 📜Slides: 
 [P1](2016/Open4Tech Summer School/STL - Principles and Practice - Part 1 Containers and Iterators 2016.pdf) 
-[P2](2016/Open4Tech Summer School/STL - Principles and Practice - Part 2 Containers and Iterators 2016.pdf) 
-[P3](2016/Open4Tech Summer School/STL - Principles and Practice - Part 3 Containers and Iterators 2016.pdf) 
-[P4](2016/Open4Tech Summer School/STL - Principles and Practice - Part 4 Containers and Iterators 2016.pdf) 
+[P2](2016/Open4Tech Summer School/STL - Principles and Practice - Part 2 Function Objects and Utilities 2016.pdf) 
+[P3](2016/Open4Tech Summer School/STL - Principles and Practice - Part 3 Algorithms 2016.pdf) 
+[P4](2016/Open4Tech Summer School/STL - Principles and Practice - Part 4 Algorithms (Demos) 2016.pdf) 
 [📷Pictures](2016/Open4Tech Summer School/pics)  
 
 ---
