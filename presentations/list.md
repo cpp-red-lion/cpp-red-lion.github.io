@@ -19,7 +19,7 @@
 #### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/)
 #### C++ STL - Principles and Practice
 [💡Abstract](2016/Open4Tech Summer School/HandoutSTL_INFO.pdf) 
-📜Slides 
+📜Slides: 
 [P1](2016/Open4Tech Summer School/STL - Principles and Practice - Part 1 Containers and Iterators 2016.pdf) 
 [P2](2016/Open4Tech Summer School/STL - Principles and Practice - Part 2 Containers and Iterators 2016.pdf) 
 [P3](2016/Open4Tech Summer School/STL - Principles and Practice - Part 3 Containers and Iterators 2016.pdf) 
