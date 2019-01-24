@@ -45,7 +45,7 @@
 [📜Slides](2018/Conferences/Bootstrapping a Local C++ User Group - Victor Ciura - ACCU 2018.pdf) 
 [🎞️Video]()  
 
-### 🗺️ [C++ Russia Conference](https://cppconf.ru/en/), Saint-Petersburg, Russia
+### 🗺️ [C++ Russia Conference](https://cppconf.ru/en/), Saint-Petersburg (Russia)
 
 #### Enough string_view To Hang Ourselves  
 [💡Abstract](https://2018.cppconf.ru/talks/victor-ciura.html) 
