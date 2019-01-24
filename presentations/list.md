@@ -18,6 +18,10 @@
 [P2](2017/STL Workshop DCTI/STL Algorithms Part2 2017.pdf) 
 [📷Pictures](2017/STL Workshop DCTI/pics)  
 
+#### Lecture: “So You Think You Can Hash”
+#### Advanced STL 
+[📜Slides](2017/STL Workshop DCTI/So You Think You Can Hash 2017.pdf) 
+
 xxxx
 
 [💡Abstract](https://x) 
