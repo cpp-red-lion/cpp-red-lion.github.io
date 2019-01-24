@@ -73,6 +73,17 @@
 [📜Slides](2018/Open4Tech Summer School/Pregatirea Interviurilor si Prezentarilor Tehnice - Open4Tech 2018.pdf) 
 [📷Pictures](2018/Open4Tech Summer School/pics)  
 
+### 🗺️ [CAPHYON ⚡ Lightning Talks](https://www.caphyon.com), Craiova (Romania) 
+[📷Pictures](2018/Lightning Talks/pics)  
+#### C++Insights 
+[📜Slides](2018/Lightning Talks/C++Insights - Caphyon 2018.pdf) 
+#### Compiler Explorer 
+[📜Slides](2018/Lightning Talks/Compiler Explorer - Caphyon 2018.pdf) 
+#### QuickBench 
+[📜Slides](2018/Lightning Talks/QuickBench - Caphyon 2018.pdf) 
+#### Programming Typography 
+[📜Slides](2018/Lightning Talks/Programming Typography - Caphyon 2018.pdf) 
+
 
 
 ---
