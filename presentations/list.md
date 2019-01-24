@@ -35,6 +35,13 @@
 [📜Slides](2017/Conferences/10 Things Junior C++ Devs Don't Get - Victor Ciura - CppCon 2017.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=dSSIXKe6iXE)  
 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
+
+#### Bringing Clang-tidy Magic to Visual Studio C++ Developers  
+[💡Abstract](http://meetingcpp.com/2017/talks/items/Clang_Tidy_for_VS.html) 
+[📜Slides](2017/Conferences/Bringing Clang-tidy Magic to Visual Studio C++ Developers - Victor Ciura - Meeting C++ 2017.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=BAkdRY9l5pI)  
+
 ---
 ## 2016
 
