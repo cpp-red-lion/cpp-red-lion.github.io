@@ -2,8 +2,31 @@
 
 ## 2019
 
+### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
+
+#### Better Tools in Your Clang Toolbox: Extending clang-tidy With Your Custom Checks  
+[💡Abstract](https://cpponsea.uk/sessions/better-tools-in-your-clang-toolbox-extending-clang-tidy-with-your-custom-checks.html) 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+
+#### Regular Types and Why Do I Care ?  
+[💡Abstract](https://conference.accu.org/2019/sessions.html#XRegularTypesandWhyDoICare) 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Fighting Git Workflows  
+[💡Abstract](https://conference.accu.org/2019/sessions.html#XFightingGitWorkflows) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ---
 ## 2018
+
+
+
+
 
 ---
 ## 2017
