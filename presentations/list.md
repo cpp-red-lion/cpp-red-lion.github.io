@@ -59,6 +59,14 @@
 [📜Slides](2018/Conferences/Enough string_view to hang ourselves - Victor Ciura - NDC Oslo 2018.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=xC0yn8r3PTQ)  
 
+### 🗺️ [Oslo C++ Users Group Meetup](https://www.meetup.com/ocppug/), Oslo (Norway) 
+
+#### Clang Power Tools for Visual Studio C++ Developers  
+[💡Abstract](https://www.meetup.com/ocppug/events/250417715/) 
+[📜Slides](2018/UG/Clang Power Tools for Visual Studio C++ Developers - Victor Ciura - Oslo C++ UG 2018.pdf) 
+[📷Pictures](2018/UG/pics)   
+
+
 
 ---
 ## 2017
