@@ -18,8 +18,10 @@
 [P2](2017/STL Workshop DCTI/STL Algorithms Part2 2017.pdf) 
 [📷Pictures](2017/STL Workshop DCTI/pics)  
 
-#### Lecture: “So You Think You Can Hash”
+#### Lecture: “So You Think You Can Hash” 
+[💡Abstract]() 
 [📜Slides](2017/So You Think You Can Hash 2017.pdf) 
+[📷Pictures]()  
 
 ### 🗺️ [CppCon Conference](https://cppcon.org), Bellevue, WA (USA) 
 
@@ -29,7 +31,7 @@
 [🎞️Video](https://www.youtube.com/watch?v=Wl-9ozmxXbo)  
 
 #### 10 Things Junior C++ Devs Don't Get  
-[💡Abstract](https://sched.co/BgsQ) 
+[💡Abstract]() 
 [📜Slides](2017/Conferences/10 Things Junior C++ Devs Don't Get - Victor Ciura - CppCon 2017.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=dSSIXKe6iXE)  
 
