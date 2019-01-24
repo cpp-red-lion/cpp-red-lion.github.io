@@ -19,7 +19,7 @@
 [📷Pictures](2017/STL Workshop DCTI/pics)  
 
 #### Lecture: “So You Think You Can Hash”
-[📜Slides](2017/STL Workshop DCTI/So You Think You Can Hash 2017.pdf) 
+[📜Slides](2017/So You Think You Can Hash 2017.pdf) 
 
 xxxx
 
