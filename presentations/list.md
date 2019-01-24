@@ -38,7 +38,12 @@
 ---
 ## 2018
 
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
+#### Bootstrapping a Local C++ User Group  
+[💡Abstract](https://conference.accu.org/2018/sessions.html#XBootstrappingaLocalCUserGroup) 
+[📜Slides](2018/Conferences/Bootstrapping a Local C++ User Group - Victor Ciura - ACCU 2018.pdf) 
+[🎞️Video]()  
 
 
 
