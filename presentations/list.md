@@ -66,6 +66,13 @@
 [📜Slides](2018/UG/Clang Power Tools for Visual Studio C++ Developers - Victor Ciura - Oslo C++ UG 2018.pdf) 
 [📷Pictures](2018/UG/pics)   
 
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/)
+#### Pregatirea Interviurilor si Prezentarilor Tehnice
+[💡Abstract](2018/Open4Tech Summer School/Handout2018-Pregatirea-Interviurilor.pdf) 
+[📜Slides](2018/Open4Tech Summer School/Pregatirea Interviurilor si Prezentarilor Tehnice - Open4Tech 2018.pdf) 
+[📷Pictures](2018/Open4Tech Summer School/pics)  
+
 
 
 ---
