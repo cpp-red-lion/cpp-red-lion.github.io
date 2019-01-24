@@ -52,7 +52,12 @@
 [📜Slides](2018/Conferences/Enough string_view to hang ourselves - Victor Ciura - C++Russia 2018.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=RKjvIZQO71c)  
 
+### 🗺️ [NDC Oslo Conference](https://ndcoslo.com), Oslo (Norway)
 
+#### Enough string_view To Hang Ourselves  
+[💡Abstract](2018/Conferences/Enough string_view to hang ourselves - Victor Ciura - NDC Oslo 2018.pdf) 
+[📜Slides](2018/Conferences/Enough string_view to hang ourselves - Victor Ciura - NDC Oslo 2018.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=xC0yn8r3PTQ)  
 
 
 ---
