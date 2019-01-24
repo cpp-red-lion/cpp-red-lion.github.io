@@ -13,11 +13,11 @@
 
 #### Workshop: “Using C++/STL for Competitive Programming and Software Development”
 #### STL Algorithms - Principles and Practice
-[💡Abstract](2018/STL Workshop DCTI/HandoutSTL_DCTI.pdf) 
+[💡Abstract](2019/STL Workshop DCTI/HandoutSTL_DCTI.pdf) 
 📜Slides: 
-[P1](2018/STL Workshop DCTI/STL Algorithms Part1 2018.pdf) 
-[P2](2018/STL Workshop DCTI/STL Algorithms Part2 2018.pdf) 
-[📷Pictures](2018/STL Workshop DCTI/pics)  
+[P1](2019/STL Workshop DCTI/STL Algorithms Part1 2019.pdf) 
+[P2](2019/STL Workshop DCTI/STL Algorithms Part2 2019.pdf) 
+[📷Pictures](2019/STL Workshop DCTI/pics)  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
