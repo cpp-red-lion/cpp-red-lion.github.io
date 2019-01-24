@@ -8,6 +8,18 @@
 ---
 ## 2017
 
+### 🗺️ [Computer Engineering Department](http://ace.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+
+#### Workshop: “Using C++/STL for Competitive Programming and Software Development”
+#### STL Algorithms - Principles and Practice
+[💡Abstract](2017/STL Workshop DCTI/HandoutSTL_DCTI.pdf) 
+📜Slides: 
+[P1](2017/STL Workshop DCTI/STL Algorithms Part1 2017.pdf) 
+[P2](2017/STL Workshop DCTI/STL Algorithms Part2 2017.pdf) 
+[📷Pictures](2017/STL Workshop DCTI/pics)  
+
+xxxx
+
 [💡Abstract](https://x) 
 [📜Slides]() 
 [🎞️Video]()  
