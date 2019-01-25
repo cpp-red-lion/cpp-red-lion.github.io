@@ -14,7 +14,7 @@ It is a fairly big codebase, with over **3 million** lines of C++ code, which pr
 
 One of my "hobbies" is tidying-up and modernizing (C++17) the aging codebase of Advanced Installer and I've been known to build tools that help this process: [Clang Power Tools](http://clangpowertools.com)   
 
-I started this project with some friends, in **2017**.  
+I started this project with some friends, in **2017** and we're having a blast with it.  
 
 Clang Power Tools is a free Visual Studio [extension](https://marketplace.visualstudio.com/items?itemName=caphyon.ClangPowerTools) helping Visual Studio C++ developers leverage [Clang/LLVM](http://releases.llvm.org/download.html) tools (clang++, clang-tidy and clang-format), in order to perform various code transformations and fixes like modernizing code to C++11/14/17 and finding subtle latent bugs with its static analyzer and CppCoreGuidelines checks.  
 
