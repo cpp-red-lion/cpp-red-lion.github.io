@@ -82,25 +82,25 @@
 
 ### 🗺️ [CppCon Conference](https://cppcon.org), Bellevue, WA (USA) 
 
-#### B  
-[💡Abstract]() 
-[📜Slides]() 
-[🎞️Video]()  
+#### Enough string_view To Hang Ourselves  
+[💡Abstract](https://sched.co/FnL6) 
+[📜Slides](2018/Conferences/Enough string_view to hang ourselves - Victor Ciura - CppCon 2018.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=xwP4YCP_0q0)  
 
 #### Regular Types and Why Do I Care  
-[💡Abstract]() 
-[📜Slides]() 
-[🎞️Video]()  
+[💡Abstract](https://sched.co/FnLB) 
+[📜Slides](2018/Conferences/Regular Types and Why Do I Care - Victor Ciura - CppCon 2018.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=h60zqdzIelE)  
 
 #### These Aren't the COM Objects You're Looking For  
-[💡Abstract]() 
-[📜Slides]() 
-[🎞️Video]()  
+[💡Abstract](https://sched.co/FnLF) 
+[📜Slides](2018/Conferences/These Aren't the COM Objects You're Looking For - Victor Ciura - CppCon 2018.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=T_1zutIBHs0)  
 
-#### B  
-[💡Abstract]() 
-[📜Slides]() 
-[🎞️Video]()  
+#### Better Tools in Your Clang Toolbox  
+[💡Abstract](https://sched.co/FnLT) 
+[📜Slides](2018/Conferences/Better Tools in Your Clang Toolbox - Victor Ciura - CppCon 2018.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=4X_fZkl7kkU)  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
 
