@@ -80,7 +80,39 @@
 #### QuickBench [📜Slides](2018/Lightning Talks/QuickBench - Caphyon 2018.pdf) 
 #### Programming Typography [📜Slides](2018/Lightning Talks/Programming Typography - Caphyon 2018.pdf)  
 
+### 🗺️ [CppCon Conference](https://cppcon.org), Bellevue, WA (USA) 
 
+#### B  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Regular Types and Why Do I Care  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### These Aren't the COM Objects You're Looking For  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### B  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
+
+#### Regular Types and Why Do I Care  
+[💡Abstract](https://meetingcpp.com/2018/Talks/items/Regular_Types_and_Why_Do_I_Care__.html) 
+[📜Slides](2018/Conferences/Regular Types and Why Do I Care - Victor Ciura - Meeting C++ 2018.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=SssT4ILAo_w)  
+
+#### These Aren't the COM Objects You're Looking For  
+[💡Abstract](https://meetingcpp.com/2018/Talks/items/These_Aren_t_the_COM_Objects_You_re_Looking_For.html) 
+[📜Slides](2018/Conferences/These Aren't the COM Objects You're Looking For - Victor Ciura - Meeting C++ 2018.pdf) 
+[🎞️Video]()  
 
 ---
 ## 2017
