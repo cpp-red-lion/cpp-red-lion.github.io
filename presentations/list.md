@@ -7,7 +7,7 @@
 #### Better Tools in Your Clang Toolbox: Extending clang-tidy With Your Custom Checks  
 [💡Abstract](https://cpponsea.uk/sessions/better-tools-in-your-clang-toolbox-extending-clang-tidy-with-your-custom-checks.html) 
 [📜Slides](2019/Conferences/Better Tools in Your Clang Toolbox - Victor Ciura - C++ on Sea 2019.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=7CnFrn0-2TQ)  
 
 ### 🗺️ [Computer Engineering Department](http://ace.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 
