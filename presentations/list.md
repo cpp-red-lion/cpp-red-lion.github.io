@@ -112,7 +112,7 @@
 #### These Aren't the COM Objects You're Looking For  
 [💡Abstract](https://meetingcpp.com/2018/Talks/items/These_Aren_t_the_COM_Objects_You_re_Looking_For.html) 
 [📜Slides](2018/Conferences/These Aren't the COM Objects You're Looking For - Victor Ciura - Meeting C++ 2018.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=LiT1ATYoRU0)  
 
 ---
 ## 2017
