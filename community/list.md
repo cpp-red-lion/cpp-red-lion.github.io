@@ -7,12 +7,12 @@ I’m a regular guest at Computer Science Department of my Alma Mater, Universit
 ### [Computer Engineering Department](http://ace.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 
 #### Workshop: “Using C++/STL for Competitive Programming and Software Development”
-#### STL Algorithms - Principles and Practice [📷Pictures](/presentations/2017/STL Workshop DCTI/pics)  
+#### STL Algorithms - Principles and Practice [ 📷 Pictures](/presentations/2017/STL Workshop DCTI/pics)  
 
-Also, during June-July, every year, in collaboration with my friends in academia, I organize and teach a workshop: Open4Tech Summer School for software.
+Also, in June-July every year, in collaboration with my friends in academia, I organize and teach a workshop: Open4Tech Summer School for Software.
 
 ### [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/) [📷Pictures](/presentations/2018/Open4Tech Summer School/pics)  
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/) [ 📷 Pictures](/presentations/2018/Open4Tech Summer School/pics)  
 
 For a complete list of my workshops and presentations, see the [archive](/presentations/list.html).  
 
@@ -30,5 +30,5 @@ Contact: [Meeting C++ contact form](https://meetingcpp.com/mcpp/usergroups/konta
 
 I also founded [Romania C++ User Group](https://www.facebook.com/rocpp/) - the national umbrella user group for all Romanian C++ user groups. It serves as a central hub for information sharing and representation.
 
-Learn more about regional C++ User Groups, on the dedicated ISO C++ [page](https://isocpp.org/wiki/faq/user-groups-worldwide#user-groups-romainia).  
+Learn more about regional C++ User Groups, on the dedicated ISO C++ Organization [page](https://isocpp.org/wiki/faq/user-groups-worldwide#user-groups-romainia).  
 
