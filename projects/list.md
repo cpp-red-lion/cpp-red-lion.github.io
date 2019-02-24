@@ -30,7 +30,6 @@ Contact: [Meeting C++ contact form](https://meetingcpp.com/mcpp/usergroups/konta
 
 ### <img src="https://scontent.fcra1-1.fna.fbcdn.net/v/t31.0-8/23593693_189566621603884_1479922359381367710_o.png?_nc_cat=100&_nc_ht=scontent.fcra1-1.fna&oh=2cf2c009184f30f6ffab695463c6466d&oe=5CDDC748" height="48"> [Romania C++ User Group](https://www.facebook.com/rocpp/)  
 
-I also founded [Romania C++ User Group](https://www.facebook.com/rocpp/) - the national umbrella user group for all Romanian C++ user groups.  
-It serves as a central hub for information sharing and representation.
+I also founded [Romania C++ User Group](https://www.facebook.com/rocpp/) - the national umbrella user group for all Romanian C++ user groups. It serves as a central hub for information sharing and representation.
 
 Learn more about regional C++ User Groups, on the dedicated ISO C++ [page](https://isocpp.org/wiki/faq/user-groups-worldwide#user-groups-romainia).  
