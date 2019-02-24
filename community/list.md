@@ -1,21 +1,18 @@
 # Community
 
-## <img src="http://ace.ucv.ro/images/header/logo_ace.png" height="48"> Free Workshops
+## 🎓 Free Workshops
 
 I’m a regular guest at Computer Science Department of my Alma Mater, University of Craiova, where I give student lectures & workshops on “Using C++/STL for Competitive Programming and Software Development”. 
 
 ### [Computer Engineering Department](http://ace.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 
 #### Workshop: “Using C++/STL for Competitive Programming and Software Development”
-#### STL Algorithms - Principles and Practice
-[📷Pictures](2017/STL Workshop DCTI/pics)  
+#### STL Algorithms - Principles and Practice [📷Pictures](/presentations/2017/STL Workshop DCTI/pics)  
 
 Also, during June-July, every year, in collaboration with my friends in academia, I organize and teach a workshop: Open4Tech Summer School for software.
 
 ### [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/)
-#### Pregatirea Interviurilor si Prezentarilor Tehnice
-[📷Pictures](2018/Open4Tech Summer School/pics)  
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/) [📷Pictures](/presentations/2018/Open4Tech Summer School/pics)  
 
 For a complete list of my workshops and presentations, see the [archive](/presentations/list.html).  
 
