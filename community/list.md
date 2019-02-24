@@ -1,6 +1,6 @@
 # Community
 
-## Free Workshops
+## <img src="http://ace.ucv.ro/images/header/logo_ace.png" height="48"> Free Workshops
 
 I’m a regular guest at Computer Science Department of my Alma Mater, University of Craiova, where I give student lectures & workshops on “Using C++/STL for Competitive Programming and Software Development”. 
 
