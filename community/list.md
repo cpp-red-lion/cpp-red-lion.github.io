@@ -23,7 +23,7 @@ I’m a regular guest at Computer Science Department of my Alma Mater, Universit
 ### [Computer Engineering Department](http://ace.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 
 #### Workshop: “Using C++/STL for Competitive Programming and Software Development”
-#### STL Algorithms - Principles and Practice [ 📷 Pictures](/presentations/2017/STL Workshop DCTI/pics)  
+#### STL Algorithms - Principles and Practice [ 📷 Pictures](/presentations/2019/STL Workshop DCTI/pics)  
 
 Also, in June-July every year, in collaboration with my friends in academia, I organize and teach a workshop: Open4Tech Summer School for Software.
 
