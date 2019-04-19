@@ -24,12 +24,12 @@
 #### Regular Types and Why Do I Care ?  
 [💡Abstract](https://conference.accu.org/2019/sessions.html#XRegularTypesandWhyDoICare) 
 [📜Slides](2019/Conferences/Regular Types and Why Do I Care - Victor Ciura - ACCU 2019.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=OMhzlcBl9Hc)  
 
 #### Fighting Git Workflows  
 [💡Abstract](https://conference.accu.org/2019/sessions.html#XFightingGitWorkflows) 
 [📜Slides](2019/Conferences/Fighting Git Workflows - Victor Ciura - ACCU 2019.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=AgZqYGrAHE8)  
 
 
 ### ...
