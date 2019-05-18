@@ -1,5 +1,7 @@
 # Community
 
+---
+
 ## <img src="https://isocpp.org/files/img/cpp_logo.png" height="48"> C++ User Groups
 
 ### <img src="https://scontent.fcra1-1.fna.fbcdn.net/v/t31.0-8/23845652_1562115550535826_5647555905434815108_o.jpg?_nc_cat=101&_nc_ht=scontent.fcra1-1.fna&oh=fd0d6f872aa2fd33066dbdf201586316&oe=5CF1B757" height="48"> [Craiova C++ User Group](https://www.facebook.com/groups/craiovacpp/)  
