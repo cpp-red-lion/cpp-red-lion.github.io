@@ -31,6 +31,14 @@
 [📜Slides](2019/Conferences/Fighting Git Workflows - Victor Ciura - ACCU 2019.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=AgZqYGrAHE8)  
 
+### Upcoming...  
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract](https://ndctechtown.com/talk/a-short-life-span-for-a-regular-mess/) 
+[📜Slides]() 
+[🎞️Video]()  
 
 ### ...
 
