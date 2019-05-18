@@ -31,7 +31,7 @@
 [📜Slides](2019/Conferences/Fighting Git Workflows - Victor Ciura - ACCU 2019.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=AgZqYGrAHE8)  
 
-### Upcoming...  
+## Upcoming...  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
