@@ -159,6 +159,12 @@
 [📜Slides](2017/Conferences/Bringing Clang-tidy Magic to Visual Studio C++ Developers - Victor Ciura - Meeting C++ 2017.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=BAkdRY9l5pI)  
 
+### 🎙️ [CppCast](http://cppcast.com) 
+
+#### Episode 128: Clang Power Tools with Victor Ciura  
+[🎙️Podcast](http://cppcast.com/2017/11/victor-ciura/) 
+[🎞️Video](https://www.youtube.com/watch?v=qSKHzTGR544)  
+
 ---
 ## 2016
 
