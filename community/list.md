@@ -16,7 +16,7 @@ Learn more about regional C++ User Groups, on the dedicated ISO C++ Organization
 
 ---
 
-## 🎓 Free Workshops (UNI)
+## 🎓 Free Workshops @ UNI
 
 I’m a regular guest at Computer Science Department of my Alma Mater, University of Craiova, where I give student lectures & workshops on “Using C++/STL for Competitive Programming and Software Development”. 
 
