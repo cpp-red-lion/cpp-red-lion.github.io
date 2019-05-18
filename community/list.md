@@ -16,7 +16,9 @@ Learn more about regional C++ User Groups, on the dedicated ISO C++ Organization
 
 ---
 
-## 🎓 Free Workshops @ UNI
+## 🎓 EDU
+
+## Free Workshops @ UNI
 
 I’m a regular guest at Computer Science Department of my Alma Mater, University of Craiova, where I give student lectures & workshops on “Using C++/STL for Competitive Programming and Software Development”. 
 
@@ -31,3 +33,8 @@ Also, in June-July every year, in collaboration with my friends in academia, I o
 #### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/) [ 📷 Pictures](/presentations/2018/Open4Tech Summer School/pics)  
 
 For a complete list of my workshops and presentations, see the [archive](/presentations/list.html).  
+
+## Scholarships
+
+Since 2016, I’ve managed the **Scholarships program** of my employer [CAPHYON](https://www.caphyon.com) where we select students from our local UNI and support them financially to study and participate at international conferences, contests (eg. ACM, ONIS), workshops and award them for outstanding technical research projects.  
+More details about this program on our [blog](https://www.caphyon.ro/burse-private.html) and on the CS Department [bulletin board](http://stud.inf.ucv.ro/2019/04/festivitate-de-premiere-studenti-informaticieni-de-exceptie-2019/)  
