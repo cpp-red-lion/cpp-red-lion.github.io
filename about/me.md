@@ -1,6 +1,6 @@
 # About me
 
-**Victor Ciura** is a _Senior Software Engineer_ at [CAPHYON](https://www.caphyon.com) and _Technical Lead_ on the [Advanced Installer](https://www.advancedinstaller.com) team. Since 2005, he has been designing and implementing several core components and libraries of Advanced Installer.  
+**Victor Ciura** is a _Principal Engineer_ at [CAPHYON](https://www.caphyon.com) and _Technical Lead_ on the [Advanced Installer](https://www.advancedinstaller.com) team. Since 2005, he has been designing and implementing several core components and libraries of Advanced Installer.  
 
 He's a regular guest at Computer Science Department of his _Alma Mater_, [University of Craiova](http://www.ace.ucv.ro), where he gives student lectures & workshops on “Using C++/STL for Competitive Programming and Software Development”.  
 
