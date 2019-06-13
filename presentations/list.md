@@ -31,6 +31,13 @@
 [📜Slides](2019/Conferences/Fighting Git Workflows - Victor Ciura - ACCU 2019.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=AgZqYGrAHE8)  
 
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
+#### Curry On Functional Programming
+[💡Abstract](2019/Open4Tech Summer School/Handout2019-Curry-On-Functional-Programming.pdf) 
+[📜Slides](2019/Open4Tech Summer School/Curry On Functional Programming - Open4Tech 2019.pdf) 
+[📷Pictures](2019/Open4Tech Summer School/pics)  
+
 ## Upcoming...  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
@@ -75,7 +82,7 @@
 [📷Pictures](2018/UG/pics)   
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/)
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school-2018/cursuri.php)
 #### Pregatirea Interviurilor si Prezentarilor Tehnice
 [💡Abstract](2018/Open4Tech Summer School/Handout2018-Pregatirea-Interviurilor.pdf) 
 [📜Slides](2018/Open4Tech Summer School/Pregatirea Interviurilor si Prezentarilor Tehnice - Open4Tech 2018.pdf) 
