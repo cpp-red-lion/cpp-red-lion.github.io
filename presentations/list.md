@@ -35,7 +35,7 @@
 #### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
 #### Curry On Functional Programming
 [💡Abstract](2019/Open4Tech Summer School/Handout2019-Curry-On-Functional-Programming.pdf) 
-[📜Slides]() 
+[📜Slides](2019/Open4Tech Summer School/Curry On Functional Programming - Victor Ciura - Open4Tech 2019.pdf) 
 [📷Pictures](2019/Open4Tech Summer School/pics)  
 
 ## Upcoming...  
