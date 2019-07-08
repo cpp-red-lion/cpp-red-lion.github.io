@@ -47,6 +47,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 
