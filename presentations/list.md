@@ -1,5 +1,30 @@
 # Presentations 
 
+## Upcoming...  
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract](https://ndctechtown.com/talk/a-short-life-span-for-a-regular-mess/) 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Bellevue, WA (USA) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+### ...
+
 ## 2019
 
 ### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
@@ -37,24 +62,6 @@
 [💡Abstract](2019/Open4Tech Summer School/Handout2019-Curry-On-Functional-Programming.pdf) 
 [📜Slides](2019/Open4Tech Summer School/Curry On Functional Programming - Victor Ciura - Open4Tech 2019.pdf) 
 [📷Pictures](2019/Open4Tech Summer School/pics)  
-
-## Upcoming...  
-
-### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
-
-#### A Short Life span<> For A Regular Mess  
-[💡Abstract](https://ndctechtown.com/talk/a-short-life-span-for-a-regular-mess/) 
-[📜Slides]() 
-[🎞️Video]()  
-
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
-
-#### A Short Life span<> For A Regular Mess  
-[💡Abstract]() 
-[📜Slides]() 
-[🎞️Video]()  
-
-### ...
 
 
 ---
