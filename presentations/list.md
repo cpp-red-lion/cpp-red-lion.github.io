@@ -9,7 +9,7 @@
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [CppCon Conference](https://cppcon.org), Bellevue, WA (USA) 
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract]() 
