@@ -12,11 +12,19 @@
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### A Short Life span<> For A Regular Mess  
-[💡Abstract]() 
+[💡Abstract](https://sched.co/SfnZ) 
 [📜Slides]() 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+
+### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract]() 
