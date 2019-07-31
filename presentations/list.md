@@ -71,6 +71,10 @@
 [📜Slides](2019/Open4Tech Summer School/Curry On Functional Programming - Victor Ciura - Open4Tech 2019.pdf) 
 [📷Pictures](2019/Open4Tech Summer School/pics)  
 
+### 🗺️ [CAPHYON](https://www.caphyon.com) ⚡ Lightning Talks, Craiova (Romania) 
+[📷Pictures](2019/Lightning Talks/pics)  
+#### FP in 10 [📜Slides](2019/Lightning Talks/FP in 10 - Victor Ciura - Caphyon 2019.pdf) 
+#### The beginning of the end for begin & end [📜Slides](2019/Lightning Talks/Ranges in 10 - Victor Ciura - Caphyon 2019.pdf) 
 
 ---
 ## 2018
