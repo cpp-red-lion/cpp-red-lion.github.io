@@ -27,7 +27,7 @@
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
 #### A Short Life span<> For A Regular Mess  
-[💡Abstract]() 
+[💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
 [📜Slides]() 
 [🎞️Video]()  
 
