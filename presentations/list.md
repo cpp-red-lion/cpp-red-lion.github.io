@@ -19,7 +19,7 @@
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
 
 #### A Short Life span<> For A Regular Mess  
-[💡Abstract]() 
+[💡Abstract](https://meetingcpp.com/2019/Talks/items/A_Short_Life_span_lt__gt__For_a_Regular_Mess.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
