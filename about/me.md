@@ -1,6 +1,6 @@
 # About me
 
-**Victor Ciura** is a _Principal Engineer_ at [CAPHYON](https://www.caphyon.com), _Technical Lead_ on the [Advanced Installer](https://www.advancedinstaller.com) team and a Microsoft MVP (Developer Technologies). 
+**Victor Ciura** is a _Principal Engineer_ at [CAPHYON](https://www.caphyon.com), _Technical Lead_ on the [Advanced Installer](https://www.advancedinstaller.com) team and a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003461) (Developer Technologies). 
 
 He's a regular guest at Computer Science Department of his _Alma Mater_, [University of Craiova](http://www.ace.ucv.ro), where he gives student lectures & workshops on using C++ STL Algorithms.  
 
