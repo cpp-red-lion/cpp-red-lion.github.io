@@ -76,6 +76,8 @@
 [📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - NDC TechTown 2019.pdf) 
 [🎞️Video]()  
 
+### ...
+
 ---
 ## 2018
 
