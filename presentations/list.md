@@ -2,13 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
-
-#### A Short Life span<> For A Regular Mess  
-[💡Abstract](https://sched.co/SfnZ) 
-[📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - CppCon 2019.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
 
 #### A Short Life span<> For A Regular Mess  
@@ -75,6 +68,14 @@
 [💡Abstract](https://ndctechtown.com/talk/a-short-life-span-for-a-regular-mess/) 
 [📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - NDC TechTown 2019.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=rhFgsrh_3r4)  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract](https://sched.co/SfnZ) 
+[📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - CppCon 2019.pdf) 
+[🎞️Video]()  
+
 
 ### ...
 
