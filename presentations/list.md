@@ -74,7 +74,7 @@
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract](https://sched.co/SfnZ) 
 [📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - CppCon 2019.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=J02S50z5zEo)  
 
 
 ### ...
