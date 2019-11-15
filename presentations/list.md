@@ -6,7 +6,7 @@
 
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract](https://meetingcpp.com/2019/Talks/items/A_Short_Life_span_lt__gt__For_a_Regular_Mess.html) 
-[📜Slides]() 
+[📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - Meeting C++ 2019.pdf) 
 [🎞️Video]()  
 
 
