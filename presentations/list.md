@@ -12,6 +12,11 @@
 
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
+#### Status quo: clang-tidy & AddressSanitizer on Windows  
+[💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
+[📜Slides]() 
+[🎞️Video]()  
+
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
 [📜Slides]() 
