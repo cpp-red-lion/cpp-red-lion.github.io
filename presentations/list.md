@@ -14,12 +14,12 @@
 
 #### Status quo: clang-tidy & AddressSanitizer on Windows  
 [💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
-[📜Slides]() 
+[📜Slides](2019/Conferences/Status quo clang-tidy & AddressSanitizer on Windows - Victor Ciura - code dive 2019.pdf) 
 [🎞️Video]()  
 
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
-[📜Slides]() 
+[📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - code dive 2019.pdf) 
 [🎞️Video]()  
 
 ### ...
