@@ -2,27 +2,16 @@
 
 ## Upcoming...  
 
+## 2020
+
+### ...
+
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
 
 #### A Short Life span<> For A Regular Mess  
 [💡Abstract](https://meetingcpp.com/2019/Talks/items/A_Short_Life_span_lt__gt__For_a_Regular_Mess.html) 
 [📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - Meeting C++ 2019.pdf) 
 [🎞️Video]()  
-
-
-### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
-
-#### Status quo: clang-tidy & AddressSanitizer on Windows  
-[💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
-[📜Slides](2019/Conferences/Status quo clang-tidy & AddressSanitizer on Windows - Victor Ciura - code dive 2019.pdf) 
-[🎞️Video]()  
-
-#### A Short Life span<> For A Regular Mess  
-[💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
-[📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - code dive 2019.pdf) 
-[🎞️Video]()  
-
-### ...
 
 ## 2019
 
@@ -81,8 +70,18 @@
 [📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - CppCon 2019.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=J02S50z5zEo)  
 
+### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
-### ...
+#### Status quo: clang-tidy & AddressSanitizer on Windows  
+[💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
+[📜Slides](2019/Conferences/Status quo clang-tidy & AddressSanitizer on Windows - Victor Ciura - code dive 2019.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=Iz4C29yul2U)  
+
+#### A Short Life span<> For A Regular Mess  
+[💡Abstract](https://codedive.pl/index/speaker/name/victor-ciura) 
+[📜Slides](2019/Conferences/A Short Life span For a Regular Mess - Victor Ciura - code dive 2019.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=JLnnaO8hEbc)  
+
 
 ---
 ## 2018
