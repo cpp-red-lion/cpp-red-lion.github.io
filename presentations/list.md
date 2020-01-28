@@ -16,9 +16,12 @@
 
 ## 2020
 
-### 🗺️ [Advent of Code Meetup](https://www.caphyon.ro/advent-of-code-2019-meetup.html), Craiova (Romania) 
+### 🗺️ [Advent of Code Meetup](https://adventofcode.com), Craiova (Romania) 
+
+#### Pure Functional Patterns in AoC  
+[💡Abstract](https://www.caphyon.ro/advent-of-code-2019-meetup.html) 
+[📜Code](https://github.com/cpp-red-lion/aoc/tree/master/2019/puzzles) 
 [📷Pictures](2020/Meetups/pics)  
-#### Pure Functional Patterns in AoC [📜Code](https://github.com/cpp-red-lion/aoc/tree/master/2019/puzzles) 
 
 ### 🗺️ [CAPHYON](https://www.caphyon.com) ⚡ Lightning Talks, Craiova (Romania) 
 [📷Pictures](2020/Lightning Talks/pics)  
