@@ -21,7 +21,7 @@
 #### Pure Functional Patterns in AoC  
 [💡About](https://www.caphyon.ro/advent-of-code-2019-meetup.html) 
 [📜Code](https://github.com/cpp-red-lion/aoc/tree/master/2019/puzzles) 
-[📷Pictures](2020/Meetups/pics)  
+[📷Pictures](2020/Meetups/Advent of Code)  
 
 ### 🗺️ [CAPHYON](https://www.caphyon.com) ⚡ Lightning Talks, Craiova (Romania) 
 [📷Pictures](2020/Lightning Talks/pics)  
