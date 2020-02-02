@@ -2,6 +2,22 @@
 
 ## Upcoming...  
 
+### 🗺️ [Computer Engineering Department](http://ace.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+
+#### Workshop: “Using C++/STL for Competitive Programming and Software Development”
+#### STL Algorithms - Principles and Practice
+[💡Abstract](2020/STL Workshop DCTI/HandoutSTL_DCTI.pdf) 
+📜Slides: 
+[P1](2020/STL Workshop DCTI/STL Algorithms Part1 2020.pdf) 
+[P2](2020/STL Workshop DCTI/STL Algorithms Part2 2020.pdf) 
+[📷Pictures](2020/STL Workshop DCTI/pics)  
+
+### 🗺️ [MVP Global Summit](https://mvp.microsoft.com/summit), Bellevue/Redmond (US) 
+
+#### It's people. Software is made out of people  
+[💡Meetup](https://mvp.microsoft.com/en-US/Summit/Agenda) 
+[📜Profile](https://mvp.microsoft.com/en-us/PublicProfile/5003461) 
+
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
 #### Avoid Success at All Costs  
@@ -13,6 +29,14 @@
 [💡Abstract]() 
 [📜Slides]() 
 [🎞️Video]()  
+
+### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
+
+#### Avoid Success at All Costs  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 
 ## 2020
 
