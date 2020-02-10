@@ -50,7 +50,7 @@
 ### 🗺️ [CAPHYON](https://www.caphyon.com) ⚡ Lightning Talks, Craiova (Romania) 
 [📷Pictures](2020/Lightning Talks/pics)  
 #### Crazy Machines, Crazy Developers [📜Slides](2020/Lightning Talks/Code Alignment - Caphyon Lightning Talk 2020.pdf) 
-
+#### Heavy Lifting [📜Slides](2020/Lightning Talks/Heavy Lifting - Caphyon Lightning Talk.pdf) 
 
 ### ...
 
