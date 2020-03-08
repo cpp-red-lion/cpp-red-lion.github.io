@@ -21,9 +21,9 @@ Learn more about regional C++ User Groups, on the dedicated ISO C++ Organization
 ## <img src="https://ciura.ro/img/aoc.png" height="64"> Advent of Code Meetup
 
 Since 2018, I'm the organizer of the local group of programmers solving the [Advent of Code](https://adventofcode.com/) challenges.  
-Advent of Code is an anual programming challenge created by [Eric Wastl](https://twitter.com/ericwastl) consisting of a set of 25 Christmas themed puzzles, one each day, starting from December 1st, each year. The puzzles make up a story arc and build on each other, challenging programmers to solve them using the programming languages/tools of their choice. Some of them are casual/quick to solve, some are really tough algorithmic problems, but the experience of solving all of them makes each month of December pass by quickly and we have a lot of fun 🤓.   
+Advent of Code is an annual programming challenge created by [Eric Wastl](https://twitter.com/ericwastl) consisting of a set of 25 Christmas themed puzzles, one each day, starting from December 1st, each year. The puzzles make up a story arc and build on each other, challenging programmers to solve them using the programming languages/tools of their choice. Some of them are casual/quick to solve, some are really tough algorithmic problems, but the experience of solving all of them makes each month of December pass by quickly and we have a lot of fun 🤓.   
   
-Every January, after the hollidays, I [organize a meetup](https://www.caphyon.ro/advent-of-code-2019-meetup.html) wehere we spend a few hours together and share stories and code about our challenges in solving the Advent of Code puzzles.  
+Every January, after the holidays, I [organize a meetup](https://www.caphyon.ro/advent-of-code-2019-meetup.html) where we spend a few hours together and share stories and code about our challenges in solving the Advent of Code puzzles.  
 Here are a few pictures from our last meetup, in January 2020: [AoC Meetup](https://ciura.ro/presentations/2020/Meetups/Advent%20of%20Code/)
 
 ---
