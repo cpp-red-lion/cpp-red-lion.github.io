@@ -14,10 +14,15 @@
 ![](IMG_0262.jpeg)  
 
 ## Part 2  
+(online live video lecture, due to COVID-19 pandemic)  
 
-![](IMG_XXX.jpeg)  
-![](IMG_XXX.jpeg)  
-![](IMG_XXX.jpeg)  
-![](IMG_XXX.jpeg)  
-![](IMG_XXX.jpeg)  
-
+![](IMG_2598.jpeg)  
+![](IMG_2591.jpeg)  
+![](IMG_2587.jpeg)  
+![](IMG_2605.jpeg)  
+![](IMG_2593.jpeg)  
+![](IMG_2597.jpeg)  
+![](IMG_2607.jpeg)  
+![](IMG_2608.jpeg)  
+![](IMG_2603.jpeg)  
+![](IMG_2600.jpeg)  
