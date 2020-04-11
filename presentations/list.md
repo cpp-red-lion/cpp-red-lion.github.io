@@ -42,7 +42,7 @@
 [📜Profile](https://mvp.microsoft.com/en-us/PublicProfile/5003461) 
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
-*Cancelled because of COVID-19 pandemic:* [Info](https://conference.accu.org/news/2020/202003121205_accu2020cancelled.html)  
+*Cancelled because of COVID-19 pandemic:* [Info](https://conference.accu.org/news/202003121205_accu2020cancelled/)  
 
 #### Avoid Success at All Costs  
 [💡Abstract](https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Entry.ItemPage.8519.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) 
