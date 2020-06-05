@@ -3,6 +3,7 @@
 ## Upcoming...  
 
 ### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
+*Rescheduled online because of COVID-19 pandemic:* [Info](https://cpponsea.uk/news/new-dates-for-the-2020-online-event.html) 
 
 #### Avoid Success at All Costs  
 [💡Abstract]() 
@@ -36,6 +37,7 @@
 [📷Pictures](2020/STL Workshop DCTI/pics)  
 
 ### 🗺️ [MVP Global Summit](https://mvp.microsoft.com/summit), Bellevue/Redmond (US) 
+*Online private event because of COVID-19 pandemic.  
 
 #### It's people. Software is made out of people  
 [💡Meetup](https://mvp.microsoft.com/en-US/Summit/Agenda) 
