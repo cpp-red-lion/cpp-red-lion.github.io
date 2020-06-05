@@ -37,7 +37,7 @@
 [📷Pictures](2020/STL Workshop DCTI/pics)  
 
 ### 🗺️ [MVP Global Summit](https://mvp.microsoft.com/summit), Bellevue/Redmond (US) 
-*Online private event because of COVID-19 pandemic.  
+*Online private event because of COVID-19 pandemic.*  
 
 #### It's people. Software is made out of people  
 [💡Meetup](https://mvp.microsoft.com/en-US/Summit/Agenda) 
