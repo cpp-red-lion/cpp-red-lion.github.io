@@ -6,7 +6,7 @@
 *Rescheduled online because of COVID-19 pandemic:* [Info](https://cpponsea.uk/news/new-dates-for-the-2020-online-event.html) 
 
 #### Avoid Success at All Costs  
-[💡Abstract]() 
+[💡Abstract](https://cpponsea.uk/news/announcing-speakers-for-2020.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
