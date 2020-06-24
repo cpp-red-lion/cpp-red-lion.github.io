@@ -2,6 +2,13 @@
 
 ## Upcoming...  
 
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
+#### C++17/20 STL Essentials
+[💡Abstract](2020/Open4Tech Summer School/Handout2020-Cpp17-STL-Essentials.pdf) 
+[📜Slides](2020/Open4Tech Summer School/xxx - Victor Ciura - Open4Tech 2020.pdf) 
+[📷Pictures](2020/Open4Tech Summer School/pics)  
+
 ### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
 *Rescheduled online because of COVID-19 pandemic:* [Info](https://cpponsea.uk/news/new-dates-for-the-2020-online-event.html) 
 
@@ -93,7 +100,7 @@
 [🎞️Video](https://www.youtube.com/watch?v=AgZqYGrAHE8)  
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school-2019/cursuri.php)
 #### Curry On Functional Programming
 [💡Abstract](2019/Open4Tech Summer School/Handout2019-Curry-On-Functional-Programming.pdf) 
 [📜Slides](2019/Open4Tech Summer School/Curry On Functional Programming - Victor Ciura - Open4Tech 2019.pdf) 
