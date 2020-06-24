@@ -4,7 +4,7 @@
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
-#### C++17/20 STL Essentials
+#### C++17/20 STL Essentials *(online)*
 [💡Abstract](2020/Open4Tech Summer School/Handout2020-Cpp17-STL-Essentials.pdf) 
 [📜Slides](2020/Open4Tech Summer School/xxx - Victor Ciura - Open4Tech 2020.pdf) 
 [📷Pictures](2020/Open4Tech Summer School/pics)  
