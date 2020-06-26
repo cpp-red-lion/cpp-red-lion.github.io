@@ -2,20 +2,7 @@
 
 ## Upcoming...  
 
-### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
-#### C++17/20 STL Essentials *(online)*
-[💡Abstract](2020/Open4Tech Summer School/Handout2020-Cpp17-STL-Essentials.pdf) 
-[📜Slides](2020/Open4Tech Summer School/xxx - Victor Ciura - Open4Tech 2020.pdf) 
-[📷Pictures](2020/Open4Tech Summer School/pics)  
-
-### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
-*Rescheduled online because of COVID-19 pandemic:* [Info](https://cpponsea.uk/news/new-dates-for-the-2020-online-event.html) 
-
-#### Avoid Success at All Costs  
-[💡Abstract](https://cpponsea.uk/news/announcing-speakers-for-2020.html) 
-[📜Slides]() 
-[🎞️Video]()  
+...  
 
 
 ## 2020
@@ -63,6 +50,20 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
+#### C++17/20 STL Essentials *(online)*
+[💡Abstract](2020/Open4Tech Summer School/Handout2020-Cpp17-STL-Essentials.pdf) 
+[📜Slides](2020/Open4Tech Summer School/Cpp STL Essentials - Victor Ciura - Open4Tech 2020.pdf) 
+[📷Pictures](2020/Open4Tech Summer School/pics)  
+
+### 🗺️ [C++ on Sea Conference](https://cpponsea.uk), Folkestone, Kent (UK) 
+*Rescheduled online because of COVID-19 pandemic:* [Info](https://cpponsea.uk/news/new-dates-for-the-2020-online-event.html) 
+
+#### Avoid Success at All Costs  
+[💡Abstract](https://cpponsea.uk/news/announcing-speakers-for-2020.html) 
+[📜Slides]() 
+[🎞️Video]()  
 
 ### ...
 
