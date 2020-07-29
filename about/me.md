@@ -8,5 +8,5 @@ Since 2005, he has been designing and implementing several core components and l
 
 One of his "hobbies" is tidying-up and modernizing (C++17) the aging codebase of Advanced Installer and has been known to build tools that help this process: [Clang Power Tools](http://clangpowertools.com)   
 
-More details: [@ciura_victor](https://twitter.com/ciura_victor) & [https://ciura.ro](https://ciura.ro)
+More details: [@ciura_victor](https://twitter.com/ciura_victor) & [https://ciura.ro](https://ciura.ro) & [linkedin.com/victor-ciura](https://www.linkedin.com/in/victor-ciura/)
 
