@@ -2,6 +2,14 @@
 
 ## Upcoming...  
 
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+*Online event because of COVID-19 pandemic.* 
+
+#### 2020: The Year of Sanitizers?  
+[💡Abstract](https://sched.co/zzz) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ...  
 
 
