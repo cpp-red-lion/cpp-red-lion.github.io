@@ -6,15 +6,15 @@
 *Online event because of COVID-19 pandemic.* 
 
 #### 2020: The Year of Sanitizers?  
-[💡Abstract](https://sched.co/zzz) 
+[💡Abstract](https://sched.co/e7BN) 
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com), Berlin (Germany) 
+### 🗺️ [Meeting C++ Conference](http://meetingcpp.com/mcpp/online/conference.php), ONLINE 
 *Online event because of COVID-19 pandemic.* 
 
 #### 2020: The Year of Sanitizers?  
-[💡Abstract]() 
+[💡Abstract](http://meetingcpp.com/mcpp/online/talkview.php?tid=23) 
 [📜Slides]() 
 [🎞️Video]()  
 
