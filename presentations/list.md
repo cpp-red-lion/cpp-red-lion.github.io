@@ -7,7 +7,7 @@
 
 #### 2020: The Year of Sanitizers?  
 [💡Abstract](https://sched.co/e7BN) 
-[📜Slides]() 
+[📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - CppCon 2020.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](http://meetingcpp.com/mcpp/online/conference.php), ONLINE 
