@@ -15,7 +15,7 @@
 
 #### 2020: The Year of Sanitizers?  
 [💡Abstract](http://meetingcpp.com/mcpp/online/talkview.php?tid=23) 
-[📜Slides]() 
+[📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - Meeting C++ 2020.pdf) 
 [🎞️Video]()  
 
 ...  
