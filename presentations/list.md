@@ -10,7 +10,7 @@
 [📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - CppCon 2020.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=xEzfnbTabyE)  
 
-### 🗺️ [Meeting C++ Conference](http://meetingcpp.com/mcpp/online/conference.php), ONLINE 
+### 🗺️ [Meeting C++ Conference](http://meetingcpp.com), ONLINE 
 *Online event because of COVID-19 pandemic.* 
 
 #### 2020: The Year of Sanitizers?  
