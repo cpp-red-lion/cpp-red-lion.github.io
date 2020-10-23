@@ -2,21 +2,14 @@
 
 ## Upcoming...  
 
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/mcpp/online/), December 3rd
 *Online event because of COVID-19 pandemic.* 
 
-#### 2020: The Year of Sanitizers?  
-[💡Abstract](https://sched.co/e7BN) 
-[📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - CppCon 2020.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=xEzfnbTabyE)  
-
-### 🗺️ [Meeting C++ Conference](http://meetingcpp.com), ONLINE 
-*Online event because of COVID-19 pandemic.* 
-
-#### 2020: The Year of Sanitizers?  
-[💡Abstract](http://meetingcpp.com/mcpp/online/talkview.php?tid=23) 
-[📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - Meeting C++ 2020.pdf) 
+#### Symbolism: Rainbows and Crashes  
+[💡Abstract](https://meetingcpp.com/mcpp/online/talkview.php?tid=26) 
+[📜Slides]() 
 [🎞️Video]()  
+
 
 ...  
 
@@ -79,6 +72,23 @@
 [💡Abstract](https://cpponsea.uk/news/announcing-speakers-for-2020.html) 
 [📜Slides]() 
 [🎞️Video]()  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+*Online event because of COVID-19 pandemic.* 
+
+#### 2020: The Year of Sanitizers?  
+[💡Abstract](https://sched.co/e7BN) 
+[📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - CppCon 2020.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=xEzfnbTabyE)  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/mcpp/online/), September 24th
+*Online event because of COVID-19 pandemic.* 
+
+#### 2020: The Year of Sanitizers?  
+[💡Abstract](http://meetingcpp.com/mcpp/online/talkview.php?tid=23) 
+[📜Slides](2020/Conferences/2020 The Year of Sanitizers - Victor Ciura - Meeting C++ 2020.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=yK_7XHEXPIc)  
+
 
 ### ...
 
