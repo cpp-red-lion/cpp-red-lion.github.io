@@ -7,7 +7,7 @@
 
 #### Symbolism: Rainbows and Crashes  
 [💡Abstract](https://meetingcpp.com/mcpp/online/talkview.php?tid=26) 
-[📜Slides]() 
+[📜Slides](2020/Conferences/Symbolism - Rainbows and Crashes - Victor Ciura - Meeting C++ 2020.pdf) 
 [🎞️Video]()  
 
 
