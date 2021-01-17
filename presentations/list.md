@@ -16,13 +16,15 @@
 [🎞️Video]()  
 
 
+...
+
 ---
 ## 2021
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Open4Tech Guest Lecture: Chasing Nodes
 [💡Abstract](2021/Open4Tech/Handout2021-Chasing-Nodes.pdf) 
-[📜Slides](2021/Open4Tech/Chasing Nodes - Victor Ciura - Open4Tech 2021.pdf) 
+[📜Slides]() 
 [📷Pictures](2021/Open4Tech/pics)  
 
 
