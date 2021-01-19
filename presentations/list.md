@@ -6,12 +6,12 @@
 *Online event because of COVID-19 pandemic.*  
 
 #### AddressSanitizer on Windows  
-[💡Abstract]() 
+[💡Abstract](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12096.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### C++ UNIverse  
-[💡Abstract]() 
+[💡Abstract](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12138.0.EntryDefinition.8e89b843-c55c-4fd7-9083-2ba315b40166) 
 [📜Slides]() 
 [🎞️Video]()  
 
