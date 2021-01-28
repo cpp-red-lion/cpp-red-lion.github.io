@@ -2,7 +2,7 @@
 
 ## Upcoming in 2021 ...  
 
-### 🎙 [C++ Mythbusting with Victor and Jason](https://www.youtube.com/watch?v=Bu1AEze14Ns), Cᐩᐩ Weekly With Jason Turner 
+### 🎙 [C++ Mythbusting with Victor and Jason](https://www.youtube.com/watch?v=Bu1AEze14Ns), C++ Weekly with Jason Turner 
 [🎞️Video](https://www.youtube.com/watch?v=Bu1AEze14Ns)  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
