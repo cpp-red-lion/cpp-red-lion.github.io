@@ -4,7 +4,7 @@
 
 ### <img src="http://cppcast.com/img/logo@2x.png" height="32"> [CppCast Interview #2](http://cppcast.com)  
 
-#### Episode 2xx: C++ Mythbusting &amp; Clang Power Tools with Victor Ciura  
+#### Episode 285: C++ Mythbusting &amp; Clang Power Tools with Victor Ciura  
 [🎙️Podcast]() 
 [🎞️Video]()  
 
