@@ -4,9 +4,9 @@
 
 ### <img src="http://cppcast.com/img/logo@2x.png" height="32"> [CppCast Interview #2](http://cppcast.com)  
 
-#### Episode 285: C++ Mythbusting &amp; Clang Power Tools with Victor Ciura  
-[🎙️Podcast]() 
-[🎞️Video]()  
+#### Episode 285: C++ Mythbusting &amp; Clang Power Tools  
+[🎙️Podcast](https://cppcast.com/clang-power-tools-myths/) 
+[🎞️Video](https://www.youtube.com/watch?v=2Wx1U7OuItU)  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 *Online event because of COVID-19 pandemic.*  
