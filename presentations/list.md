@@ -2,12 +2,6 @@
 
 ## Upcoming in 2021 ...  
 
-### <img src="http://cppcast.com/img/logo@2x.png" height="32"> [CppCast Interview #2](http://cppcast.com)  
-
-#### Episode 285: C++ Mythbusting &amp; Clang Power Tools  
-[🎙️Podcast](https://cppcast.com/clang-power-tools-myths/) 
-[🎞️Video](https://www.youtube.com/watch?v=2Wx1U7OuItU)  
-
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 *Online event because of COVID-19 pandemic.*  
 
@@ -35,7 +29,13 @@
 [🎞️Video](https://www.amazon.com/clouddrive/share/GjLhqVxEN39saYV1pYFKCpJuKofsKDrzHlhW24tKbBC)  
 
 ### 📡 [C++ Mythbusting with Victor and Jason](https://www.youtube.com/watch?v=Bu1AEze14Ns), C++ Weekly with Jason Turner 
-[🎞️Video](https://www.youtube.com/watch?v=Bu1AEze14Ns)  
+[🎞️Video Stream](https://www.youtube.com/watch?v=Bu1AEze14Ns)  
+
+### <img src="http://cppcast.com/img/logo@2x.png" height="32"> [CppCast Interview #2](http://cppcast.com)  
+
+#### Episode 285: C++ Mythbusting &amp; Clang Power Tools  
+[🎙️Podcast](https://cppcast.com/clang-power-tools-myths/) 
+[🎞️Video](https://www.youtube.com/watch?v=2Wx1U7OuItU)  
 
 ### ...
 
