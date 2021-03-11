@@ -12,7 +12,7 @@
 
 #### C++ UNIverse  
 [💡Abstract](2021/Conferences/ACCU2021.pdf) 
-[📜Slides]() 
+[📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - ACCU 2021.pdf) 
 [🎞️Video]()  
 
 
