@@ -2,6 +2,14 @@
 
 ## Upcoming in 2021 ...  
 
+### 🗺️ [Italian C++ Conference](https://www.italiancpp.org), Italy 
+*Online event because of COVID-19 pandemic.*  
+
+#### The Quest For A Better Crash  
+[💡Abstract](2021/Conferences/Abstract - The Quest For A Better Crash - Victor Ciura - Italian C++ 2021.pdf) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 *Online event because of COVID-19 pandemic.*  
 
