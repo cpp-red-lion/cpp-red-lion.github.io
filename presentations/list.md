@@ -2,7 +2,7 @@
 
 ## Upcoming in 2021 ...  
 
-### 🗺️ [C++ Now](https://cppnow.org), Apen, US 
+### 🗺️ [C++ Now](https://cppnow.org), Aspen, US 
 *Online event because of COVID-19 pandemic.*  
 
 #### The Quest For A Better Crash  
