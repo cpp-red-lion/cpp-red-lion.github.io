@@ -2,25 +2,20 @@
 
 ## Upcoming in 2021 ...  
 
+### 🗺️ [C++ Now](https://cppnow.org), Apen, US 
+*Online event because of COVID-19 pandemic.*  
+
+#### The Quest For A Better Crash  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [Italian C++ Conference](https://www.italiancpp.org), Italy 
 *Online event because of COVID-19 pandemic.*  
 
 #### The Quest For A Better Crash  
 [💡Abstract](2021/Conferences/Abstract - The Quest For A Better Crash - Victor Ciura - Italian C++ 2021.pdf) 
 [📜Slides]() 
-[🎞️Video]()  
-
-### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
-*Online event because of COVID-19 pandemic.*  
-
-#### AddressSanitizer on Windows  
-[💡Abstract](2021/Conferences/ACCU2021.pdf) 
-[📜Slides](2021/Conferences/AddressSanitizer on Windows - Victor Ciura - ACCU 2021.pdf) 
-[🎞️Video]()  
-
-#### C++ UNIverse  
-[💡Abstract](2021/Conferences/ACCU2021.pdf) 
-[📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - ACCU 2021.pdf) 
 [🎞️Video]()  
 
 
@@ -44,6 +39,20 @@
 #### Episode 285: C++ Mythbusting &amp; Clang Power Tools  
 [🎙️Podcast](https://cppcast.com/clang-power-tools-myths/) 
 [🎞️Video](https://www.youtube.com/watch?v=2Wx1U7OuItU)  
+
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+*Online event because of COVID-19 pandemic.*  
+
+#### AddressSanitizer on Windows  
+[💡Abstract](2021/Conferences/ACCU2021.pdf) 
+[📜Slides](2021/Conferences/AddressSanitizer on Windows - Victor Ciura - ACCU 2021.pdf) 
+[🎞️Video]()  
+
+#### C++ UNIverse  
+[💡Abstract](2021/Conferences/ACCU2021.pdf) 
+[📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - ACCU 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=q0NJDr5hlWA)  
+
 
 ### ...
 
