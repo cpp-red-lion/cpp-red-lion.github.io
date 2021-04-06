@@ -46,7 +46,7 @@
 #### AddressSanitizer on Windows  
 [💡Abstract](2021/Conferences/ACCU2021.pdf) 
 [📜Slides](2021/Conferences/AddressSanitizer on Windows - Victor Ciura - ACCU 2021.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=yJLyANPHNaA)  
 
 #### C++ UNIverse  
 [💡Abstract](2021/Conferences/ACCU2021.pdf) 
