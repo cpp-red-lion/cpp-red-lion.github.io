@@ -6,15 +6,15 @@
 *Online event because of COVID-19 pandemic.*  
 
 #### The Quest For A Better Crash  
-[💡Abstract]() 
+[💡Abstract](https://sched.co/hhk9) 
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [Italian C++ Conference](https://www.italiancpp.org), Italy 
+### 🗺️ [Italian C++ Conference](https://italiancpp.github.io), Italy 
 *Online event because of COVID-19 pandemic.*  
 
 #### The Quest For A Better Crash  
-[💡Abstract](2021/Conferences/Abstract - The Quest For A Better Crash - Victor Ciura - Italian C++ 2021.pdf) 
+[💡Abstract](https://italiancpp.github.io/#speaker_id_Victor_Ciura) 
 [📜Slides]() 
 [🎞️Video]()  
 
