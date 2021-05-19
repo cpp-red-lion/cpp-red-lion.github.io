@@ -2,6 +2,13 @@
 
 ## Upcoming in 2021 ...  
 
+### 🗺️ [Advanced Installer Webinar](https://www.advancedinstaller.com)  
+
+#### Repackaging in Docker Containers  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [Italian C++ Conference](https://italiancpp.github.io), Italy 
 *Online event because of COVID-19 pandemic.*  
 
