@@ -2,14 +2,6 @@
 
 ## Upcoming in 2021 ...  
 
-### 🗺️ [C++ Now](https://cppnow.org), Aspen, US 
-*Online event because of COVID-19 pandemic.*  
-
-#### The Quest For A Better Crash  
-[💡Abstract](https://sched.co/hhk9) 
-[📜Slides](2021/Conferences/The Quest For A Better Crash - Victor Ciura - C++ Now 2021.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Italian C++ Conference](https://italiancpp.github.io), Italy 
 *Online event because of COVID-19 pandemic.*  
 
@@ -18,6 +10,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
+*Online event because of COVID-19 pandemic.*  
+
+#### Exceptional C++  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
 
 ...
 
@@ -53,6 +52,13 @@
 [📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - ACCU 2021.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=q0NJDr5hlWA)  
 
+### 🗺️ [C++ Now](https://cppnow.org), Aspen, US 
+*Online event because of COVID-19 pandemic.*  
+
+#### The Quest For A Better Crash  
+[💡Abstract](https://sched.co/hhk9) 
+[📜Slides](2021/Conferences/The Quest For A Better Crash - Victor Ciura - C++ Now 2021.pdf) 
+[🎞️Video]()  
 
 ### ...
 
