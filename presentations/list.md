@@ -21,7 +21,7 @@
 *Online event because of COVID-19 pandemic.*  
 
 #### Exceptional C++  
-[💡Abstract]() 
+[💡Abstract](https://cpponsea.uk/2021/sessions/exceptional-cpp.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
