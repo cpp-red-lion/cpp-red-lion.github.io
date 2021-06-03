@@ -5,8 +5,8 @@
 ### 🗺️ [Advanced Installer Webinar](https://www.advancedinstaller.com)  
 
 #### Repackaging in Docker Containers  
-[💡Abstract]() 
-[📜Slides]() 
+[💡Abstract](2021/Webinars/Abstract - Repackaging in Docker Containers - Victor Ciura - Advanced Installer 2021.pdf) 
+[📜Slides](2021/Webinars/Repackaging in Docker Containers - Victor Ciura - Advanced Installer 2021.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Italian C++ Conference](https://italiancpp.github.io), Italy 
