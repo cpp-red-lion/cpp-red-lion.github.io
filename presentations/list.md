@@ -2,12 +2,6 @@
 
 ## Upcoming in 2021 ...  
 
-### 🗺️ [Advanced Installer Webinar](https://www.advancedinstaller.com)  
-
-#### Repackaging in Docker Containers  
-[💡Abstract](2021/Webinars/Abstract - Repackaging in Docker Containers - Victor Ciura - Advanced Installer 2021.pdf) 
-[📜Slides](2021/Webinars/Repackaging in Docker Containers - Victor Ciura - Advanced Installer 2021.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=K5miKfViL8c)  
 
 ### 🗺️ [Italian C++ Conference](https://italiancpp.github.io), Italy 
 *Online event because of COVID-19 pandemic.*  
@@ -16,6 +10,13 @@
 [💡Abstract](https://italiancpp.github.io/#speaker_id_Victor_Ciura) 
 [📜Slides]() 
 [🎞️Video]()  
+
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
+#### So You Think You Can \# *(online)*
+[💡Abstract](2021/Open4Tech Summer School/Abstract - So You Think You Can Hash.pdf) 
+[📜Slides]() 
+[📷Pictures](2021/Open4Tech Summer School/pics)  
 
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
 *Online event because of COVID-19 pandemic.*  
@@ -66,6 +67,14 @@
 [💡Abstract](https://sched.co/hhk9) 
 [📜Slides](2021/Conferences/The Quest For A Better Crash - Victor Ciura - C++ Now 2021.pdf) 
 [🎞️Video]()  
+
+### 🗺️ [Advanced Installer Webinar](https://www.advancedinstaller.com)  
+
+#### Repackaging in Docker Containers  
+[💡Abstract](2021/Webinars/Abstract - Repackaging in Docker Containers - Victor Ciura - Advanced Installer 2021.pdf) 
+[📜Slides](2021/Webinars/Repackaging in Docker Containers - Victor Ciura - Advanced Installer 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=K5miKfViL8c)  
+
 
 ### ...
 
