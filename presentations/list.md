@@ -13,7 +13,7 @@
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
-#### So You Think You Can \# *(online)*
+#### So You Think You Can \# 
 [💡Abstract](2021/Open4Tech Summer School/Abstract - So You Think You Can Hash.pdf) 
 [📜Slides]() 
 [📷Pictures](2021/Open4Tech Summer School/pics)  
