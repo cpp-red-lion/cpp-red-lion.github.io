@@ -8,7 +8,7 @@
 
 #### The Quest For A Better Crash  
 [💡Abstract](https://italiancpp.github.io/#speaker_id_Victor_Ciura) 
-[📜Slides]() 
+[📜Slides](2021/Conferences/The Quest For A Better Crash - Victor Ciura - Italian C++ 2021.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
