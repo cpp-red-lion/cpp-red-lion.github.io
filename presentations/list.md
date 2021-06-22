@@ -57,7 +57,7 @@
 #### The Quest For A Better Crash  
 [💡Abstract](https://sched.co/hhk9) 
 [📜Slides](2021/Conferences/The Quest For A Better Crash - Victor Ciura - C++ Now 2021.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=pJPRdNTxL-E)  
 
 ### 🗺️ [Advanced Installer Webinar](https://www.advancedinstaller.com)  
 
