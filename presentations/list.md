@@ -14,7 +14,7 @@
 
 #### Exceptional C++  
 [💡Abstract](https://cpponsea.uk/2021/sessions/exceptional-cpp.html) 
-[📜Slides]() 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - C++ On Sea 2021.pdf) 
 [🎞️Video]()  
 
 ...
