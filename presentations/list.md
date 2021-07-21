@@ -2,20 +2,6 @@
 
 ## Upcoming in 2021 ...  
 
-### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
-#### So You Think You Can \# 
-[💡Abstract](2021/Open4Tech Summer School/Abstract - So You Think You Can Hash.pdf) 
-[📜Slides](2021/Open4Tech Summer School/So You Think You Can Hash.pdf) 
-[📷Pictures](2021/Open4Tech Summer School/pics)  
-
-### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
-*Online event because of COVID-19 pandemic.*  
-
-#### Exceptional C++  
-[💡Abstract](https://cpponsea.uk/2021/sessions/exceptional-cpp.html) 
-[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - C++ On Sea 2021.pdf) 
-[🎞️Video]()  
 
 ...
 
@@ -73,6 +59,21 @@
 [💡Abstract](https://italiancpp.github.io/#speaker_id_Victor_Ciura) 
 [📜Slides](2021/Conferences/The Quest For A Better Crash - Victor Ciura - Italian C++ 2021.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=uvVN3L1sjyw)  
+
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
+#### So You Think You Can \# 
+[💡Abstract](2021/Open4Tech Summer School/Abstract - So You Think You Can Hash.pdf) 
+[📜Slides](2021/Open4Tech Summer School/So You Think You Can Hash.pdf) 
+[📷Pictures](2021/Open4Tech Summer School/pics)  
+
+### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
+*Online event because of COVID-19 pandemic.*  
+
+#### Exceptional C++  
+[💡Abstract](https://cpponsea.uk/2021/sessions/exceptional-cpp.html) 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - C++ On Sea 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=hIpE0IZz6F8)  
 
 ### ...
 
