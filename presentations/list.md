@@ -2,6 +2,11 @@
 
 ## Upcoming in 2021 ...  
 
+### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
+#### C++ 🎓 UNIverse: Teaching C++  
+[💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/279469112/) 
+[📜Slides]() 
+[🎞️Video]()  
 
 ...
 
