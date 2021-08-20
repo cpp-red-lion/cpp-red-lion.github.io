@@ -2,10 +2,12 @@
 
 ## Upcoming in 2021 ...  
 
-### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
-#### C++ 🎓 UNIverse: Teaching C++  
-[💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/279469112/) 
-[📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - Meeting C++ 2021.pdf) 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany)
+*Online event because of COVID-19 pandemic.* 
+
+#### Exceptional C++   
+[💡Abstract]() 
+[📜Slides]() 
 [🎞️Video]()  
 
 ...
@@ -79,6 +81,12 @@
 [💡Abstract](https://cpponsea.uk/2021/sessions/exceptional-cpp.html) 
 [📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - C++ On Sea 2021.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=hIpE0IZz6F8)  
+
+### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
+#### C++ 🎓 UNIverse: Teaching C++  
+[💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/279469112/) 
+[📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - Meeting C++ 2021.pdf) 
+[🎞️Video]()  
 
 ### ...
 
