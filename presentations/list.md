@@ -2,11 +2,23 @@
 
 ## Upcoming in 2021 ...  
 
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### Exceptional C++   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Spooky Action at a Distance   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany)
 *Online event because of COVID-19 pandemic.* 
 
 #### Exceptional C++   
-[💡Abstract]() 
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=91) 
 [📜Slides]() 
 [🎞️Video]()  
 
