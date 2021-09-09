@@ -98,7 +98,7 @@
 #### C++ 🎓 UNIverse: Teaching C++  
 [💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/279469112/) 
 [📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - Meeting C++ 2021.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=0zcIlbK0ihI)  
 
 ### ...
 
