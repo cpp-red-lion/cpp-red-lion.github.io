@@ -22,6 +22,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany)
+
+#### Spooky Action at a Distance   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ...
 
 ---
