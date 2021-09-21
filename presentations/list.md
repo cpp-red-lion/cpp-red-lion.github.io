@@ -14,15 +14,14 @@
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany)
-*Online event because of COVID-19 pandemic.* 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
 
 #### Exceptional C++   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=91) 
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany)
+### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany) 
 
 #### Spooky Action at a Distance   
 [💡Abstract]() 
