@@ -5,12 +5,12 @@
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### Exceptional C++   
-[💡Abstract]() 
+[💡Abstract](https://sched.co/nv2W) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### Spooky Action at a Distance   
-[💡Abstract]() 
+[💡Abstract](https://sched.co/nv4f) 
 [📜Slides]() 
 [🎞️Video]()  
 
