@@ -6,12 +6,12 @@
 
 #### Exceptional C++   
 [💡Abstract](https://sched.co/nv2W) 
-[📜Slides]() 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CppCon 2021.pdf) 
 [🎞️Video]()  
 
 #### Spooky Action at a Distance   
 [💡Abstract](https://sched.co/nv4f) 
-[📜Slides]() 
+[📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - CppCon 2021.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
