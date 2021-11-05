@@ -24,7 +24,7 @@
 ### 🗺️ [CPPP Conference](https://cppp.fr), Paris (France) 
 
 #### Exceptional C++   
-[💡Abstract]() 
+[💡Abstract](https://cppp.fr/schedule2021/#session-207) 
 [📜Slides]() 
 [🎞️Video]()  
 
