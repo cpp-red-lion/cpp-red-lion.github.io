@@ -18,7 +18,7 @@
 
 #### Exceptional C++   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=91) 
-[📜Slides]() 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - Meeting C++ 2021.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [CPPP Conference](https://cppp.fr), Paris (France) 
