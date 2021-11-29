@@ -7,7 +7,7 @@
 #### Exceptional C++   
 [💡Abstract](https://sched.co/nv2W) 
 [📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CppCon 2021.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=SjlfhyZn2yA)  
 
 #### Spooky Action at a Distance   
 [💡Abstract](https://sched.co/nv4f) 
