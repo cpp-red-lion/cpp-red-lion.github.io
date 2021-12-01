@@ -31,7 +31,7 @@
 ### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany) 
 
 #### Spooky Action at a Distance   
-[💡Abstract]() 
+[💡Abstract](https://www.meetup.com/MUCplusplus/events/280924251) 
 [📜Slides]() 
 [🎞️Video]()  
 
