@@ -2,18 +2,6 @@
 
 ## Upcoming in 2021 ...  
 
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
-
-#### Exceptional C++   
-[💡Abstract](https://sched.co/nv2W) 
-[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CppCon 2021.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=SjlfhyZn2yA)  
-
-#### Spooky Action at a Distance   
-[💡Abstract](https://sched.co/nv4f) 
-[📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - CppCon 2021.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
 
 #### Exceptional C++   
@@ -112,6 +100,19 @@
 [💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/279469112/) 
 [📜Slides](2021/Conferences/C++ UNIverse - Victor Ciura - Meeting C++ 2021.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=0zcIlbK0ihI)  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### Exceptional C++   
+[💡Abstract](https://sched.co/nv2W) 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CppCon 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=SjlfhyZn2yA)  
+
+#### Spooky Action at a Distance   
+[💡Abstract](https://sched.co/nv4f) 
+[📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - CppCon 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=nuEAppQunm0)  
+
 
 ### ...
 
