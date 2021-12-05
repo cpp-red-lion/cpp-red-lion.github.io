@@ -2,7 +2,7 @@
 
 **Victor Ciura** is a _Principal Engineer_ at [CAPHYON](https://www.caphyon.com), _Technical Lead_ on the [Advanced Installer](https://www.advancedinstaller.com) team and a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003461) (Developer Technologies). 
 
-He's a regular guest at Computer Science Department of his _Alma Mater_, [University of Craiova](http://www.ace.ucv.ro), where he gives student lectures & workshops on using C++ STL Algorithms.  
+He's a regular guest at Computer Science Department of his _Alma Mater_, [University of Craiova](http://www.ace.ucv.ro), where he gives student lectures & workshops on using modern C++, STL, algorithms and optimization techniques.  
 
 Since 2005, he has been designing and implementing several core components and libraries of Advanced Installer. Currently, he spends most of his time working with his team on improving and extending the repackaging and virtualization technologies in Advanced Installer IDE, helping clients migrate their traditional desktop apps to the modern Windows application format: [MSIX](https://www.advancedinstaller.com/msix-introduction.html). 
 
