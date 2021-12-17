@@ -21,7 +21,7 @@
 #### Spooky Action at a Distance   
 [💡Abstract](https://www.meetup.com/MUCplusplus/events/280924251) 
 [📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - MUCplusplus 2021.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=jhrmuWN378o)  
 
 ...
 
