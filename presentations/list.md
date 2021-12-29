@@ -1,29 +1,21 @@
 # Presentations 
 
-## Upcoming in 2021 ...  
+## Upcoming in 2022 ...  
 
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
-#### Exceptional C++   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=91) 
-[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - Meeting C++ 2021.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=VzsNJP2Piog)  
-
-### 🗺️ [CPPP Conference](https://cppp.fr), Paris (France) 
-
-#### Exceptional C++   
-[💡Abstract](https://cppp.fr/schedule2021/#session-207) 
-[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CPPP 2021.pdf) 
+#### C++ MythBusters  
+[💡Abstract]() 
+[📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany) 
+#### Remove This Idiom  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
 
-#### Spooky Action at a Distance   
-[💡Abstract](https://www.meetup.com/MUCplusplus/events/280924251) 
-[📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - MUCplusplus 2021.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=jhrmuWN378o)  
 
-...
+### ...
 
 ---
 ## 2021
@@ -113,9 +105,26 @@
 [📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - CppCon 2021.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=nuEAppQunm0)  
 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
 
-### ...
+#### Exceptional C++   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=91) 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - Meeting C++ 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=VzsNJP2Piog)  
 
+### 🗺️ [CPPP Conference](https://cppp.fr), Paris (France) 
+
+#### Exceptional C++   
+[💡Abstract](https://cppp.fr/schedule2021/#session-207) 
+[📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CPPP 2021.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany) 
+
+#### Spooky Action at a Distance   
+[💡Abstract](https://www.meetup.com/MUCplusplus/events/280924251) 
+[📜Slides](2021/Conferences/Spooky Action at a Distance - Victor Ciura - MUCplusplus 2021.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=jhrmuWN378o)  
 
 ---
 ## 2020
