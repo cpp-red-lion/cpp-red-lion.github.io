@@ -2,6 +2,13 @@
 
 ## Upcoming in 2022 ...  
 
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Open4Tech Guest Lecture: Memory Safety - Static vs Dynamic Analysis
+[💡Abstract](2022/Open4Tech/Handout2022-MemorySafety.pdf) 
+[📜Slides]() 
+[📷Pictures](2022/Open4Tech/pics) 
+[🎞️Video]()  
+
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
 #### C++ MythBusters  
