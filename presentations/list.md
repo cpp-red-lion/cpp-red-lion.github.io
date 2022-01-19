@@ -5,9 +5,9 @@
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Open4Tech Guest Lecture: Memory Safety - Static vs Dynamic Analysis
 [💡Abstract](2022/Open4Tech/Handout2022-MemorySafety.pdf) 
-[📜Slides]() 
+[📜Slides](2022/Open4Tech/Memory Safety - Static vs Dynamic Analysis - Victor Ciura - Open4Tech 2022.pdf) 
 [📷Pictures](2022/Open4Tech/pics) 
-[🎞️Video]()  
+[🎞️Video](https://www.amazon.com/clouddrive/share/xfBh8Q28vWH69Lqdtspm0TgWFzCuPjyYlnehBpzeEwN)  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
