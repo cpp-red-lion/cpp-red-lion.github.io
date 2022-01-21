@@ -12,12 +12,12 @@
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
 #### C++ MythBusters  
-[💡Abstract]() 
+[💡Abstract](https://accu.digital-medium.co.uk/session/c-mythbusters/) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### Remove This Idiom  
-[💡Abstract]() 
+[💡Abstract](https://accu.digital-medium.co.uk/session/remove-this-idiom/) 
 [📜Slides]() 
 [🎞️Video]()  
 
