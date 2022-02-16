@@ -124,7 +124,7 @@
 #### Exceptional C++   
 [💡Abstract](https://cppp.fr/schedule2021/#session-207) 
 [📜Slides](2021/Conferences/Exceptional C++ - Victor Ciura - CPPP 2021.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=PSgY2ZLSrY0)  
 
 ### 🗺️ [MUC++ User Group Meetup](https://www.meetup.com/MUCplusplus/), München (Germany) 
 
