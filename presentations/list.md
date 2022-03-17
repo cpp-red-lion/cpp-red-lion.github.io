@@ -1,6 +1,6 @@
 # Presentations 
 
-## Upcoming in 2022 ...  
+## Upcoming...  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
@@ -22,6 +22,9 @@
 [🎞️Video]()  
 
 ### ...
+
+---
+## 2022
 
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Open4Tech Guest Lecture: Memory Safety - Static vs Dynamic Analysis
