@@ -11,7 +11,7 @@
 
 #### Remove This Idiom  
 [💡Abstract](https://accu.digital-medium.co.uk/session/remove-this-idiom/) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/Remove This Idiom - Victor Ciura - ACCU 2022.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
