@@ -6,7 +6,7 @@
 
 #### C++ MythBusters  
 [💡Abstract](https://accu.digital-medium.co.uk/session/c-mythbusters/) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - ACCU 2022.pdf) 
 [🎞️Video]()  
 
 #### Remove This Idiom  
