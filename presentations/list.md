@@ -2,6 +2,12 @@
 
 ## Upcoming...  
 
+### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
+#### Spooky Action at a Distance  
+[💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/285069763/) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
 #### C++ MythBusters  
