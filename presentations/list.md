@@ -5,7 +5,7 @@
 ### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
 #### Spooky Action at a Distance  
 [💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/285069763/) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/Spooky Action at a Distance - Victor Ciura - Meeting C++ 2022.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
