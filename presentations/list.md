@@ -6,7 +6,7 @@
 #### Spooky Action at a Distance  
 [💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/285069763/) 
 [📜Slides](2022/Conferences/Spooky Action at a Distance - Victor Ciura - Meeting C++ 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=kFNBpcGr9vI)  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
@@ -22,8 +22,8 @@
 
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
 
-#### C++ MythBusters  
-[💡Abstract]() 
+#### C++ MythBusters (Plenary)  
+[💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
