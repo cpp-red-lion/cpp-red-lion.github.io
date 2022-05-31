@@ -2,11 +2,12 @@
 
 ## Upcoming...  
 
-### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
-#### Spooky Action at a Distance  
-[💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/285069763/) 
-[📜Slides](2022/Conferences/Spooky Action at a Distance - Victor Ciura - Meeting C++ 2022.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=kFNBpcGr9vI)  
+### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
+
+#### C++ MythBusters (Plenary)  
+[💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
+[📜Slides]() 
+[🎞️Video]()  
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
@@ -20,13 +21,6 @@
 [📜Slides](2022/Conferences/Remove This Idiom - Victor Ciura - ACCU 2022.pdf) 
 [🎞️Video]()  
 
-### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK 
-
-#### C++ MythBusters (Plenary)  
-[💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
-[📜Slides]() 
-[🎞️Video]()  
-
 ### ...
 
 ---
@@ -38,6 +32,12 @@
 [📜Slides](2022/Open4Tech/Memory Safety - Static vs Dynamic Analysis - Victor Ciura - Open4Tech 2022.pdf) 
 [📷Pictures](2022/Open4Tech/pics) 
 [🎞️Video](https://www.amazon.com/clouddrive/share/xfBh8Q28vWH69Lqdtspm0TgWFzCuPjyYlnehBpzeEwN)  
+
+### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
+#### Spooky Action at a Distance  
+[💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/285069763/) 
+[📜Slides](2022/Conferences/Spooky Action at a Distance - Victor Ciura - Meeting C++ 2022.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=kFNBpcGr9vI)  
 
 ---
 ## 2021
