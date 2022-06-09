@@ -9,18 +9,6 @@
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
-
-#### C++ MythBusters  
-[💡Abstract](https://accu.digital-medium.co.uk/session/c-mythbusters/) 
-[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - ACCU 2022.pdf) 
-[🎞️Video]()  
-
-#### Remove This Idiom  
-[💡Abstract](https://accu.digital-medium.co.uk/session/remove-this-idiom/) 
-[📜Slides](2022/Conferences/Remove This Idiom - Victor Ciura - ACCU 2022.pdf) 
-[🎞️Video]()  
-
 ### ...
 
 ---
@@ -38,6 +26,20 @@
 [💡Abstract](https://www.meetup.com/Meeting-Cpp-online/events/285069763/) 
 [📜Slides](2022/Conferences/Spooky Action at a Distance - Victor Ciura - Meeting C++ 2022.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=kFNBpcGr9vI)  
+
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+
+#### C++ MythBusters  
+[💡Abstract](https://accu.digital-medium.co.uk/session/c-mythbusters/) 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - ACCU 2022.pdf) 
+[🎞️Video]()  
+
+#### Remove This Idiom  
+[💡Abstract](https://accu.digital-medium.co.uk/session/remove-this-idiom/) 
+[📜Slides](2022/Conferences/Remove This Idiom - Victor Ciura - ACCU 2022.pdf) 
+[🎞️Video]()  
+
+### ...
 
 ---
 ## 2021
