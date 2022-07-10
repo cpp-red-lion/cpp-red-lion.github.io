@@ -6,7 +6,7 @@
 
 #### C++ MythBusters (Plenary)  
 [💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - C++ On Sea 2022.pdf) 
 [🎞️Video]()  
 
 ### ...
@@ -32,12 +32,12 @@
 #### C++ MythBusters  
 [💡Abstract](https://accu.digital-medium.co.uk/session/c-mythbusters/) 
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - ACCU 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=dI9K4is5La8)  
 
 #### Remove This Idiom  
 [💡Abstract](https://accu.digital-medium.co.uk/session/remove-this-idiom/) 
 [📜Slides](2022/Conferences/Remove This Idiom - Victor Ciura - ACCU 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=yvikvxdLK5U)  
 
 ### 🗺️ [Visual C++ Tech Talks](), Redmond (US) 
 
