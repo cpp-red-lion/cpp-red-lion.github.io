@@ -7,7 +7,8 @@ Folkestone, UK, July 4-7
 
 [C++ on Sea](https://cpponsea.uk) is an international C++ conference taking place by the sea, in the UK. 
 It started in 2019, kept going (online) during the pandemic and now returned in a hybrid format in 2022.  
-Right from the start it attracted great speakers and a fantastic mix of attendees from all over Europe and even US/Canada. 
+Right from the start it attracted great speakers and a fantastic mix of attendees from all over Europe and even US/Canada.  
+This year, there were almost 200 attendees on site, while others preferred to follow the online format from home. 
 
 ![](img/welcome.jpeg)  
 
@@ -53,6 +54,13 @@ I’m going to start some controversy and hopefully some constructive discussion
 
 Victor Ciura - C++ MythBusters  
 https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html
+
+### Sessions 
+
+![](img/thumb_1.png)  
+![](img/thumb_2.png)  
+
+Out of the 3-day x 4 tracks [schedule](https://cpponsea.uk/2022/schedule/), full of interesting talks, I managed to attended 15 sessions that I found very engaging. Check out this [separate post](./sessions.html), where I go into detail about each one (with pictures 😄).  
 
 ### Lightning Talks  
 
