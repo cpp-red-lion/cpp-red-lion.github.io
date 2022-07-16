@@ -9,3 +9,9 @@ Check out this [separate post](./tripreport.html) for my general impressions of 
 Out of the 3-day x 4 tracks [schedule](https://cpponsea.uk/2022/schedule/), full of interesting talks, I managed to attended 15 sessions that I found very engaging. Here they are, in chronological order.   
 
 ![](img/keynote_kevlin.jpeg)  
+
+
+... and my own session:  
+I’m going to start some controversy and hopefully some constructive discussions around a few sensitive topics in contemporary C++.
+
+

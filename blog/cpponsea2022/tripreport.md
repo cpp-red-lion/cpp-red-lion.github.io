@@ -19,54 +19,49 @@ The Leas Cliff Hall is a working theater that also has a dedicated conference su
 
 ![](img/venue.jpeg)  
 
-## Social
-
-![](img/buds1.jpeg)  
-![](img/buds2.jpeg)  
-
 ## Agenda
 
-[The schedule](https://cpponsea.uk/2022/schedule/) looked fantastic this year, as well. Lots of interesting talks I wanted to see and many new speakers made thier debute here. 
+[The schedule](https://cpponsea.uk/2022/schedule/) looked fantastic this year, as well. Lots of interesting presentations I wanted to see and many new speakers made thier debut here with captivating talks. More details about the sessions I attended, in this [separate post](./sessions.html). 
 
 ![](img/sched.jpeg)  
 
-
 ### The Hallway Track
 
-![](img/reception.jpeg)  
+As with all conferences, the best part is the "Hallway Track" cleverly disguised in the schedule as "refreshment breaks" between the sessions. Beside the opportunity to grab a drink or snack, the best part is that you get to do that with others and chat about the previous sessions, interesting work they're doing or get good recommendations of what presentation to attend next.  
+For this venue, given the exceptionally great weather we had that week, taking the lunch up on the sun terrace was an unexpected delight each day. 
 
+![](img/reception.jpeg)  
 
 ### Plenary Sessions
 
 ![](img/keynote_kevlin.jpeg)  
 
-Hana Dusíková - Lightning Updates  
-https://cpponsea.uk/2022/sessions/keynote-lightning-updates.html
-
-Kevlin Henney - For the Sake of Complexity  
-https://cpponsea.uk/2022/sessions/midnote-for-the-sake-of-complexity.html
-
-Jason Turner - Making C++ Fun, Safe, and Accessible  
-https://cpponsea.uk/2022/sessions/endnote-making-cpp-fun-safe-and-accessible.html
-
-... and my own session:  
-I’m going to start some controversy and hopefully some constructive discussions around a few sensitive topics in contemporary C++.
-
-Victor Ciura - C++ MythBusters  
-https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html
+This year's plenary sessions were: 
+- Hana Dusíková - [Lightning Updates](https://cpponsea.uk/2022/sessions/keynote-lightning-updates.html)
+- Kevlin Henney - [For the Sake of Complexity](https://cpponsea.uk/2022/sessions/midnote-for-the-sake-of-complexity.html)
+- Jason Turner - [Making C++ Fun, Safe, and Accessible](https://cpponsea.uk/2022/sessions/endnote-making-cpp-fun-safe-and-accessible.html)
+- Victor Ciura 😄 - [C++ MythBusters](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html)  
 
 ### Sessions 
 
 ![](img/thumb_1.png)  
 ![](img/thumb_2.png)  
 
-Out of the 3-day x 4 tracks [schedule](https://cpponsea.uk/2022/schedule/), full of interesting talks, I managed to attended 15 sessions that I found very engaging. Check out this [separate post](./sessions.html), where I go into detail about each one (with pictures 😄).  
+Out of the 3-day x 4 tracks [schedule](https://cpponsea.uk/2022/schedule/), full of interesting talks, I managed to attended **15 sessions** that I found very engaging. Check out this [separate post](./sessions.html), where I go into detail about each one (with pictures 😄).  
 
 ### Lightning Talks  
+
+A great way to end a full day of conference is to unwind with some entertaining & insightful short stories. The lineup of speakers signed up for this did not dissapoint. You'll have to check them out when the recordings are published. Here's the list as a teaser:  
 
 ![](img/lightning_talks.jpeg)  
 ![](img/lightning_talks_list.jpeg)  
 
+## Social
+
+I would be lying if I would say I went to C++ On Sea just for the great content. Truth is a big part of the joy was reuniting with great friends after 2+ years of pandemic and online events. 
+
+![](img/buds1.jpeg)  
+![](img/buds2.jpeg)  
 
 ## 2023 
 
