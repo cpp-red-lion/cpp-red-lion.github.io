@@ -46,7 +46,7 @@
 #### Spooky Action at a Distance  
 [💡Abstract](https://sched.co/nv4f) 
 [📜Slides](2022/TechSessions/Spooky Action at a Distance - Victor Ciura - Visual C++ Team 2022.pdf) 
-[🎞️Video](https://microsoft-my.sharepoint.com/:v:/p/t-esilfanus/ET_8e9rcvYtHvAJGP5OVUkYBkXE1HR_BjJJm1wOmGLVOYg)  
+[🎞️Video](https://microsoft.sharepoint.com/:v:/t/DD_VC/Ee3TzXTVPqxJqoxrWFqMhM4BnVtpbqcLZ7ibWRRUrM5NbQ?e=YacPOB)  
 
 ### ...
 
