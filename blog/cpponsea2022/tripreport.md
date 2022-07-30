@@ -21,7 +21,7 @@ The Leas Cliff Hall is a working theater that also has a dedicated conference su
 
 ## Agenda
 
-[The schedule](https://cpponsea.uk/2022/schedule/) looked fantastic this year, as well. Lots of interesting presentations I wanted to see and many new speakers made thier debut here with captivating talks. More details about the sessions I attended, in this [separate post](./sessions.html). 
+[The schedule](https://cpponsea.uk/2022/schedule/) looked fantastic this year, as well. Lots of interesting presentations I wanted to see and many new speakers made their debut here with captivating talks. More details about the sessions I attended, in this [separate post](./sessions.html). 
 
 ![](img/sched.jpeg)  
 
@@ -51,7 +51,7 @@ Out of the 3-day x 4 tracks [schedule](https://cpponsea.uk/2022/schedule/), full
 
 ### Lightning Talks  
 
-A great way to end a full day of conference is to unwind with some entertaining & insightful short stories. The lineup of speakers signed up for this did not dissapoint. You'll have to check them out when the recordings are published. Here's the list as a teaser:  
+A great way to end a full day of conference is to unwind with some entertaining & insightful short stories. The lineup of speakers signed up for this did not disappoint. You'll have to check them out when the recordings are published. Here's the list as a teaser:  
 
 ![](img/lightning_talks.jpeg)  
 ![](img/lightning_talks_list.jpeg)  
@@ -65,7 +65,7 @@ I would be lying if I would say I went to C++ On Sea just for the great content.
 
 ## 2023 
 
-I can't wait to return next year, to an even bigger in-person event!  
+I can't wait to return next year (hopefully post-pandemic), to an even bigger in-person event!  
 See ya!  
 ![](img/lighthouse.jpeg)  
 
