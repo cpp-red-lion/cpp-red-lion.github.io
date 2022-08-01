@@ -21,13 +21,13 @@ The Leas Cliff Hall is a working theater that also has a dedicated conference su
 
 ## Agenda
 
-[The schedule](https://cpponsea.uk/2022/schedule/) looked fantastic this year, as well. Lots of interesting presentations I wanted to see and many new speakers made their debut here with captivating talks. More details about the sessions I attended, in this [separate post](./sessions.html). 
+[The schedule](https://cpponsea.uk/2022/schedule/) looked fantastic this year, as well. Lots of interesting presentations I wanted to see and many new speakers made their debut here with captivating talks. More details about the sessions I attended are in this [separate post](./sessions.html) with pictures and my takeaways. 
 
 ![](img/sched.jpeg)  
 
 ### The Hallway Track
 
-As with all conferences, the best part is the "Hallway Track" cleverly disguised in the schedule as "refreshment breaks" between the sessions. Beside the opportunity to grab a drink or snack, the best part is that you get to do that with others and chat about the previous sessions, interesting work they're doing or get good recommendations of what presentation to attend next.  
+As with all conferences, the best part is the "Hallway Track" cleverly disguised in the schedule as "refreshment breaks" between the sessions. Besides the opportunity to grab a drink or snack, the best part is that you get to do that with others and chat about the previous sessions, interesting work they're doing or get good recommendations of what presentation to attend next.  
 For this venue, given the exceptionally great weather we had that week, taking the lunch up on the sun terrace was an unexpected delight each day. 
 
 ![](img/reception.jpeg)  
@@ -58,7 +58,7 @@ A great way to end a full day of conference is to unwind with some entertaining 
 
 ## Social
 
-I would be lying if I would say I went to C++ On Sea just for the great content. Truth is, a big part of the joy was reuniting with great friends after 2+ years of pandemic and online events. 
+I would be lying if I would say I went to C++ On Sea just for the great content. Truth is, a big part of the joy was reuniting with great friends after 2+ years of pandemic: just online events & video calls. 
 
 ![](img/buds1.jpeg)  
 ![](img/buds2.jpeg)  
