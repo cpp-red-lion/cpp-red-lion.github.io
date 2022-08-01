@@ -51,7 +51,7 @@ A bonus section in this talk was about the shinny new `std::mdspan` (C++23), tha
 
 
 ### Dawid Zalewski - [To pass and return — the story of functions, values and compilers](https://cpponsea.uk/2022/sessions/to-pass-and-return-the-story-of-functions-values-and-compilers.html)  
-The story of passing arguments to functions might be diverse depending on architectures, ABI and calling conventions, but at least it's clear. Returning for functions on the other hand is a different story. Dawid explores the intricate details of copy elision, RVO, NRVO on different compilers - the way it looks today, as the story keeps changing with newer versions...    
+The story of passing arguments to functions might be diverse depending on architectures, ABI and calling conventions, but at least it's clear. Returning from functions on the other hand is a different story. Dawid explores the intricate details of copy elision, RVO, NRVO on different compilers - the way it looks today, as the story keeps changing with newer versions...    
 ![](img/sessions/david_0.jpeg)  
 ![](img/sessions/david_1.jpeg)  
 ![](img/sessions/david_2.jpeg)  
@@ -65,8 +65,8 @@ Every conference has a session that is fun/entertaining, but you learn something
 
 
 ### Daniela Engert - [Contemporary C++ in Action](https://cpponsea.uk/2022/sessions/contemporary-cpp-in-action.html)  
-An application showcase/demo where Daniela is of course using C++20 modules, does some network programming with coroutines (based on ASIO executors), with the occasional C++23 features...  
-Daniela pushes the limits of currently available stuff in new compiler versions - at the moment, only **MSVC** supports all the features needed by her implementation; and that's on _Preview versions_ of VS2022! Daniela submitted so many bugs and feedback to our Visual C++ team, that she practically accelerated our C++20/23 conformance 😄  
+An application showcase/demo where Daniela is, of course 😄, using C++20 modules, does some network programming with coroutines (based on ASIO executors), with the occasional C++23 features...  
+Daniela pushes the limits of currently available stuff in new compiler versions - at the moment, only **MSVC** supports all the features needed by her implementation; and that's on _Preview versions_ of VS2022! Daniela submitted so many bugs and feedback to our Visual C++ team, that she practically accelerated our C++20/23 conformance 👍  
 If you want to see this fleshed out even further, watch Daniela's keynotes at CppCon and Meeting C++, in a few months. She told me she has more cool things coming.  
 ![](img/sessions/dani_1.jpeg)  
 ![](img/sessions/dani_2.jpeg)  
@@ -96,13 +96,14 @@ I'll be honest, I heard great reviews about this presentation from past conferen
 
 
 ### Peter Bindels - [What's in a bit - Designing, using and reverse-engineering binary file formats](https://cpponsea.uk/2022/sessions/whats-in-a-bit-designing-using-and-reverse-engineering-binary-file-formats.html)  
-What can bits really represent? Peter starts with a crash course on the basics of binary representations and encodings and then he explores designs for a binary file format. This part was informative; the next part was on reverse engineering binary files. Talk about a rabbit hole - this was fun! Like a puzzle where you have no idea where that `00101101` piece goes... could be a fun hobby to take on.  
+What can bits really represent? Peter starts with a crash course on the basics of binary representations and encodings and then he explores designs for a binary file format. This part was informative; the next part was on reverse engineering binary files. Talk about a rabbit hole - this was fun! Like a puzzle, you have no idea where that `00101101` piece goes... could be a fun hobby to take on. Peter sure seems to enjoy it 😄  
 ![](img/sessions/bindels_1.jpeg)  
 ![](img/sessions/bindels_2.jpeg)  
 
 
 ### Jonathan Müller - [Coroutines: C++ vs Rust](https://cpponsea.uk/2022/sessions/coroutines-cpp-vs-rust.html)  
-C++ and Rust are both system programming languages that recently received support for asynchronous programming using _coroutines_. Given the memory and perf constraints, both languages opted for _stackless_ coroutines, implemented by a compiler-generated state machine. This is where the similarities stop. Jonathan shows side-by-side comparisons of code using C++/Rust coroutines and highlights the differences. His conclusions are captured in my pictures below. I thought C++ had it bad, but Rust coroutines are just as difficult to use/understand 🤷‍♂️   
+C++ and Rust are both system programming languages that recently received support for asynchronous programming using _coroutines_. Given the memory and perf constraints, both languages opted for _stackless_ coroutines, implemented by a compiler-generated state machine. This is where the similarities stop. Jonathan shows side-by-side comparisons of code using C++/Rust coroutines and highlights the differences. His _conclusions_ are captured in my pictures below.  
+I thought C++ had it bad, but Rust coroutines are just as difficult to use/understand 🤷‍♂️   
 ![](img/sessions/foonathan_1.jpeg)  
 ![](img/sessions/foonathan_2.jpeg)  
 ![](img/sessions/foonathan_3.jpeg)  

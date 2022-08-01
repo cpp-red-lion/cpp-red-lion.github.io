@@ -58,7 +58,7 @@ A great way to end a full day of conference is to unwind with some entertaining 
 
 ## Social
 
-I would be lying if I would say I went to C++ On Sea just for the great content. Truth is a big part of the joy was reuniting with great friends after 2+ years of pandemic and online events. 
+I would be lying if I would say I went to C++ On Sea just for the great content. Truth is, a big part of the joy was reuniting with great friends after 2+ years of pandemic and online events. 
 
 ![](img/buds1.jpeg)  
 ![](img/buds2.jpeg)  
