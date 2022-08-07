@@ -2,12 +2,30 @@
 
 ## Upcoming...  
 
-### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
-[📓Trip Report](../blog/cpponsea2022/tripreport.html)  
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
-#### C++ MythBusters (Plenary)  
-[💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
-[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - C++ On Sea 2022.pdf) 
+#### The Imperatives Must Go   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### C++ MythBusters   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
+
+#### The Imperatives Must Go   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
+
+#### TBD   
+[💡Abstract]() 
+[📜Slides]() 
 [🎞️Video]()  
 
 
@@ -47,6 +65,14 @@
 [💡Abstract](https://sched.co/nv4f) 
 [📜Slides](2022/TechSessions/Spooky Action at a Distance - Victor Ciura - Visual C++ Team 2022.pdf) 
 [🎞️Video](https://microsoft.sharepoint.com/:v:/t/DD_VC/Ee3TzXTVPqxJqoxrWFqMhM4BnVtpbqcLZ7ibWRRUrM5NbQ?e=YacPOB)  
+
+### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
+[📓Trip Report](../blog/cpponsea2022/tripreport.html)  
+
+#### C++ MythBusters (Plenary)  
+[💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - C++ On Sea 2022.pdf) 
+[🎞️Video]()  
 
 ### ...
 
