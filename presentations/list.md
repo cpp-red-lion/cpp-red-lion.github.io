@@ -5,19 +5,19 @@
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### The Imperatives Must Go   
-[💡Abstract]() 
+[💡Abstract](https://cppcon.digital-medium.co.uk/session/the-imperatives-must-go/) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### C++ MythBusters   
-[💡Abstract]() 
+[💡Abstract](https://cppcon.digital-medium.co.uk/session/c-mythbusters/) 
 [📜Slides]() 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
 
 #### The Imperatives Must Go   
-[💡Abstract]() 
+[💡Abstract](http://meetingcpp.com/2022/Talks/items/The_Imperatives_Must_Go.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
