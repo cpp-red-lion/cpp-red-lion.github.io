@@ -11,7 +11,7 @@
 
 #### C++ MythBusters   
 [💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/c-mythbusters/) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - CppCon 2022.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
