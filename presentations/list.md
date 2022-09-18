@@ -72,7 +72,7 @@
 #### C++ MythBusters (Plenary)  
 [💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - C++ On Sea 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=ZGgrUhVNsSI)  
 
 ### ...
 
