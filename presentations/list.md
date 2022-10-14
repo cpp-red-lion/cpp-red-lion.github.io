@@ -2,22 +2,10 @@
 
 ## Upcoming...  
 
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2022/), Berlin (Germany) 
 
 #### The Imperatives Must Go   
-[💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/the-imperatives-must-go/) 
-[📜Slides](2022/Conferences/The Imperatives Must Go - Victor Ciura - CppCon 2022.pdf) 
-[🎞️Video]()  
-
-#### C++ MythBusters   
-[💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/c-mythbusters/) 
-[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - CppCon 2022.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2021/), Berlin (Germany) 
-
-#### The Imperatives Must Go   
-[💡Abstract](http://meetingcpp.com/2022/Talks/items/The_Imperatives_Must_Go.html) 
+[💡Abstract](https://meetingcpp.com/2022/Talks/items/The_Imperatives_Must_Go.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -28,6 +16,11 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Computer Science Department](https://www.khoury.northeastern.edu), [Northeastern University](https://www.northeastern.edu) (Boston, US) 
+#### Guest Lecture: TBD
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
 
 ### ...
 
@@ -73,6 +66,18 @@
 [💡Abstract](https://cpponsea.uk/2022/sessions/plenary-cpp-mythbusters.html) 
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - C++ On Sea 2022.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=ZGgrUhVNsSI)  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### The Imperatives Must Go   
+[💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/the-imperatives-must-go/) 
+[📜Slides](2022/Conferences/The Imperatives Must Go - Victor Ciura - CppCon 2022.pdf) 
+[🎞️Video]()  
+
+#### C++ MythBusters   
+[💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/c-mythbusters/) 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - CppCon 2022.pdf) 
+[🎞️Video]()  
 
 ### ...
 
