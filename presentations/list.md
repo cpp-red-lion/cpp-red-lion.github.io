@@ -72,7 +72,7 @@
 #### The Imperatives Must Go   
 [💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/the-imperatives-must-go/) 
 [📜Slides](2022/Conferences/The Imperatives Must Go - Victor Ciura - CppCon 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=M5HuOZ4sgJE)  
 
 #### C++ MythBusters   
 [💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/c-mythbusters/) 
