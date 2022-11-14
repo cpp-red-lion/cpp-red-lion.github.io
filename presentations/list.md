@@ -18,7 +18,7 @@
 
 ### 🗺️ [Computer Science Department](https://www.khoury.northeastern.edu), [Northeastern University](https://www.northeastern.edu) (Boston, US) 
 #### Guest Lecture: Chasing Nodes   
-[💡Abstract]() 
+[💡Abstract](https://www.khoury.northeastern.edu/talks/) 
 [📜Slides]() 
 [🎞️Video]()  
 
