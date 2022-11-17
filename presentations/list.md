@@ -9,6 +9,11 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+#### C++ MythBusters   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=222) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
 #### C++ MythBusters   
