@@ -6,12 +6,12 @@
 
 #### The Imperatives Must Go   
 [💡Abstract](https://meetingcpp.com/2022/Talks/items/The_Imperatives_Must_Go.html) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/The Imperatives Must Go - Victor Ciura - Meeting C++ 2022.pdf) 
 [🎞️Video]()  
 
 #### C++ MythBusters   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=222) 
-[📜Slides]() 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - Meeting C++ 2022.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
