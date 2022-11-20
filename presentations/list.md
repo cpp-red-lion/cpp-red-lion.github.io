@@ -17,7 +17,7 @@
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
 #### C++ MythBusters   
-[💡Abstract]() 
+[💡Abstract](https://codedive.pl/2022/c-mythbusters) 
 [📜Slides]() 
 [🎞️Video]()  
 
