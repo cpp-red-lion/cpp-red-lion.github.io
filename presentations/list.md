@@ -82,7 +82,7 @@
 #### C++ MythBusters   
 [💡Abstract](https://cppcon.digital-medium.co.uk/session/2022/c-mythbusters/) 
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - CppCon 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=bcl33-lIC70)  
 
 ### ...
 
