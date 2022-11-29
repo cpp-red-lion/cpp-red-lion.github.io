@@ -6,4 +6,4 @@ One of his hobbies is tidying-up and modernizing aging codebases and has been kn
 
 He's a regular guest at Computer Science Department of his _Alma Mater_, [University of Craiova](http://www.ace.ucv.ro), where he gives student lectures & workshops on using modern C++, STL, algorithms and optimization techniques.  
 
-More details: [@ciura_victor](https://twitter.com/ciura_victor) & [https://ciura.ro](https://ciura.ro) & [linkedin.com/in/victor-ciura/](https://www.linkedin.com/in/victor-ciura/)  
+More details: [@ciura_victor](https://twitter.com/ciura_victor) & [https://ciura.ro](https://ciura.ro) & [linkedin.com/in/victor-ciura](https://www.linkedin.com/in/victor-ciura/)  
