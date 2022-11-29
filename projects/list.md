@@ -8,7 +8,7 @@ Advanced Installer is an IDE targeting exclusively Windows developers that need 
 At [CAPHYON](https://www.caphyon.com), I worked on Advanced Installer almost since its inception, developing various components, core-technologies and libraries, **since 2005**. Still having fun with this... 🤓  
 
 Advanced Installer is built almost exclusively in **C++** as a Win32/WTL GUI desktop application. Small parts of it are built using HTML5 or C# and it makes use of some third-party open-source C/C++ libraries, such as: Boost, Expat, HTMLayout, LZMA, Scintilla, SQLite, WTL, zlib.
-It is a fairly big codebase, with over **3 million** lines of C++ code, which produces over 180 DLL and EXE modules (most of them are customer deployed, others are internal tools).
+It is a fairly big codebase, with over **4 million** lines of C++ code, which produces over 190 DLL and EXE modules (most of them are customer deployed, others are internal tools).
 
 ## <img src="https://raw.githubusercontent.com/Caphyon/clang-power-tools/master/ClangPowerTools.png" height="48"> [Clang Power Tools](http://clangpowertools.com)  
 
