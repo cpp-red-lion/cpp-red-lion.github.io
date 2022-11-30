@@ -19,7 +19,7 @@
 #### C++ MythBusters   
 [💡Abstract](https://codedive.pl/2022/c-mythbusters) 
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - code dive 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://youtu.be/15j0SvA17-w?t=4762)  
 
 ### 🗺️ [Computer Science Department](https://www.khoury.northeastern.edu), [Northeastern University](https://www.northeastern.edu) (Boston, US) 
 #### Guest Lecture: Chasing Nodes   
