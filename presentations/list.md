@@ -24,7 +24,7 @@
 ### 🗺️ [Computer Science Department](https://www.khoury.northeastern.edu), [Northeastern University](https://www.northeastern.edu) (Boston, US) 
 #### Guest Lecture: Chasing Nodes   
 [💡Abstract](https://www.khoury.northeastern.edu/talks/) 
-[📜Slides]() 
+[📜Slides](2022/UNI/Chasing Nodes - Victor Ciura - Khoury 2022.pdf) 
 [🎞️Video]()  
 
 ### ...
