@@ -2,30 +2,22 @@
 
 ## Upcoming...  
 
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2022/), Berlin (Germany) 
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
-#### The Imperatives Must Go   
-[💡Abstract](https://meetingcpp.com/2022/Talks/items/The_Imperatives_Must_Go.html) 
-[📜Slides](2022/Conferences/The Imperatives Must Go - Victor Ciura - Meeting C++ 2022.pdf) 
+#### The Imperatives Must Go!   
+[💡Abstract]() 
+[📜Slides]() 
 [🎞️Video]()  
 
-#### C++ MythBusters   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=222) 
-[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - Meeting C++ 2022.pdf) 
+#### And Then() Some(T)   
+[💡Abstract]() 
+[📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
+### ...
 
-#### C++ MythBusters   
-[💡Abstract](https://codedive.pl/2022/c-mythbusters) 
-[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - code dive 2022.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=W4s7EXK3-yg)  
-
-### 🗺️ [Computer Science Department](https://www.khoury.northeastern.edu), [Northeastern University](https://www.northeastern.edu) (Boston, US) 
-#### Guest Lecture: Chasing Nodes   
-[💡Abstract](https://www.khoury.northeastern.edu/talks/) 
-[📜Slides](2022/UNI/Chasing Nodes - Victor Ciura - Khoury 2022.pdf) 
-[🎞️Video]()  
+---
+## 2023
 
 ### ...
 
@@ -84,7 +76,30 @@
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - CppCon 2022.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=bcl33-lIC70)  
 
-### ...
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2022/), Berlin (Germany) 
+
+#### The Imperatives Must Go   
+[💡Abstract](https://meetingcpp.com/2022/Talks/items/The_Imperatives_Must_Go.html) 
+[📜Slides](2022/Conferences/The Imperatives Must Go - Victor Ciura - Meeting C++ 2022.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=HRN3Yd9GzA8)  
+
+#### C++ MythBusters   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=222) 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - Meeting C++ 2022.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
+
+#### C++ MythBusters   
+[💡Abstract](https://codedive.pl/2022/c-mythbusters) 
+[📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - code dive 2022.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=W4s7EXK3-yg)  
+
+### 🗺️ [Computer Science Department](https://www.khoury.northeastern.edu), [Northeastern University](https://www.northeastern.edu) (Boston, US) 
+#### Guest Lecture: Chasing Nodes   
+[💡Abstract](https://www.khoury.northeastern.edu/talks/) 
+[📜Slides](2022/UNI/Chasing Nodes - Victor Ciura - Khoury 2022.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=LYBYUiwpngc)  
 
 ---
 ## 2021
