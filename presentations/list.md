@@ -5,12 +5,12 @@
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
 #### The Imperatives Must Go!   
-[💡Abstract]() 
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/89) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### And Then() Some(T)   
-[💡Abstract]() 
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
 [📜Slides]() 
 [🎞️Video]()  
 
