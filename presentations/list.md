@@ -86,7 +86,7 @@
 #### C++ MythBusters   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=222) 
 [📜Slides](2022/Conferences/C++ MythBusters - Victor Ciura - Meeting C++ 2022.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=Ue836lVgPtk)  
 
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
