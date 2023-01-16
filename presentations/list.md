@@ -2,13 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Open4Tech Guest Lecture: Iterative Design For Performant Code
-[💡Abstract]() 
-[📜Slides]() 
-[📷Pictures]() 
-[🎞️Video]()  
-
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
 #### The Imperatives Must Go!   
@@ -25,6 +18,13 @@
 
 ---
 ## 2023
+
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Open4Tech Guest Lecture: Iterative Design For Performant Code
+[💡Abstract](2023/UNI/Abstract Iterative Design For Performant Code.pdf) 
+[📜Slides]() 
+[📷Pictures]() 
+[🎞️Video]()  
 
 ### ...
 
