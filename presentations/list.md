@@ -22,7 +22,7 @@
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Open4Tech Guest Lecture: Iterative Design For Performant Code
 [💡Abstract](2023/UNI/Abstract Iterative Design For Performant Code.pdf) 
-[📜Slides]() 
+[📜Slides](2023/UNI/Iterative Design For Performant Code - Victor Ciura - Open4Tech 2023.pdf) 
 [📷Pictures]() 
 [🎞️Video]()  
 
