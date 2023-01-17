@@ -23,8 +23,8 @@
 #### Open4Tech Guest Lecture: Iterative Design For Performant Code
 [💡Abstract](2023/UNI/Abstract Iterative Design For Performant Code.pdf) 
 [📜Slides](2023/UNI/Iterative Design For Performant Code - Victor Ciura - Open4Tech 2023.pdf) 
-[📷Pictures]() 
-[🎞️Video]()  
+[📷Pictures](2023/UNI/pics) 
+[🎞️Video](https://drive.google.com/file/d/19FN4MfJbqzon1VLVxrx4Ya6fkEGeNkB9/view?usp=share_link)  
 
 ### ...
 
