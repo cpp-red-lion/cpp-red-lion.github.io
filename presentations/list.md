@@ -29,7 +29,7 @@
 ### 🗺️ [Perf & Reliability Tech Talks](https://msit.microsoftstream.com/channel/77870840-98dc-948e-f82d-f1ec32020b42), Redmond (US) 
 
 #### Tuning SQLite Workflows  
-[💡Abstract]() 
+[💡Abstract](2023/TechSessions/Abstract - Tuning SQLite Workflows.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
