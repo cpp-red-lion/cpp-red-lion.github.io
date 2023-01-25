@@ -26,6 +26,13 @@
 [📷Pictures](2023/UNI/pics) 
 [🎞️Video](https://drive.google.com/file/d/19FN4MfJbqzon1VLVxrx4Ya6fkEGeNkB9/view?usp=share_link)  
 
+### 🗺️ [Perf & Reliability Tech Talks](https://msit.microsoftstream.com/channel/77870840-98dc-948e-f82d-f1ec32020b42), Redmond (US) 
+
+#### Tuning SQLite Workflows  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
@@ -56,7 +63,7 @@
 [📜Slides](2022/Conferences/Remove This Idiom - Victor Ciura - ACCU 2022.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=yvikvxdLK5U)  
 
-### 🗺️ [Visual C++ Tech Talks](), Redmond (US) 
+### 🗺️ [Visual C++ Tech Talks](https://microsoft.sharepoint.com/teams/DD_VC/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDD%5FVC%2FShared%20Documents%2FTech%20Talks&viewid=ffce4975%2D39a3%2D490d%2D88a6%2Dee0e15fad746), Redmond (US) 
 
 #### Spooky Action at a Distance  
 [💡Abstract](https://sched.co/nv4f) 
