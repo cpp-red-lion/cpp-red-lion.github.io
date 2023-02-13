@@ -38,7 +38,7 @@
 #### Tuning SQLite Workflows  
 [💡Abstract](2023/TechSessions/Abstract - Tuning SQLite Workflows.html) 
 [📜Slides]() 
-[🎞️Video]()  
+[🎞️Video](https://msit.microsoftstream.com/video/fcc50840-98dc-ba75-7965-f1edab231483)  
 
 ### ...
 
