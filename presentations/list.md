@@ -14,6 +14,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
+ 
+#### C++ MythBusters Strike 2  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
@@ -26,7 +33,7 @@
 [📷Pictures](2023/UNI/pics) 
 [🎞️Video](https://drive.google.com/file/d/19FN4MfJbqzon1VLVxrx4Ya6fkEGeNkB9/view?usp=share_link)  
 
-### 🗺️ [Perf & Reliability Tech Talks](https://msit.microsoftstream.com/channel/77870840-98dc-948e-f82d-f1ec32020b42), Redmond (US) 
+### 🗺️ [Microsoft Perf & Reliability Tech Talks](https://msit.microsoftstream.com/channel/77870840-98dc-948e-f82d-f1ec32020b42), Redmond (US) 
 
 #### Tuning SQLite Workflows  
 [💡Abstract](2023/TechSessions/Abstract - Tuning SQLite Workflows.html) 
