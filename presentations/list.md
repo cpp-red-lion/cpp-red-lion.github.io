@@ -4,13 +4,18 @@
 
 ### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
 
+#### And Then() Some(T)   
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
+[📜Slides]() 
+[🎞️Video]()  
+
 #### The Imperatives Must Go!   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/89) 
 [📜Slides]() 
 [🎞️Video]()  
 
-#### And Then() Some(T)   
-[💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
+#### Spooky Action at a Distance   
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/87) 
 [📜Slides]() 
 [🎞️Video]()  
 
