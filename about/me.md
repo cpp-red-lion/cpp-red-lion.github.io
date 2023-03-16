@@ -1,6 +1,8 @@
 # About me
 
-**Victor Ciura** is a Principal Engineer on the [Visual C++](https://twitter.com/visualc) team, helping to improve the tools he's been using for years. Before joining Microsoft, he programmed C++ professionally for 20 years, designing and implementing several core components & libraries of [Advanced Installer](https://www.advancedinstaller.com), improving the virtualization and repackaging technologies for [MSI/MSIX](https://www.advancedinstaller.com/msix-introduction.html).   
+**Victor Ciura** is a Principal Engineer on the [Visual C++](https://twitter.com/visualc) team, helping to improve the tools he's been using for years. Leading engineering efforts across multiple teams working on making Visual Studio the best IDE for C++ Game developers.  
+
+Before joining Microsoft, he programmed C++ professionally for 20 years, designing and implementing several core components & libraries of [Advanced Installer](https://www.advancedinstaller.com), improving the virtualization and repackaging technologies for [MSI/MSIX](https://www.advancedinstaller.com/msix-introduction.html).   
 
 One of his hobbies is tidying-up and modernizing aging codebases and has been known to build open-source tools that help this process: [Clang Power Tools](http://clangpowertools.com).   
 
