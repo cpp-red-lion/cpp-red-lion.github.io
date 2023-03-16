@@ -19,6 +19,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Core C++](https://corecpp.org), Tel Aviv, Israel  
+ 
+#### The Imperatives Must Go!  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
  
 #### C++ MythBusters Strike 2  
