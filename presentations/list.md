@@ -33,6 +33,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
+
+#### And Then() Some(T)   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
