@@ -22,21 +22,21 @@
 ### 🗺️ [Core C++](https://corecpp.org), Tel Aviv, Israel  
  
 #### The Imperatives Must Go!  
-[💡Abstract]() 
+[💡Abstract](https://corecpp.org/schedule/#session-23) 
 [📜Slides]() 
 [🎞️Video]()  
 
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
  
 #### C++ MythBusters Strike 2  
-[💡Abstract]() 
+[💡Abstract](https://cpponsea.uk/news/speakers-for-cpp-on-sea-2023.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
 ### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
 
 #### And Then() Some(T)   
-[💡Abstract]() 
+[💡Abstract](https://cppnorth.ca/speakers.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
