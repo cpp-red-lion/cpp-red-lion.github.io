@@ -16,7 +16,7 @@
 
 #### Spooky Action at a Distance   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/87) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/Spooky Action at a Distance - Victor Ciura - ACCU 2023.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Core C++](https://corecpp.org), Tel Aviv, Israel  
