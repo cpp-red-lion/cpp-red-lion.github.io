@@ -11,7 +11,7 @@
 
 #### The Imperatives Must Go!   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/89) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/The Imperatives Must Go - Victor Ciura - ACCU 2023.pdf) 
 [🎞️Video]()  
 
 #### Spooky Action at a Distance   
