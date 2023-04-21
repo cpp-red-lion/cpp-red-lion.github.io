@@ -6,7 +6,7 @@
 
 #### And Then() Some(T)   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - ACCU 2023.pdf) 
 [🎞️Video]()  
 
 #### The Imperatives Must Go!   
