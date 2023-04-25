@@ -2,23 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
-
-#### And Then() Some(T)   
-[💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
-[📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - ACCU 2023.pdf) 
-[🎞️Video]()  
-
-#### The Imperatives Must Go!   
-[💡Abstract](https://conference.accu.org/en/accu2023/public/events/89) 
-[📜Slides](2023/Conferences/The Imperatives Must Go - Victor Ciura - ACCU 2023.pdf) 
-[🎞️Video]()  
-
-#### Spooky Action at a Distance   
-[💡Abstract](https://conference.accu.org/en/accu2023/public/events/87) 
-[📜Slides](2023/Conferences/Spooky Action at a Distance - Victor Ciura - ACCU 2023.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Core C++](https://corecpp.org), Tel Aviv, Israel  
  
 #### The Imperatives Must Go!  
@@ -29,7 +12,7 @@
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
  
 #### C++ MythBusters Strike 2  
-[💡Abstract](https://cpponsea.uk/news/speakers-for-cpp-on-sea-2023.html) 
+[💡Abstract](https://cpponsea.uk/2023/sessions/cpp-mythbusters-strike-2.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -58,6 +41,23 @@
 [💡Abstract](2023/TechSessions/Abstract - Tuning SQLite Workflows.html) 
 [📜Slides]() 
 [🎞️Video](https://msit.microsoftstream.com/video/fcc50840-98dc-ba75-7965-f1edab231483)  
+
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+
+#### And Then() Some(T)   
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
+[📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - ACCU 2023.pdf) 
+[🎞️Video]()  
+
+#### The Imperatives Must Go!   
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/89) 
+[📜Slides](2023/Conferences/The Imperatives Must Go - Victor Ciura - ACCU 2023.pdf) 
+[🎞️Video]()  
+
+#### Spooky Action at a Distance   
+[💡Abstract](https://conference.accu.org/en/accu2023/public/events/87) 
+[📜Slides](2023/Conferences/Spooky Action at a Distance - Victor Ciura - ACCU 2023.pdf) 
+[🎞️Video]()  
 
 ### ...
 
