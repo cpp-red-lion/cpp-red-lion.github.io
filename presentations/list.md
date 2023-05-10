@@ -19,7 +19,7 @@
 ### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
 
 #### And Then() Some(T)   
-[💡Abstract](https://cppnorth.ca/speakers.html) 
+[💡Abstract](https://cppnorth.ca/speaker-victor-ciura.html) 
 [📜Slides]() 
 [🎞️Video]()  
 
