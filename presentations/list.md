@@ -23,6 +23,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### C++ MythBusters Strike 2  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
