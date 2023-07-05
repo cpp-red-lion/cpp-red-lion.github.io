@@ -64,7 +64,7 @@
 #### Spooky Action at a Distance   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/87) 
 [📜Slides](2023/Conferences/Spooky Action at a Distance - Victor Ciura - ACCU 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=6S3DLHCAGFs)  
 
 ### ...
 
