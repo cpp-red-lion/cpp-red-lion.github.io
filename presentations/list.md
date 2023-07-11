@@ -2,20 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [Core C++](https://corecpp.org), Tel Aviv, Israel  
- 
-#### The Imperatives Must Go!  
-[💡Abstract](https://corecpp.org/schedule/#session-23) 
-[📜Slides](2023/Conferences/The Imperatives Must Go - Victor Ciura - Core C++ 2023.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
- 
-#### C++ MythBusters Strike 2  
-[💡Abstract](https://cpponsea.uk/2023/sessions/cpp-mythbusters-strike-2.html) 
-[📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - C++ On Sea 2023.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
 
 #### And Then() Some(T)   
@@ -65,6 +51,20 @@
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/87) 
 [📜Slides](2023/Conferences/Spooky Action at a Distance - Victor Ciura - ACCU 2023.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=6S3DLHCAGFs)  
+
+### 🗺️ [Core C++](https://corecpp.org), Tel Aviv, Israel  
+ 
+#### The Imperatives Must Go!  
+[💡Abstract](https://corecpp.org/schedule/#session-23) 
+[📜Slides](2023/Conferences/The Imperatives Must Go - Victor Ciura - Core C++ 2023.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
+ 
+#### C++ MythBusters Strike 2  
+[💡Abstract](https://cpponsea.uk/2023/sessions/cpp-mythbusters-strike-2.html) 
+[📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - C++ On Sea 2023.pdf) 
+[🎞️Video]()  
 
 ### ...
 
