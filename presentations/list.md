@@ -6,7 +6,7 @@
 
 #### And Then() Some(T)   
 [💡Abstract](https://cppnorth.ca/speaker-victor-ciura.html) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - CppNorth 2023.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
