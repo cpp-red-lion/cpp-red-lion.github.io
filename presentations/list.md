@@ -40,7 +40,7 @@
 #### And Then() Some(T)   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/90) 
 [📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - ACCU 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=bRFLKEfPvgk)  
 
 #### The Imperatives Must Go!   
 [💡Abstract](https://conference.accu.org/en/accu2023/public/events/89) 
