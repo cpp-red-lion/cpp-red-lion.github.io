@@ -2,13 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
-
-#### And Then() Some(T)   
-[💡Abstract](https://cppnorth.ca/speaker-victor-ciura.html) 
-[📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - CppNorth 2023.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### C++ MythBusters Strike 2  
@@ -65,6 +58,19 @@
 [💡Abstract](https://cpponsea.uk/2023/sessions/cpp-mythbusters-strike-2.html) 
 [📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - C++ On Sea 2023.pdf) 
 [🎞️Video]()  
+
+### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
+
+#### And Then() Some(T)   
+[💡Abstract](https://cppnorth.ca/speaker-victor-ciura.html) 
+[📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - CppNorth 2023.pdf) 
+[🎞️Video]()  
+
+### <img src="https://adspthepodcast.com/assets/img/pexels/adsp_white_on_red.png" height="32"> [ADSP Podcast Interview](https://adspthepodcast.com)  
+
+#### Episode 140: 🇨🇦 CppNorth Live - Victor Ciura, Ben Deane, Vincent Zalzal, Tristan Brindle, Andreas Weis
+[🎙️Podcast](https://adspthepodcast.com/2023/07/28/Episode-140.html) 
+
 
 ### ...
 
@@ -161,7 +167,7 @@
 ### 📡 [C++ Mythbusting with Victor and Jason](https://www.youtube.com/watch?v=Bu1AEze14Ns), C++ Weekly with Jason Turner 
 [🎞️Video Stream](https://www.youtube.com/watch?v=Bu1AEze14Ns)  
 
-### <img src="http://cppcast.com/img/logo@2x.png" height="32"> [CppCast Interview #2](http://cppcast.com)  
+### <img src="https://cppcast.com/static/cppcast-logo-transparent.png" height="32"> [CppCast Interview #2](http://cppcast.com)  
 
 #### Episode 285: C++ Mythbusting &amp; Clang Power Tools  
 [🎙️Podcast](https://cppcast.com/clang-power-tools-myths/) 
@@ -536,7 +542,7 @@
 [📜Slides](2017/Conferences/Bringing Clang-tidy Magic to Visual Studio C++ Developers - Victor Ciura - Meeting C++ 2017.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=BAkdRY9l5pI)  
 
-### <img src="http://cppcast.com/img/logo@2x.png" height="32"> [CppCast Interview](http://cppcast.com)  
+### <img src="https://cppcast.com/static/cppcast-logo-transparent.png" height="32"> [CppCast Interview](http://cppcast.com)  
 
 #### Episode 128: Clang Power Tools with Victor Ciura  
 [🎙️Podcast](http://cppcast.com/2017/11/victor-ciura/) 
