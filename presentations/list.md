@@ -9,6 +9,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### Regular, Revisited   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
