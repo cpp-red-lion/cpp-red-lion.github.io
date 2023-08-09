@@ -19,7 +19,7 @@
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
 
 #### Swift ABI Resilience   
-[💡Abstract]() 
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=362) 
 [📜Slides]() 
 [🎞️Video]()  
 
