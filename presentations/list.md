@@ -23,6 +23,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
+
+#### Swift ABI Resilience   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
