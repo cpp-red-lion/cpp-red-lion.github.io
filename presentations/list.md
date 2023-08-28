@@ -12,7 +12,7 @@
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### Regular, Revisited   
-[💡Abstract]() 
+[💡Abstract](https://sched.co/1QthC) 
 [📜Slides]() 
 [🎞️Video]()  
 
