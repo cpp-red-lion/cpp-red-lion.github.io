@@ -2,6 +2,13 @@
 
 ## Upcoming...  
 
+### 🗺️ [C++ Prague Meetup](https://discord.com/invite/PvnRNg6kss), Prague (Czechia) 
+
+#### C++ Myths, Dogma and Practice  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### C++ MythBusters Strike 2  
