@@ -5,7 +5,7 @@
 ### 🗺️ [C++ Prague Meetup](https://discord.com/invite/PvnRNg6kss), Prague (Czechia) 
 
 #### C++ Myths, Dogma and Practice  
-[💡Abstract]() 
+[💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
 [📜Slides]() 
 [🎞️Video]()  
 
