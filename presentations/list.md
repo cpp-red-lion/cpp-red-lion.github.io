@@ -6,7 +6,7 @@
 
 #### C++ Myths, Dogma and Practice  
 [💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/C++ Myths, Dogma and Practice - Victor Ciura - C++ Prague Meetup.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
