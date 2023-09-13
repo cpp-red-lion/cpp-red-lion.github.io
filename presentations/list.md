@@ -102,7 +102,7 @@
 #### C++ Myths, Dogma and Practice  
 [💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
 [📜Slides](2023/Conferences/C++ Myths, Dogma and Practice - Victor Ciura - C++ Prague Meetup.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://us06web.zoom.us/rec/share/BiRJrkgZLxK0aG17YIweBZGwkdduqhF9WpAgPvrua4ITy4zSKxWZ15z-3zDhTmLN.DB4x5Sr5Qa7psX6q)  
 
 ### ...
 
