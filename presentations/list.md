@@ -2,13 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [C++ Prague Meetup](https://discord.com/invite/PvnRNg6kss), Prague (Czechia) 
-
-#### C++ Myths, Dogma and Practice  
-[💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
-[📜Slides](2023/Conferences/C++ Myths, Dogma and Practice - Victor Ciura - C++ Prague Meetup.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### C++ MythBusters Strike 2  
@@ -26,7 +19,12 @@
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
 
 #### Swift ABI Resilience   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?tid=362) 
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=958aad6034930d571ed8d8eff3606b10a260ed23) 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Regular, Revisited   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=19adf046a29519e0fa307103303b70f17b6ec83f) 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -99,6 +97,12 @@
 #### Episode 140: 🇨🇦 CppNorth Live - Victor Ciura, Ben Deane, Vincent Zalzal, Tristan Brindle, Andreas Weis
 [🎙️Podcast](https://adspthepodcast.com/2023/07/28/Episode-140.html) 
 
+### 🗺️ [C++ Prague Meetup](https://discord.com/invite/PvnRNg6kss), Prague (Czechia) 
+
+#### C++ Myths, Dogma and Practice  
+[💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
+[📜Slides](2023/Conferences/C++ Myths, Dogma and Practice - Victor Ciura - C++ Prague Meetup.pdf) 
+[🎞️Video]()  
 
 ### ...
 
