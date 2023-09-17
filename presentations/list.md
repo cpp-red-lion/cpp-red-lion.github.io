@@ -90,7 +90,7 @@
 #### And Then() Some(T)   
 [💡Abstract](https://cppnorth.ca/speaker-victor-ciura.html) 
 [📜Slides](2023/Conferences/And Then() Some(T) - Victor Ciura - CppNorth 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=06VNq_tC-l0)  
 
 ### <img src="https://adspthepodcast.com/assets/img/pexels/adsp_white_on_red.png" height="32"> [ADSP Podcast Interview](https://adspthepodcast.com)  
 
