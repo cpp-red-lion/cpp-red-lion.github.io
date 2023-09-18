@@ -6,7 +6,7 @@
 
 #### C++ MythBusters Strike 2  
 [💡Abstract](https://ndctechtown.com/agenda/c-mythbusters-strike-2-0f00/0c4by5imivq) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - NDC TechTown 2023.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
