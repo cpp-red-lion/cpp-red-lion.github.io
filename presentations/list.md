@@ -83,7 +83,7 @@
 #### C++ MythBusters Strike 2  
 [💡Abstract](https://cpponsea.uk/2023/sessions/cpp-mythbusters-strike-2.html) 
 [📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - C++ On Sea 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=8FlP0FiARAI)  
 
 ### 🗺️ [CppNorth](https://cppnorth.ca), Toronto (CA) 
 
