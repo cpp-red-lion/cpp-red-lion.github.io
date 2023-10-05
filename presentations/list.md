@@ -13,7 +13,7 @@
 
 #### Regular, Revisited   
 [💡Abstract](https://sched.co/1QthC) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - CppCon 2023.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
