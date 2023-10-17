@@ -4,6 +4,11 @@
 
 ## <img src="https://isocpp.org/files/img/cpp_logo.png" height="48"> C++ User Groups
 
+### <img src="https://ciura.ro/img/praguecpp.png" height="48"> [Prague C++ User Group](https://www.meetup.com/prague-cpp/)  
+
+In the Spring of 2023, we rebooted the local **C++ User Group** in Prague, Czech Republic (EU). I'm one of the co-organizers; if you're interested in attending or speaking at one of our meetups, get in touch.   
+Join [Prague C++ User Group](https://www.meetup.com/prague-cpp/) on Meetup.  
+
 ### <img src="https://ciura.ro/img/craiovacpp.jpg" height="48"> [Craiova C++ User Group](https://www.facebook.com/groups/craiovacpp/)  
 
 In November 2017, I started a local **C++ User Group** in my hometown of Craiova, Romania (EU).  
