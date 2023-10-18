@@ -2,20 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
-
-#### C++ MythBusters Strike 2  
-[💡Abstract](https://ndctechtown.com/agenda/c-mythbusters-strike-2-0f00/0c4by5imivq) 
-[📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - NDC TechTown 2023.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
-
-#### Regular, Revisited   
-[💡Abstract](https://sched.co/1QthC) 
-[📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - CppCon 2023.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
 
 #### Swift ABI Resilience   
@@ -103,6 +89,20 @@
 [💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
 [📜Slides](2023/Conferences/C++ Myths, Dogma and Practice - Victor Ciura - C++ Prague Meetup.pdf) 
 [🎞️Video](https://us06web.zoom.us/rec/share/BiRJrkgZLxK0aG17YIweBZGwkdduqhF9WpAgPvrua4ITy4zSKxWZ15z-3zDhTmLN.DB4x5Sr5Qa7psX6q)  
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### C++ MythBusters Strike 2  
+[💡Abstract](https://ndctechtown.com/agenda/c-mythbusters-strike-2-0f00/0c4by5imivq) 
+[📜Slides](2023/Conferences/C++ MythBusters Strike 2 - Victor Ciura - NDC TechTown 2023.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### Regular, Revisited   
+[💡Abstract](https://sched.co/1QthC) 
+[📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - CppCon 2023.pdf) 
+[🎞️Video]()  
 
 ### ...
 
