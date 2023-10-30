@@ -2,6 +2,13 @@
 
 ## Upcoming...  
 
+### 🗺️ [C++ Prague Meetup](https://www.meetup.com/prague-cpp/), Prague (Czechia) 
+
+#### Casting Out Code Goblins: ASan's 🎃 Halloween Guard  
+[💡Abstract](https://www.meetup.com/prague-cpp/events/296856371/) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
 
 #### Swift ABI Resilience   
@@ -17,7 +24,7 @@
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
 #### Swift ABI Resilience   
-[💡Abstract]() 
+[💡Abstract](https://codedive.pl/#agenda) 
 [📜Slides]() 
 [🎞️Video]()  
 
