@@ -6,7 +6,7 @@
 
 #### Casting Out Code Goblins: ASan's 🎃 Halloween Guard  
 [💡Abstract](https://www.meetup.com/prague-cpp/events/296856371/) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/ASan - Victor Ciura - C++ Prague Meetup.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
