@@ -2,13 +2,6 @@
 
 ## Upcoming...  
 
-### 🗺️ [C++ Prague Meetup](https://www.meetup.com/prague-cpp/), Prague (Czechia) 
-
-#### Casting Out Code Goblins: ASan's 🎃 Halloween Guard  
-[💡Abstract](https://www.meetup.com/prague-cpp/events/296856371/) 
-[📜Slides](2023/Conferences/ASan - Victor Ciura - C++ Prague Meetup.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
 
 #### Swift ABI Resilience   
@@ -95,7 +88,7 @@
 #### C++ Myths, Dogma and Practice  
 [💡Abstract](https://www.linkedin.com/events/cpppragueseptembermeetup7104523295005237249/) 
 [📜Slides](2023/Conferences/C++ Myths, Dogma and Practice - Victor Ciura - C++ Prague Meetup.pdf) 
-[🎞️Video](https://us06web.zoom.us/rec/share/BiRJrkgZLxK0aG17YIweBZGwkdduqhF9WpAgPvrua4ITy4zSKxWZ15z-3zDhTmLN.DB4x5Sr5Qa7psX6q)  
+[🎞️Video](https://www.youtube.com/watch?v=67NS_3ny8mI)  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
@@ -110,6 +103,13 @@
 [💡Abstract](https://sched.co/1QthC) 
 [📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - CppCon 2023.pdf) 
 [🎞️Video]()  
+
+### 🗺️ [C++ Prague Meetup](https://www.meetup.com/prague-cpp/), Prague (Czechia) 
+
+#### Casting Out Code Goblins: ASan's 🎃 Halloween Guard  
+[💡Abstract](https://www.meetup.com/prague-cpp/events/296856371/) 
+[📜Slides](2023/Conferences/ASan - Victor Ciura - C++ Prague Meetup.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=P-i63cHzVs0)  
 
 ### ...
 
