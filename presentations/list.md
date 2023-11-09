@@ -102,7 +102,7 @@
 #### Regular, Revisited   
 [💡Abstract](https://sched.co/1QthC) 
 [📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - CppCon 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=PFI_rpboj8U)  
 
 ### 🗺️ [C++ Prague Meetup](https://www.meetup.com/prague-cpp/), Prague (Czechia) 
 
