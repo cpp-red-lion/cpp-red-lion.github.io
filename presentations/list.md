@@ -11,7 +11,7 @@
 
 #### Regular, Revisited   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=19adf046a29519e0fa307103303b70f17b6ec83f) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - Meeting C++ 2023.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
