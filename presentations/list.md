@@ -18,7 +18,7 @@
 
 #### Swift ABI Resilience   
 [💡Abstract](https://codedive.pl/#agenda) 
-[📜Slides]() 
+[📜Slides](2023/Conferences/Swift ABI Resilience - Victor Ciura - code dive 2023.pdf) 
 [🎞️Video]()  
 
 ### ...
