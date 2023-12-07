@@ -2,24 +2,7 @@
 
 ## Upcoming...  
 
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
-
-#### Swift ABI Resilience   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=958aad6034930d571ed8d8eff3606b10a260ed23) 
-[📜Slides](2023/Conferences/Swift ABI Resilience - Victor Ciura - Meeting C++ 2023.pdf) 
-[🎞️Video]()  
-
-#### Regular, Revisited   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=19adf046a29519e0fa307103303b70f17b6ec83f) 
-[📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - Meeting C++ 2023.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
-
-#### Swift ABI Resilience   
-[💡Abstract](https://codedive.pl/#agenda) 
-[📜Slides](2023/Conferences/Swift ABI Resilience - Victor Ciura - code dive 2023.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=buBO0t9KR70&t=28681s)  
+TBD
 
 ### ...
 
@@ -111,7 +94,24 @@
 [📜Slides](2023/Conferences/ASan - Victor Ciura - C++ Prague Meetup.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=P-i63cHzVs0)  
 
-### ...
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2023/), Berlin (Germany) 
+
+#### Swift ABI Resilience   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=958aad6034930d571ed8d8eff3606b10a260ed23) 
+[📜Slides](2023/Conferences/Swift ABI Resilience - Victor Ciura - Meeting C++ 2023.pdf) 
+[🎞️Video]()  
+
+#### Regular, Revisited   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=19adf046a29519e0fa307103303b70f17b6ec83f) 
+[📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - Meeting C++ 2023.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
+
+#### Swift ABI Resilience   
+[💡Abstract](https://codedive.pl/#agenda) 
+[📜Slides](2023/Conferences/Swift ABI Resilience - Victor Ciura - code dive 2023.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=-STE4rQjrjk)  
 
 ---
 ## 2022
