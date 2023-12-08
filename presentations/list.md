@@ -339,14 +339,10 @@ TBD
 
 #### Avoid Success at All Costs  
 [💡Abstract](https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Entry.ItemPage.8519.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) 
-[📜Slides]() 
-[🎞️Video]()  
-
+  
 #### C++ UNIverse  
 [💡Abstract](https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Entry.ItemPage.8490.0.EntryDefinition.8e89b843-c55c-4fd7-9083-2ba315b40166) 
-[📜Slides]() 
-[🎞️Video]()  
-
+  
 ### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
 #### Workshop: [Open4Tech](http://inf.ucv.ro/~summer-school/cursuri.php)
 #### C++17/20 STL Essentials *(online)*
@@ -359,9 +355,7 @@ TBD
 
 #### Avoid Success at All Costs  
 [💡Abstract](https://cpponsea.uk/news/announcing-speakers-for-2020.html) 
-[📜Slides]() 
-[🎞️Video]()  
-
+  
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 *Online event because of COVID-19 pandemic.* 
 
@@ -473,8 +467,7 @@ TBD
 #### Bootstrapping a Local C++ User Group  
 [💡Abstract](https://conference.accu.org/2018/sessions.html#XBootstrappingaLocalCUserGroup) 
 [📜Slides](2018/Conferences/Bootstrapping a Local C++ User Group - Victor Ciura - ACCU 2018.pdf) 
-[🎞️Video]()  
-
+  
 ### 🗺️ [C++ Russia Conference](https://cppconf.ru/en/), Saint-Petersburg (Russia)
 
 #### Enough string_view To Hang Ourselves  
