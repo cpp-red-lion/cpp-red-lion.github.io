@@ -45,7 +45,7 @@ TBD
 #### The Imperatives Must Go!  
 [💡Abstract](https://corecpp.org/schedule/#session-23) 
 [📜Slides](2023/Conferences/The Imperatives Must Go - Victor Ciura - Core C++ 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=WdWwbDJWx78)  
 
 ### 🗺️ [C++ on Sea](https://cpponsea.uk), Folkestone, UK  
  
