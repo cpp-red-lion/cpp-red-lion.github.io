@@ -2,7 +2,12 @@
 
 ## Upcoming...  
 
-TBD
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Open4Tech Guest Lecture: C++ Myths, Dogma and Practice  
+[💡Abstract](http://stud.inf.ucv.ro/2023/12/c-myths-dogma-and-practice/) 
+[📜Slides](2023/UNI/) 
+[📷Pictures](2023/UNI/pics) 
+[🎞️Video]()  
 
 ### ...
 
