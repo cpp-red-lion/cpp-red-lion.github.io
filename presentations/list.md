@@ -6,9 +6,8 @@
 #### Open4Tech Guest Lecture: C++ Myths, Dogma and Practice  
 [💡Abstract](http://stud.inf.ucv.ro/2023/12/c-myths-dogma-and-practice/) 
 [📜Slides](2023/UNI/C++ Myths, Dogma and Practice - Victor Ciura - Open4Tech 2023.pdf) 
-[📷Pictures](2023/UNI/pics) 
-[🎞️Video]()  
-
+[📷Pictures](2023/UNI/pics2)  
+  
 ### ...
 
 ---
