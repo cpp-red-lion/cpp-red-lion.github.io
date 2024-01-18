@@ -1,59 +1,62 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
+<head>
 
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <a href="/"><img src="/about/vic2018.jpg" width="200"/></a>
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
+  <meta charset="UTF-8">
 
-    </header>
+  {% seo %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</head>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+<body>
+  <header class="page-header" role="banner">
+    <a href="/"><img src="/about/vic2018.jpg" width="200" /></a>
+    <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-      <footer class="site-footer" style="text-align: center;">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <table id="Social" style="border: none; border-style: none; border-collapse: collapse; display: table;"/>
-        <tbody>
-          <tr style="border: none; border-style: none;">
-            <td style="border: none; border-style: none; vertical-align: middle; text-align: right; padding: 0">
-              <a href="https://twitter.com/ciura_victor" data-tooltip="Twitter" rel="nofollow" target="_blank">
-                <svg width="80" height="50" viewBox="0 0 416 448" fill="#55acee">
-                  <path
-                    d="M405 102q-16.75 24.5-40.5 41.75 0.25 3.5 0.25 10.5 0 32.5-9.5 64.875t-28.875 62.125-46.125 52.625-64.5 36.5-80.75 13.625q-67.75 0-124-36.25 8.75 1 19.5 1 56.25 0 100.25-34.5-26.25-0.5-47-16.125t-28.5-39.875q8.25 1.25 15.25 1.25 10.75 0 21.25-2.75-28-5.75-46.375-27.875t-18.375-51.375v-1q17 9.5 36.5 10.25-16.5-11-26.25-28.75t-9.75-38.5q0-22 11-40.75 30.25 37.25 73.625 59.625t92.875 24.875q-2-9.5-2-18.5 0-33.5 23.625-57.125t57.125-23.625q35 0 59 25.5 27.25-5.25 51.25-19.5-9.25 28.75-35.5 44.5 23.25-2.5 46.5-12.5z"/>
-                </svg>
-              </a>
-            </td>
-            <td style="border: none; border-style: none; vertical-align: middle; text-align: left; padding: 0">
-              <a href="https://twitter.com/ciura_victor" target="_blank">@ciura_victor</a>
-            </td>
-          </tr>
-        </tbody>
-        </table>
-        <span class="site-footer-credits" style="text-align: center;"> © Victor Ciura 2023 All rights reserved. </span>
-      </footer>
-    </main>
-  </body>
+  </header>
+
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+
+    <footer class="site-footer" style="text-align: center;">
+      {% if site.github.is_project_page %}
+      <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+        is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+      {% endif %}
+      <table id="Social" style="border: none; border-style: none; border-collapse: collapse; display: table;" />
+      <tbody>
+        <tr style="border: none; border-style: none;">
+          <td style="border: none; border-style: none; vertical-align: middle; text-align: left; padding: 0">
+            🐦 Twitter/X: <a href="https://twitter.com/ciura_victor" target="_blank">@ciura_victor</a>
+          </td>
+          <td style="border: none; border-style: none; vertical-align: middle; text-align: left; padding: 0">
+            🐘 Mastodon: <a href="https://hachyderm.io/@ciura_victor" target="_blank">hachyderm.io/@ciura_victor</a>
+          </td>
+          <td style="border: none; border-style: none; vertical-align: middle; text-align: left; padding: 0">
+            🦋 Bluesky: <a href="https://bsky.app/profile/ciuravictor.bsky.social"
+              target="_blank">@ciuravictor.bsky.social</a>
+          </td>
+        </tr>
+      </tbody>
+      </table>
+      <span class="site-footer-credits" style="text-align: center;"> © Victor Ciura 2024 All rights reserved. </span>
+    </footer>
+  </main>
+</body>
+
 </html>
