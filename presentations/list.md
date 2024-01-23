@@ -2,12 +2,18 @@
 
 ## Upcoming...  
 
-### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
-#### Open4Tech Guest Lecture: C++ Myths, Dogma and Practice  
-[💡Abstract](http://stud.inf.ucv.ro/2023/12/c-myths-dogma-and-practice/) 
-[📜Slides](2023/UNI/C++ Myths, Dogma and Practice - Victor Ciura - Open4Tech 2023.pdf) 
-[📷Pictures](2023/UNI/pics2)  
-  
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+
+#### Symmetry in Code - Should We Care?   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Regular, Revisited   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
@@ -108,7 +114,7 @@
 #### Regular, Revisited   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=19adf046a29519e0fa307103303b70f17b6ec83f) 
 [📜Slides](2023/Conferences/Regular Revisited - Victor Ciura - Meeting C++ 2023.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=9ilirLg9TzM)  
 
 ### 🗺️ [code::dive](https://codedive.pl), Wrocław (Poland) 
 
@@ -117,6 +123,12 @@
 [📜Slides](2023/Conferences/Swift ABI Resilience - Victor Ciura - code dive 2023.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=-STE4rQjrjk)  
 
+### 🗺️ [Computer Science Department](http://inf.ucv.ro), [University of Craiova](http://www.ucv.ro) (Romania) 
+#### Open4Tech Guest Lecture: C++ Myths, Dogma and Practice  
+[💡Abstract](http://stud.inf.ucv.ro/2023/12/c-myths-dogma-and-practice/) 
+[📜Slides](2023/UNI/C++ Myths, Dogma and Practice - Victor Ciura - Open4Tech 2023.pdf) 
+[📷Pictures](2023/UNI/pics2)  
+  
 ---
 ## 2022
 
