@@ -5,12 +5,12 @@
 ### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
 
 #### Symmetry in Code - Should We Care?   
-[💡Abstract]() 
+[💡Abstract](https://accuconference.org/session/symmetry-in-code-should-we-care) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### Regular, Revisited   
-[💡Abstract]() 
+[💡Abstract](https://accuconference.org/session/regular-revisited) 
 [📜Slides]() 
 [🎞️Video]()  
 
