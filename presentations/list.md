@@ -2,6 +2,13 @@
 
 ## Upcoming...  
 
+### 🗺️ [Rust Meetup @ Charles University](), Prague (Czechia) 
+
+#### "Shared nothing" architecture  
+[💡Abstract](https://www.meetup.com/rust-prague/events/299515169/) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
 
 #### Symmetry in Code - Should We Care?   
