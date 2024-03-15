@@ -2,7 +2,7 @@
 
 ## Upcoming...  
 
-### 🗺️ [Rust Meetup @ Charles University](), Prague (Czechia) 
+### 🗺️ [Rust Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
 
 #### "Shared nothing" architecture  
 [💡Abstract](https://www.meetup.com/rust-prague/events/299515169/) 
