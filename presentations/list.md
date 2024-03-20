@@ -6,7 +6,7 @@
 
 #### "Shared nothing" architecture  
 [💡Abstract](https://www.meetup.com/rust-prague/events/299515169/) 
-[📜Slides]() 
+[📜Slides](2024/Conferences/Shared-nothing Architecture - Victor Ciura - Rust Prague Meetup 2024.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=I6SJ9Kw4jAI&t=3698s)  
 
 ### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
