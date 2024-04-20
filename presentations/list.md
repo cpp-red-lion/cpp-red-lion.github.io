@@ -13,12 +13,12 @@
 
 #### Symmetry in Code - Should We Care?   
 [💡Abstract](https://accuconference.org/session/symmetry-in-code-should-we-care) 
-[📜Slides]() 
+[📜Slides](2024/Conferences/Symmetry in Code - Victor Ciura - ACCU 2024.pdf) 
 [🎞️Video]()  
 
 #### Regular, Revisited   
 [💡Abstract](https://accuconference.org/session/regular-revisited) 
-[📜Slides]() 
+[📜Slides](2024/Conferences/Regular Revisited - Victor Ciura - ACCU 2024.pdf) 
 [🎞️Video]()  
 
 ### ...
