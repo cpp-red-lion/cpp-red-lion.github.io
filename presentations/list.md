@@ -2,6 +2,18 @@
 
 ## Upcoming...  
 
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### Unleashing 🦀 The Ferris Within  
+[💡Abstract](https://ndctechtown.com/agenda/unleashing-the-ferris-within-0s4i/07z82hx6nqy) 
+[📜Slides]() 
+[🎞️Video]()  
+
+### ...
+
+---
+## 2024
+
 ### 🗺️ [Rust Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
 
 #### "Shared nothing" architecture  
