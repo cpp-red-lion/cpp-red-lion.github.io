@@ -28,7 +28,4 @@ This project is [open source](https://github.com/Caphyon/clang-power-tools) and 
 
 [Advanced Installer](https://www.advancedinstaller.com) is a powerful, yet easy to use, Windows Installer authoring tool which helps you create MSI installs, App-V and UWP [MSIX](https://www.advancedinstaller.com/msix-introduction.html) packages. Advanced Installer is an IDE targeting exclusively Windows developers that need to build deployment packages for their products. Aside from serving as a developer IDE, closing the ALM loop, Advanced Installer is also a comprehensive sys-admin tool helping thousands of IT workers in their repackaging and infrastructure deployment needs.
 
-At [CAPHYON](https://www.caphyon.com), I worked on Advanced Installer almost since its inception, developing various components, core-technologies and libraries, **since 2005**. Still having fun with this... 🤓  
-
-Advanced Installer is built almost exclusively in **C++** as a Win32/WTL GUI desktop application. Small parts of it are built using HTML5 or C# and it makes use of some third-party open-source C/C++ libraries, such as: Boost, Expat, HTMLayout, LZMA, Scintilla, SQLite, WTL, zlib.
-It is a fairly big codebase, with over **3 million** lines of C++ code, which produces over 190 DLL and EXE modules (most of them are customer deployed, others are internal tools).  
+At [CAPHYON](https://www.caphyon.com), I worked on Advanced Installer almost since its inception, developing various components, core-technologies and C++ libraries, for over 16 years.   
