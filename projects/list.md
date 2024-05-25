@@ -1,5 +1,13 @@
 # Projects
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/120px-Visual_Studio_Icon_2022.svg.png" height="48"> [Visual C++ (DevDiv)](https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B) 
+
+After 20 years of using VisualStudio, I joined the Visual C++ team at Microsoft, to help [improve the tools](https://devblogs.microsoft.com/cppblog/faster-cpp-source-code-indexing/) I love & use every day.   
+
+I lead engineering efforts across multiple teams working on making Visual Studio [the best IDE](https://devblogs.microsoft.com/cppblog/unreal-engine-cpp-game-development-made-easy-visual-studio-2022/) for C++ Game developers (Unreal Engine).  
+
+I was part of the Visual Studio & VSCode IDE Experience team, working on C++ LSP, IntelliSense, EDG compiler extensions, C++ source code indexing, navigation and linters.  
+
 ## <img src="https://www.caphyon.com/img/index/ai-icon.svg" height="48"> [Advanced Installer](https://www.advancedinstaller.com) 
 
 [Advanced Installer](https://www.advancedinstaller.com) is a powerful, yet easy to use, Windows Installer authoring tool which helps you create MSI installs, App-V and UWP [MSIX](https://www.advancedinstaller.com/msix-introduction.html) packages.  
