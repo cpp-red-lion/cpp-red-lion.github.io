@@ -33,6 +33,12 @@
 [📜Slides](2024/Conferences/Regular Revisited - Victor Ciura - ACCU 2024.pdf) 
 [🎞️Video]()  
 
+### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
+#### Speaking about C++  
+[💡Abstract](https://www.meetup.com/meeting-cpp-online/events/300734310/) 
+[📜Slides](2024/Conferences/Speaking - Victor Ciura - Meeting C++ 2024.pdf) 
+[🎞️Video]()  
+
 ### ...
 
 ---
