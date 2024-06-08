@@ -37,7 +37,12 @@
 #### Speaking about C++  
 [💡Abstract](https://www.meetup.com/meeting-cpp-online/events/300734310/) 
 [📜Slides](2024/Conferences/Speaking - Victor Ciura - Meeting C++ 2024.pdf) 
-[🎞️Video](https://youtu.be/SsYq42ciw1c?si=PIWAP0ht2offvfig&t=3038)  
+[🎞️Video](https://youtu.be/SsYq42ciw1c?si=PIWAP0ht2offvfig&t=3039)  
+
+#### Panel: Q&A  
+[💡Abstract](https://www.meetup.com/meeting-cpp-online/events/300734310/) 
+[📜Slides]() 
+[🎞️Video](https://youtu.be/SsYq42ciw1c?si=-oreJO6sCejofjNj&t=6054)  
 
 ### ...
 
