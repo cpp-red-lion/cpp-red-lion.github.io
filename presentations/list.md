@@ -9,6 +9,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
+
+#### Unleashing 🦀 The Ferris Within  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
