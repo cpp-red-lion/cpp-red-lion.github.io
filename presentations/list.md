@@ -9,6 +9,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### So You Think You Can Hash   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
 
 #### Unleashing 🦀 The Ferris Within  
