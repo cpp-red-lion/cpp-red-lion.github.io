@@ -19,7 +19,7 @@
 ### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
 
 #### Unleashing 🦀 The Ferris Within  
-[💡Abstract]() 
+[💡Abstract](https://eurorust.eu/talks/unleashing-rust-the-ferris-within/) 
 [📜Slides]() 
 [🎞️Video]()  
 
