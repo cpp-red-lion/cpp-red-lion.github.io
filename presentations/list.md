@@ -12,7 +12,7 @@
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### So You Think You Can Hash   
-[💡Abstract]() 
+[💡Abstract](https://cppcon2024.sched.com/event/1gZfQ/so-you-think-you-can-hash) 
 [📜Slides]() 
 [🎞️Video]()  
 
