@@ -3,6 +3,9 @@
 ## ⚙️ Visual C++ Blog  
 ### [Faster C++ Source Code Indexing](https://devblogs.microsoft.com/cppblog/faster-cpp-source-code-indexing/)  
 
+## 🤔 Musings  
+### [Why C++ Today?](./why-cpp.html)  
+
 ## 📓 Conference Trip Reports  
 ### [C++ On Sea Trip Report](cpponsea2022/tripreport.html)  
    
