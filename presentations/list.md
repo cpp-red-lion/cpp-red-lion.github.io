@@ -23,6 +23,13 @@
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2024/), Berlin (Germany) 
+
+#### Symmetry in Code - Should We Care?   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### ...
 
 ---
