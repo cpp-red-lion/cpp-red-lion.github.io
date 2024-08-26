@@ -16,11 +16,11 @@ I was part of the Visual Studio & VSCode IDE Experience team, working on C++ LSP
 
 ## <img src="https://raw.githubusercontent.com/Caphyon/clang-power-tools/master/ClangPowerTools.png" height="48"> [Clang Power Tools](http://clangpowertools.com)  
 
-One of my "hobbies" is tidying-up and modernizing (C++17) the aging codebase of Advanced Installer and I've been known to build tools that help this process: [Clang Power Tools](http://clangpowertools.com)   
+One of my "hobbies" was tidying-up and modernizing the aging C++ codebase of Advanced Installer and I've been known to build tools that help this process: [Clang Power Tools](http://clangpowertools.com)   
 
-In **2017**, I started this project with a few friends at Caphyon and we're having a blast with it.  
+Back in 2017, I started this project with a few friends at Caphyon and we had a blast with it.  
 
-Clang Power Tools is a free Visual Studio [extension](https://marketplace.visualstudio.com/items?itemName=caphyon.ClangPowerTools) helping Visual Studio C++ developers leverage [Clang/LLVM](http://releases.llvm.org/download.html) tools (clang++, clang-tidy and clang-format), in order to perform various code transformations and fixes like modernizing code to C++11/14/17 and finding subtle latent bugs with its static analyzer and CppCoreGuidelines checks.  
+Clang Power Tools is a free Visual Studio [extension](https://marketplace.visualstudio.com/items?itemName=caphyon.ClangPowerTools) helping Visual Studio C++ developers leverage [Clang/LLVM](http://releases.llvm.org/download.html) tools (clang++, clang-tidy and clang-format), in order to perform various code transformations and fixes like modernizing code and finding subtle latent bugs with its static analyzer and CppCoreGuidelines checks.  
 
 This project is [open source](https://github.com/Caphyon/clang-power-tools) and has enjoyed fantastic adoption and interest within the Visual C++ community.  
 
