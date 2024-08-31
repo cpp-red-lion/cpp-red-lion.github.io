@@ -1,5 +1,8 @@
 # Conference Presentations 
 
+When I speak at a conference and it's recorded, I'll add a links here.  
+For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?list=PLHpVRUmBhNONTaidPUtcxHjKxUpNbyRBk) of my conference talks.  
+
 ## Upcoming...  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
