@@ -1,6 +1,6 @@
 # About me
 
-**Victor Ciura** is a Principal Engineer on the Microsoft365 Substrate team, building the Rust foundational libraries needed as part of the broader 🦀Oxidizer effort across the organization.
+**Victor Ciura** is a Principal Engineer on the Rust team in Microsoft DevDiv, building the compiler toolchain and libraries needed for the broader 🦀Oxidizer effort across the organization and Rust open-source community.
 
 Spent the last 20+ years doing systems programming in C++ on various teams, such as: [Visual C++](https://devblogs.microsoft.com/cppblog/)(DevDiv), [Advanced Installer](https://www.advancedinstaller.com), [Clang Power Tools](http://clangpowertools.com).
 
