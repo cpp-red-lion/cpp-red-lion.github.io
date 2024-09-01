@@ -1,8 +1,8 @@
 # About me
 
-**Victor Ciura** is a Principal Engineer on the Rust team in Microsoft DevDiv, building the compiler toolchain and libraries needed for the broader 🦀Oxidizer effort across the organization and Rust open-source community.
+**Victor Ciura** is a Principal Engineer on the Rust team in Microsoft DevDiv, building the compiler toolchain and libraries needed for the broader 🦀Oxidizer effort across the organization and Rust open-source community.  
 
-Spent the last 20+ years doing systems programming in C++ on various teams, such as: [Visual C++](https://devblogs.microsoft.com/cppblog/)(DevDiv), [Advanced Installer](https://www.advancedinstaller.com), [Clang Power Tools](http://clangpowertools.com).
+Spent the last 20+ years doing systems programming in C++ on various teams, such as: [Visual C++](https://devblogs.microsoft.com/cppblog/) (DevDiv), [Advanced Installer](https://www.advancedinstaller.com), [Clang Power Tools](http://clangpowertools.com).  
 
 He's a regular guest at Computer Science Department of his _Alma Mater_, [University of Craiova](http://www.ace.ucv.ro), where he gives student lectures & workshops on algorithms and optimization techniques, using modern C++, Rust, Haskell.  
 
