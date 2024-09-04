@@ -30,6 +30,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Symmetry in Code - Should We Care?   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
+[🎞️Interview](https://www.youtube.com/watch?v=JGgyVv3UdAI) 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -65,8 +66,11 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Panel: Q&A  
 [💡Abstract](https://www.meetup.com/meeting-cpp-online/events/300734310/) 
-[📜Slides]() 
 [🎞️Video](https://www.youtube.com/watch?v=O-hR-u_jFlM)  
+
+#### Interview: "Symmetry in Code" teaser   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
+[🎞️Video](https://www.youtube.com/watch?v=JGgyVv3UdAI)  
 
 ### ...
 
