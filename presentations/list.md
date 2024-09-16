@@ -51,7 +51,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Symmetry in Code - Should We Care?   
 [💡Abstract](https://accuconference.org/session/symmetry-in-code-should-we-care) 
 [📜Slides](2024/Conferences/Symmetry in Code - Victor Ciura - ACCU 2024.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=Rj3bHPSBABo)  
+[🎞️Video](https://www.youtube.com/watch?v=sRAGV60PWBM)  
 
 #### Regular Types: From Stepanov to C++ Concepts   
 [💡Abstract](https://accuconference.org/session/regular-revisited) 
