@@ -16,7 +16,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### So You Think You Can Hash   
 [💡Abstract](https://cppcon2024.sched.com/event/1gZfQ/so-you-think-you-can-hash) 
-[📜Slides]() 
+[📜Slides](2024/Conferences/So You Think You Can Hash - Victor Ciura - CppCon 2024.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
