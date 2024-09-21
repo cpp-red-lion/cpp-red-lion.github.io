@@ -5,20 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
-### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
-
-#### Unleashing 🦀 The Ferris Within  
-[💡Abstract](https://ndctechtown.com/agenda/unleashing-the-ferris-within-0s4i/07z82hx6nqy) 
-[📜Slides](2024/Conferences/Unleashing The Ferris Within - Victor Ciura - NDC TechTown 2024.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
-
-#### So You Think You Can Hash   
-[💡Abstract](https://cppcon2024.sched.com/event/1gZfQ/so-you-think-you-can-hash) 
-[📜Slides](2024/Conferences/So You Think You Can Hash - Victor Ciura - CppCon 2024.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
 
 #### Unleashing 🦀 The Ferris Within  
@@ -71,6 +57,20 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Interview: "Symmetry in Code" teaser   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
 [🎞️Video](https://www.youtube.com/watch?v=JGgyVv3UdAI)  
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### Unleashing 🦀 The Ferris Within  
+[💡Abstract](https://ndctechtown.com/agenda/unleashing-the-ferris-within-0s4i/07z82hx6nqy) 
+[📜Slides](2024/Conferences/Unleashing The Ferris Within - Victor Ciura - NDC TechTown 2024.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### So You Think You Can Hash   
+[💡Abstract](https://cppcon2024.sched.com/event/1gZfQ/so-you-think-you-can-hash) 
+[📜Slides](2024/Conferences/So You Think You Can Hash - Victor Ciura - CppCon 2024.pdf) 
+[🎞️Video]()  
 
 ### ...
 
