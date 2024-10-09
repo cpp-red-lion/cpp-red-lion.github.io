@@ -42,7 +42,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Regular Types: From Stepanov to C++ Concepts   
 [💡Abstract](https://accuconference.org/session/regular-revisited) 
 [📜Slides](2024/Conferences/Regular Revisited - Victor Ciura - ACCU 2024.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=ZwHD6-6EDYc)  
 
 ### 🗺️ [Meeting C++ User Group](https://www.meetingcpp.com), [Online]   
 #### Speaking about C++  
