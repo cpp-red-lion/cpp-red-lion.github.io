@@ -70,7 +70,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### So You Think You Can Hash   
 [💡Abstract](https://cppcon2024.sched.com/event/1gZfQ/so-you-think-you-can-hash) 
 [📜Slides](2024/Conferences/So You Think You Can Hash - Victor Ciura - CppCon 2024.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=lNR_AWs0q9w)  
 
 ### ...
 
