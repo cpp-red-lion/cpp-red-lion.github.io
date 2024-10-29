@@ -20,6 +20,14 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Rust Nation UK](https://www.rustnationuk.com), London (UK) 
+
+#### ABI Resilience?  
+[💡Abstract](https://www.rustnationuk.com) 
+[📜Slides]() 
+[🎞️Video]()  
+
+
 ### ...
 
 ---
