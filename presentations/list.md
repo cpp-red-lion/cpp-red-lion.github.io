@@ -10,7 +10,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Unleashing 🦀 The Ferris Within  
 [💡Abstract](https://eurorust.eu/talks/unleashing-rust-the-ferris-within/) 
 [📜Slides](2024/Conferences/Unleashing The Ferris Within - Victor Ciura - EuroRust 2024.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=kiG5-LzIQ54)  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2024/), Berlin (Germany) 
 
