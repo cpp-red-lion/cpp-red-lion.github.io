@@ -17,6 +17,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Symmetry in Code - Should We Care?   
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
 [🎞️Interview](https://www.youtube.com/watch?v=JGgyVv3UdAI) 
+[📜Slides](2024/Conferences/Symmetry in Code - Victor Ciura - Meeting C++ 2024.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [Rust/C++ Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
+
+#### Rust and C++ interop introduction & discussion  
+[💡Abstract](https://www.meetup.com/rust-prague/events/304002733/) 
 [📜Slides]() 
 [🎞️Video]()  
 
