@@ -23,7 +23,8 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [Rust/C++ Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
 
 #### Rust and C++ interop introduction & discussion  
-[💡Abstract](https://www.meetup.com/rust-prague/events/304002733/) 
+[💡Event Rust](https://www.meetup.com/rust-prague/events/304002733/) 
+[💡Event C++](https://www.meetup.com/prague-cpp/events/304002917/) 
 [📜Slides]() 
 [🎞️Video]()  
 
