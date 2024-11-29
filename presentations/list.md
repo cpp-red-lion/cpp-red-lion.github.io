@@ -25,7 +25,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Rust and C++ interop introduction & discussion  
 [💡Event Rust](https://www.meetup.com/rust-prague/events/304002733/) 
 [💡Event C++](https://www.meetup.com/prague-cpp/events/304002917/) 
-[📜Slides]() 
+[📜Slides](2024/Conferences/Duck-Tape Chronicles - Victor Ciura - Rust & C++ Meetup Prague 2024.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Rust Nation UK](https://www.rustnationuk.com), London (UK) 
