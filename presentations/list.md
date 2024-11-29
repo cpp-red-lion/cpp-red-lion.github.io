@@ -5,33 +5,22 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
-### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
-
-#### Unleashing 🦀 The Ferris Within  
-[💡Abstract](https://eurorust.eu/talks/unleashing-rust-the-ferris-within/) 
-[📜Slides](2024/Conferences/Unleashing The Ferris Within - Victor Ciura - EuroRust 2024.pdf) 
-[🎞️Video](https://www.youtube.com/watch?v=kiG5-LzIQ54)  
-
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2024/), Berlin (Germany) 
-
-#### Symmetry in Code - Should We Care?   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
-[🎞️Interview](https://www.youtube.com/watch?v=JGgyVv3UdAI) 
-[📜Slides](2024/Conferences/Symmetry in Code - Victor Ciura - Meeting C++ 2024.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [Rust/C++ Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
-
-#### Rust and C++ interop introduction & discussion  
-[💡Event Rust](https://www.meetup.com/rust-prague/events/304002733/) 
-[💡Event C++](https://www.meetup.com/prague-cpp/events/304002917/) 
-[📜Slides](2024/Conferences/Duck-Tape Chronicles - Victor Ciura - Rust & C++ Meetup Prague 2024.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [Rust Nation UK](https://www.rustnationuk.com), London (UK) 
 
 #### ABI Resilience?  
 [💡Abstract](https://www.rustnationuk.com) 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+
+#### Duck-Tape Chronicles: Rust C++ Interop   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Rust: Cargo Cult?   
+[💡Abstract]() 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -88,7 +77,28 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides](2024/Conferences/So You Think You Can Hash - Victor Ciura - CppCon 2024.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=lNR_AWs0q9w)  
 
-### ...
+### 🗺️ [EuroRust](https://eurorust.eu), Vienna (Austria) 
+
+#### Unleashing 🦀 The Ferris Within  
+[💡Abstract](https://eurorust.eu/talks/unleashing-rust-the-ferris-within/) 
+[📜Slides](2024/Conferences/Unleashing The Ferris Within - Victor Ciura - EuroRust 2024.pdf) 
+[🎞️Video](https://www.youtube.com/watch?v=kiG5-LzIQ54)  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2024/), Berlin (Germany) 
+
+#### Symmetry in Code - Should We Care?   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
+[🎞️Interview](https://www.youtube.com/watch?v=JGgyVv3UdAI) 
+[📜Slides](2024/Conferences/Symmetry in Code - Victor Ciura - Meeting C++ 2024.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [Rust/C++ Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
+
+#### Rust and C++ interop introduction & discussion  
+[💡Event Rust](https://www.meetup.com/rust-prague/events/304002733/) 
+[💡Event C++](https://www.meetup.com/prague-cpp/events/304002917/) 
+[📜Slides](2024/Conferences/Duck-Tape Chronicles - Victor Ciura - Rust & C++ Meetup Prague 2024.pdf) 
+[🎞️Video](https://youtu.be/KoXZpi0H3JM?si=VJtVrHw2GyTvxAMV&t=3997)  
 
 ---
 ## 2023
