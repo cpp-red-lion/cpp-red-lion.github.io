@@ -68,7 +68,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Unleashing 🦀 The Ferris Within  
 [💡Abstract](https://ndctechtown.com/agenda/unleashing-the-ferris-within-0s4i/07z82hx6nqy) 
 [📜Slides](2024/Conferences/Unleashing The Ferris Within - Victor Ciura - NDC TechTown 2024.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=-ZFeappKc8s)  
 
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
