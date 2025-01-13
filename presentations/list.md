@@ -12,15 +12,15 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
-### 🗺️ [ACCU Conference](https://conference.accu.org), Bristol (UK) 
+### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
 
 #### Duck-Tape Chronicles: Rust C++ Interop   
-[💡Abstract]() 
+[💡Abstract](https://accuconference.org/2025/session/duck-tape-chronicles-rust-cpp-interop) 
 [📜Slides]() 
 [🎞️Video]()  
 
 #### Rust: Cargo Cult?   
-[💡Abstract]() 
+[💡Abstract](https://accuconference.org/2025/session/rust-cargo-cult) 
 [📜Slides]() 
 [🎞️Video]()  
 
