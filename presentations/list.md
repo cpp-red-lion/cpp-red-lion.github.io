@@ -24,6 +24,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
+
+#### Duck-Tape Chronicles: Rust C++ Interop   
+[💡Abstract](https://rustweek.org/#schedule) 
+[📜Slides]() 
+[🎞️Video]()  
+
 
 ### ...
 
