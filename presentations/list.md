@@ -97,7 +97,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=2f176685fa8f302bf23d0f4f1aa85b7c1b78d345) 
 [🎞️Interview](https://www.youtube.com/watch?v=JGgyVv3UdAI) 
 [📜Slides](2024/Conferences/Symmetry in Code - Victor Ciura - Meeting C++ 2024.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=CkdsKUV1640)  
 
 ### 🗺️ [Rust/C++ Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
 
