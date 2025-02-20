@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### ABI Resilience?  
 [💡Abstract](https://www.rustnationuk.com/schedule) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/ABI Resilience - Victor Ciura - RustNationUK 2025.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
