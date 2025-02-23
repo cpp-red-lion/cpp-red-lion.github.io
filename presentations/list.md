@@ -31,6 +31,12 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### TBD 🦀   
+[💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
+[📜Slides]() 
+[🎞️Video]()  
 
 ### ...
 
