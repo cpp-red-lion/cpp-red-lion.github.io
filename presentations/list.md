@@ -12,6 +12,11 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides](2025/Conferences/ABI Resilience - Victor Ciura - RustNationUK 2025.pdf) 
 [🎞️Video]()  
 
+### <img src="https://lcdn.letscast.fm/media/podcast/a100f0a6/artwork-300x300.png?t=1702310004" height="32"> [Rust in Production Podcast Interview](https://corrode.dev/podcast/)  
+
+#### Season 04 Episode 1: Rust at Microsoft  
+[🎙️Podcast]() 
+
 ### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
 
 #### Duck-Tape Chronicles: Rust C++ Interop   
