@@ -10,7 +10,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### ABI Resilience?  
 [💡Abstract](https://www.rustnationuk.com/schedule) 
 [📜Slides](2025/Conferences/ABI Resilience - Victor Ciura - RustNationUK 2025.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=EpJWD6HowKc)  
 
 ### <img src="https://lcdn.letscast.fm/media/podcast/a100f0a6/artwork-300x300.png?t=1702310004" height="32"> [Rust in Production Podcast Interview](https://corrode.dev/podcast/)  
 
