@@ -14,7 +14,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust: Cargo Cult?   
 [💡Abstract](https://accuconference.org/2025/session/rust-cargo-cult) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/Rust - Cargo Cult - Victor Ciura - ACCU 2025.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
