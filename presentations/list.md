@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Duck-Tape Chronicles: Rust C++ Interop   
 [💡Abstract](https://accuconference.org/2025/session/duck-tape-chronicles-rust-cpp-interop) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - ACCU 2025.pdf) 
 [🎞️Video]()  
 
 #### Rust: Cargo Cult?   
