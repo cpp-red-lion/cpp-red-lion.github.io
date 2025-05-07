@@ -17,7 +17,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
-#### Invited / TBD 🦀   
+#### Rust/C++ Interop: Carcinization or Intelligent Design?   
 [💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
 [📜Slides]() 
 [🎞️Video]()  
