@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Duck-Tape Chronicles: Rust C++ Interop   
 [💡Abstract](https://rustweek.org/talks/victor/) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - RustWeek 2025.pdf) 
 [🎞️Video]()  
 
 #### Rust Project All-Hands 2025   
