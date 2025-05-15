@@ -13,7 +13,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [🎞️Video]()  
 
 #### Rust Project All-Hands 2025   
-[💡Meetings](https://rustweek.org/all-hands/) 
+[💡Interop Study Group](https://rustweek.org/all-hands/) 
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
