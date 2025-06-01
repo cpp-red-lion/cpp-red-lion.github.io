@@ -5,16 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
-### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
-
-#### Duck-Tape Chronicles: Rust C++ Interop   
-[💡Abstract](https://rustweek.org/talks/victor/) 
-[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - RustWeek 2025.pdf) 
-[🎞️Video]()  
-
-#### Rust Project All-Hands 2025   
-[💡Interop Study Group](https://rustweek.org/all-hands/) 
-
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?   
@@ -22,9 +12,10 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
-### ...
+### ... TBA  
 
 ---
+
 ## 2025
 
 ### 🗺️ [Rust Nation UK](https://www.rustnationuk.com), London (UK) 
@@ -51,7 +42,20 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Season 04 Episode 1: Rust at Microsoft  
 [🎙️Podcast](https://corrode.dev/podcast/s04e01-microsoft/) 
 
+### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
+
+#### Duck-Tape Chronicles: Rust C++ Interop   
+[💡Abstract](https://rustweek.org/talks/victor/) 
+[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - RustWeek 2025.pdf) 
+[🎞️Video]()  
+
+#### Rust Project All-Hands 2025   
+[💡Interop Study Group](https://rustweek.org/all-hands/) 
+
+### ...
+
 ---
+
 ## 2024
 
 ### 🗺️ [Rust Meetup @ Charles University](https://www.meetup.com/rust-prague/), Prague (Czechia) 
