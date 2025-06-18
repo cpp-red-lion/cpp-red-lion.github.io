@@ -30,12 +30,12 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Duck-Tape Chronicles: Rust C++ Interop   
 [💡Abstract](https://accuconference.org/2025/session/duck-tape-chronicles-rust-cpp-interop) 
 [📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - ACCU 2025.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=vvjChfGciOc)  
 
 #### Rust: Cargo Cult?   
 [💡Abstract](https://accuconference.org/2025/session/rust-cargo-cult) 
 [📜Slides](2025/Conferences/Rust - Cargo Cult - Victor Ciura - ACCU 2025.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=cEEBwg6Aaww)  
 
 ### <img src="https://lcdn.letscast.fm/media/podcast/a100f0a6/artwork-300x300.png?t=1702310004" height="32"> [Rust in Production Podcast Interview](https://corrode.dev/podcast/)  
 
