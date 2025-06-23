@@ -15,7 +15,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
 
 #### Rust for The Curious C++ Developers   
-[💡Abstract]() 
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=c1588ec2b1b182a0a586e0fb2583e34f7d44b1c2) 
 [📜Slides]() 
 [🎞️Video]()  
 
