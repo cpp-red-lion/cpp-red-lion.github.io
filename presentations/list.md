@@ -5,6 +5,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### Duck-Tape Chronicles: Rust/C++ Interop   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?   
