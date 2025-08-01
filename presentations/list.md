@@ -8,7 +8,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
 
 #### Duck-Tape Chronicles: Rust/C++ Interop   
-[💡Abstract]() 
+[💡Abstract](https://sched.co/27bRC) 
 [📜Slides]() 
 [🎞️Video]()  
 
