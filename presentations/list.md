@@ -19,6 +19,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [EuroRust](https://eurorust.eu), Paris (France) 
+
+#### Rust/C++ Interop: Carcinization or Intelligent Design?  
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
 
 #### Rust for The Curious C++ Developers   
