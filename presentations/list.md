@@ -22,7 +22,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [EuroRust](https://eurorust.eu), Paris (France) 
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?  
-[💡Abstract]() 
+[💡Abstract](https://eurorust.eu/talks/rust-c-plus-plus-interop/) 
 [📜Slides]() 
 [🎞️Video]()  
 
