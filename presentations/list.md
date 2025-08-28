@@ -19,6 +19,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [Rust Moravia](https://www.meetup.com/rust-moravia/), Brno (Czechia) 
+
+#### Rust Without Fear  
+[💡Abstract](https://www.meetup.com/rust-moravia/events/310743282/) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [EuroRust](https://eurorust.eu), Paris (France) 
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?  
