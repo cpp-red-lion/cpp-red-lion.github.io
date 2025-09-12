@@ -1,5 +1,9 @@
 # Projects
 
+## 🦀 Undisclosed Rust Project (Microsoft CoreAI/DevDiv)
+
+Since September 2024, I've been leading a new team in DevDiv (CoreAI organization), working on an undisclosed Rust project, at Microsoft. Details to be shared later... 
+
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/200px-Microsoft_365_%282022%29.svg.png" height="48"> [Microsoft 365 - Oxidizer](https://en.wikipedia.org/wiki/Microsoft_365) 
 
 I joined the M365 Core Substrate 🦀 Rust team, to help build the foundational libraries and reusable components needed as part of the broader 🔥Oxidizer effort across Microsoft. I'm one of the designers & core maintainers of the Oxidizer SDK (Rust libraries).   
@@ -24,7 +28,7 @@ Clang Power Tools is a free Visual Studio [extension](https://marketplace.visual
 
 This project is [open source](https://github.com/Caphyon/clang-power-tools) and has enjoyed fantastic adoption and interest within the Visual C++ community.  
 
-## <img src="https://www.caphyon.com/img/index/ai-icon.svg" height="48"> [Advanced Installer](https://www.advancedinstaller.com) 
+## <img src="https://www.advancedinstaller.com/favicons/favicon-96x96.png" height="48"> [Advanced Installer](https://www.advancedinstaller.com) 
 
 [Advanced Installer](https://www.advancedinstaller.com) is a powerful, yet easy to use, Windows Installer authoring tool which helps you create MSI installs, App-V and UWP [MSIX](https://www.advancedinstaller.com/msix-introduction.html) packages. Advanced Installer is an IDE targeting exclusively Windows developers that need to build deployment packages for their products. Aside from serving as a developer IDE, closing the ALM loop, Advanced Installer is also a comprehensive sys-admin tool helping thousands of IT workers in their repackaging and infrastructure deployment needs.
 
