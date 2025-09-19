@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Duck-Tape Chronicles: Rust/C++ Interop   
 [💡Abstract](https://sched.co/27bRC) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - CppCon 2025.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
