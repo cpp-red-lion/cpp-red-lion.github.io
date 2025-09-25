@@ -16,7 +16,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?   
 [💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - NDC TechTown 2025.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Rust Moravia](https://www.meetup.com/rust-moravia/), Brno (Czechia) 
