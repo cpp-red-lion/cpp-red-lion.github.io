@@ -5,27 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
-### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
-
-#### Duck-Tape Chronicles: Rust/C++ Interop   
-[💡Abstract](https://sched.co/27bRC) 
-[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - CppCon 2025.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
-
-#### Rust/C++ Interop: Carcinization or Intelligent Design?   
-[💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
-[📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - NDC TechTown 2025.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [Rust Moravia](https://www.meetup.com/rust-moravia/), Brno (Czechia) 
-
-#### Rust Without Fear  
-[💡Abstract](https://www.meetup.com/rust-moravia/events/310743282/) 
-[📜Slides]() 
-[🎞️Video]()  
-
 ### 🗺️ [EuroRust](https://eurorust.eu), Paris (France) 
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?  
@@ -39,7 +18,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=c1588ec2b1b182a0a586e0fb2583e34f7d44b1c2) 
 [📜Slides]() 
 [🎞️Video]()  
-
 
 ### ... TBA  
 
@@ -80,6 +58,27 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust Project All-Hands 2025   
 [💡Interop Study Group](https://rustweek.org/all-hands/) 
+
+### 🗺️ [CppCon Conference](https://cppcon.org), Aurora, CO (USA) 
+
+#### Duck-Tape Chronicles: Rust/C++ Interop   
+[💡Abstract](https://sched.co/27bRC) 
+[📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - CppCon 2025.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### Rust/C++ Interop: Carcinization or Intelligent Design?   
+[💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
+[📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - NDC TechTown 2025.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [Rust Moravia](https://www.meetup.com/rust-moravia/), Brno (Czechia) 
+
+#### Rust Without Fear  
+[💡Abstract](https://www.meetup.com/rust-moravia/events/310743282/) 
+[📜Slides](2025/UG/Rust Without Fear - Victor Ciura - Moravia Meetup 2025.pdf) 
+[📷Pictures](2025/UG/pics)   
 
 ### ...
 
