@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?  
 [💡Abstract](https://eurorust.eu/talks/rust-c-plus-plus-interop/) 
-[📜Slides]() 
+[📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - EuroRust 2025.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
