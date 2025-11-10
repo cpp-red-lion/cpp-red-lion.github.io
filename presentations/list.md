@@ -5,20 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
-### 🗺️ [EuroRust](https://eurorust.eu), Paris (France) 
-
-#### Rust/C++ Interop: Carcinization or Intelligent Design?  
-[💡Abstract](https://eurorust.eu/talks/rust-c-plus-plus-interop/) 
-[📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - EuroRust 2025.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
-
-#### Rust for The Curious C++ Developers   
-[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=c1588ec2b1b182a0a586e0fb2583e34f7d44b1c2) 
-[📜Slides]() 
-[🎞️Video]()  
-
 ### ... TBA  
 
 ---
@@ -80,7 +66,19 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides](2025/UG/Rust Without Fear - Victor Ciura - Moravia Meetup 2025.pdf) 
 [📷Pictures](2025/UG/pics)   
 
-### ...
+### 🗺️ [EuroRust](https://eurorust.eu), Paris (France) 
+
+#### Rust/C++ Interop: Carcinization or Intelligent Design?  
+[💡Abstract](https://eurorust.eu/talks/rust-c-plus-plus-interop/) 
+[📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - EuroRust 2025.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
+
+#### Rust for The Curious C++ Developers   
+[💡Abstract](https://meetingcpp.com/2025/Talks/items/Rust_for_The_Curious_Cpp_Developers.html) 
+[📜Slides]() 
+[🎞️Video]()  
 
 ---
 
