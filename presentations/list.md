@@ -50,14 +50,14 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Duck-Tape Chronicles: Rust/C++ Interop   
 [💡Abstract](https://sched.co/27bRC) 
 [📜Slides](2025/Conferences/Duck-Tape Chronicles - Victor Ciura - CppCon 2025.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=8xqhSy539Pc)  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### Rust/C++ Interop: Carcinization or Intelligent Design?   
 [💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
 [📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - NDC TechTown 2025.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=eqGztKTX6jA)  
 
 ### 🗺️ [Rust Moravia](https://www.meetup.com/rust-moravia/), Brno (Czechia) 
 
@@ -71,7 +71,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Rust/C++ Interop: Carcinization or Intelligent Design?  
 [💡Abstract](https://eurorust.eu/talks/rust-c-plus-plus-interop/) 
 [📜Slides](2025/Conferences/Rust C++ Interop - Carcinization or Intelligent Design - Victor Ciura - EuroRust 2025.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=n5UNkH_rKmE)  
 
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
 
