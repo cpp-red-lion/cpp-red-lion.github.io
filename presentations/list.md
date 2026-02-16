@@ -3,14 +3,12 @@
 When I speak at a conference and it's recorded, I'll add a links here.  
 For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?list=PLHpVRUmBhNONTaidPUtcxHjKxUpNbyRBk) of my conference talks.  
 
-## Upcoming appearances...  
-
-## 2026
+## Upcoming appearances (2026)...  
 
 ### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
 
 #### Rust Project All-Hands   
-[Rust/C++ Interop Study Group](https://rustweek.org/all-hands/) 
+[💡 Rust/C++ Interop Study Group](https://rustweek.org/all-hands/) 
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
