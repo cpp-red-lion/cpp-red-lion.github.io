@@ -5,6 +5,21 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances...  
 
+## 2026
+
+### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
+
+#### Rust Project All-Hands   
+[Rust/C++ Interop Study Group](https://rustweek.org/all-hands/) 
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### Rust/C++ TBA     
+[💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
+[📜Slides]() 
+[🎞️Video]()  
+
+
 ### ... TBA  
 
 ---
