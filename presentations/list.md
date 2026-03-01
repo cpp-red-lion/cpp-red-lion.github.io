@@ -10,7 +10,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Rust Project All-Hands   
 [💡 Rust/C++ Interop Study Group](https://rustweek.org/all-hands/) 
 
-### 🗺️ [ACCU Conference](https://accuconference.org), Bristol (UK) 
+### 🗺️ [ACCU on Sea](https://accuonsea.uk), Folkestone (UK) 
 
 #### Rust for The Curious C++ Developers   
 [💡Abstract]() 
