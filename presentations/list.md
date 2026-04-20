@@ -8,12 +8,12 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
 
 #### Rust Project All-Hands   
-[💡 Rust/C++ Interop Study Group](https://rustweek.org/all-hands/) 
+[💡 Rust/C++ Interop Study Group](https://2026.rustweek.org/events/all-hands/) 
 
 ### 🗺️ [ACCU on Sea](https://accuonsea.uk), Folkestone (UK) 
 
 #### Rust for The Curious C++ Developers   
-[💡Abstract]() 
+[💡Abstract](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/) 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -21,6 +21,11 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust/C++ TBA     
 [💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
+[📜Slides]() 
+[🎞️Video]()  
+
+#### Rust Panel     
+[💡Abstract](https://ndctechtown.com/agenda/panel/cf951181dcb2) 
 [📜Slides]() 
 [🎞️Video]()  
 
