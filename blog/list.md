@@ -4,6 +4,8 @@
 
 ## 📓 Conference Trip Reports  
 
+### [RustWeek 2026 Trip Report](RustWeek_2026/RustWeek_2026_Trip_Report.html)  
+
 ### [RustWeek 2025 Trip Report](RustWeek_2025/RustWeek_2025_Trip_Report.html)  
 
 ### [C++ On Sea 2022 Trip Report](cpponsea2022/tripreport.html)  
