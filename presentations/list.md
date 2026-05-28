@@ -5,11 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances (2026)...  
 
-### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
-
-#### Rust Project All-Hands   
-[💡 Rust/C++ Interop Study Group](https://2026.rustweek.org/events/all-hands/) 
-
 ### 🗺️ [ACCU on Sea](https://accuonsea.uk), Folkestone (UK) 
 
 #### Rust for The Curious C++ Developers   
@@ -19,18 +14,29 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
-#### Rust/C++ TBA     
-[💡Abstract](https://ndctechtown.com/speakers/victor-ciura) 
+#### Allocator-Aware Rust     
+[💡Abstract](https://ndctechtown.com/agenda/allocator-aware-rust-0iqa/08yu11b65o9) 
 [📜Slides]() 
 [🎞️Video]()  
 
-#### Rust Panel     
-[💡Abstract](https://ndctechtown.com/agenda/panel/cf951181dcb2) 
+#### Panel: Rust (in production) Without Fear     
+[💡Abstract](https://ndctechtown.com/agenda/panel-rust-in-production-without-fear-0c76/0i6spnoju14) 
 [📜Slides]() 
 [🎞️Video]()  
 
 
 ### ... TBA  
+
+---
+
+## 2026
+
+### 🗺️ [Rust Week Conference](https://rustweek.org), Utrecht (NL) 
+
+#### Rust Project All-Hands   
+[💡 Rust/C++ Interop Study Group](https://2026.rustweek.org/events/all-hands/) 
+
+### ... 
 
 ---
 
