@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust for The Curious C++ Developers   
 [💡Abstract](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/) 
-[📜Slides]() 
+[📜Slides](2026/Conferences/Rust-for-the-Curious-Cpp-Developers.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
