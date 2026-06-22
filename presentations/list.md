@@ -5,13 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances (2026)...  
 
-### 🗺️ [ACCU on Sea](https://accuonsea.uk), Folkestone (UK) 
-
-#### Rust for The Curious C++ Developers   
-[💡Abstract](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/) 
-[📜Slides](2026/Conferences/Rust-for-the-Curious-Cpp-Developers.pdf) 
-[🎞️Video]()  
-
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### Allocator-Aware Rust     
@@ -21,6 +14,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Panel: Rust (in production) Without Fear     
 [💡Abstract](https://ndctechtown.com/agenda/panel-rust-in-production-without-fear-0c76/0i6spnoju14) 
+[📜Slides]() 
+[🎞️Video]()  
+
+### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
+
+#### Memory Allocator Amnesia   
+[💡Abstract](https://meetingcpp.com/mcpp/schedule/talkview.php?th=52d55201165f1c2f0bbb7a0338314a4bbcf7a449) 
 [📜Slides]() 
 [🎞️Video]()  
 
@@ -35,6 +35,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust Project All-Hands   
 [💡 Rust/C++ Interop Study Group](https://2026.rustweek.org/events/all-hands/) 
+
+### 🗺️ [ACCU on Sea](https://accuonsea.uk), Folkestone (UK) 
+
+#### Rust for The Curious C++ Developers   
+[💡Abstract](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/) 
+[📜Slides](2026/Conferences/Rust-for-the-Curious-Cpp-Developers.pdf) 
+[🎞️Video]()  
 
 ### ... 
 
