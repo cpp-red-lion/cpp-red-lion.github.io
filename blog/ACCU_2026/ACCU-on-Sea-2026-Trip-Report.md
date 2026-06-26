@@ -23,12 +23,10 @@ forefront of what's happening in the world of software development.
 
 And while its roots are firmly in C and C++, that community expanded long
 ago to embrace other language ecosystems. Across the programme you should
-expect content on C#, D, F#, Go, JavaScript, Haskell, Java, Kotlin, Lisp,
-Python, Ruby, Rust, Swift, and more - alongside the perennial sessions on
-TDD, BDD, and simply *how to do programming right*. This year, C++, Rust,
-and the safety/AI conversation happened to dominate my own schedule - but a
-few rooms over, the conversation looked completely different, and that
-breadth is precisely the point.
+expect content on C#, D, F#, Go, Haskell, Lisp,
+Python, Rust, Swift, and more - alongside the perennial sessions on *how to do programming right*.  
+
+This year, C++ and safety, Rust and AI topics happened to dominate my own schedule - but a few rooms over, the conversation looked completely different, and that breadth is precisely the point of this event.
 
 ---
 
@@ -195,7 +193,7 @@ fast, varied, and occasionally profound. The line-up was a joy.
 
 ![The lightning talks line-up](photos/IMG_5910.jpeg)
 
-Highlights from the running order included Kevlin Henney's **"Difficult and
+Highlights included Kevlin Henney's **"Difficult and
 Protracted,"** Mathieu Ropert on esoteric programming, Adesh Pandey on the
 life of a star, Shreshtha Aggarwal on the PACELC theorem, and Lucian Radu
 Teodorescu squeezing **"Concurrency in less than 5 minutes."**
@@ -236,18 +234,19 @@ program - there's nowhere for UB to hide, and no need to switch languages
 or subsets. He showed how C++26 Contracts provide the foundation, letting
 teams spend their runtime-checking budget exactly where it's most
 valuable, and sketched an incremental path that applies not just to new
-code but to the vast body of existing C++ already in the wild.
+code but to the vast body of existing C++ already in the wild.  
+I have personal reservations about the feasibility of such claims, but I'll reserve these comments till the end/conclusions of the report, since more sessions in the program had this topic (Contracts). 
 
 ### Creating Composable Callables in Contemporary C++
 **Björn Fahller**
 
 ![Björn Fahller on composable callables](photos/IMG_5908.jpeg)
 
-Ranges made C++ far more composable in C++20/23/26, but function objects
-(the "Niebloids") are still surprisingly rare and rarely composable.
+Ranges made C++ far more composable in C++20/23/26, but function objects are still surprisingly rare and rarely composable in everyday code.
 Björn built up - with deliberate, gleeful scope-creep - a powerful and
 easy-to-use toolkit of composable callables that, thanks to recent
-language additions, requires remarkably little code.
+language additions, requires remarkably little code. No runtime performance compromises.  
+As usual, Björn's presentations and topics resonate very well with my personal thinking and preferences. 
 
 ### CallMeMaybe: Building Modern Runtime Reflection via C++26
 **Laurie Kirk**
@@ -256,13 +255,10 @@ language additions, requires remarkably little code.
 
 One of my favourites for sheer "I didn't know you could do that" factor.
 Using C++26's new static reflection, Laurie built an automated, type-safe
-**runtime** reflection registry that only pays for the classes that opt in
-- no manual macro registration (RTTR), no Qt `moc`, and none of the
+**runtime** reflection registry that only pays for the classes that opt in - no manual macro registration (RTTR), no Qt `moc`, and none of the
 Java-style overhead of storing metadata for every class. She covered
-signature-based deduplication, invocation benchmarks, symbol stripping via
-granular reflection control, and "reflectable" profiles built from
-attributes and concepts - then introduced a brand-new open-source library
-built on experimental `std::meta`.
+signature-based deduplication, invocation benchmarks, symbol stripping via granular reflection control, and "reflectable" profiles built from
+attributes and concepts - then introduced a brand-new open-source library built on C++26 reflection. 
 
 ### 🍿 Movie Night
 **Walter Brown** 
@@ -271,7 +267,7 @@ built on experimental `std::meta`.
 
 A lovely change of pace: an evening of video excerpts and short films
 celebrating the programming profession and reflecting on where our craft
-came from. Free kebabs, bring-your-own-popcorn, and a full house.
+came from. Beer, kebabs, popcorn, and a full house. 
 
 ---
 
@@ -286,7 +282,7 @@ Performance is never an accident, and never an afterthought. Mathieu told
 the story of a 2x speed-up he made for a game as a side project - but the
 talk was less about the code and more about the *mindset* that made it
 possible: profiling, learning, planning, curiosity, and plain personal
-motivation.
+motivation. Mathieu is an entertaining speaker, so the hour just flew by :) 
 
 ### Stop Boiling Your Frogs: High Impact Fixes to Problems of Scale
 **Lara Bailey**
@@ -299,7 +295,8 @@ engineering effort yields an outsized win. The memorable examples: two C++
 classes used just outside their design space were quietly exhausting
 memory in a data-warehouse build; swapping them for better-suited ones
 turned multi-hour builds into minutes and cut memory use by an order of
-magnitude. 
+magnitude.  
+Slow paced, insightful reflection on how to do better engineering. Packed room and lovely audience interaction. Very ACCU-like! 
 
 ### Software and Safety
 **Anthony Williams**
@@ -307,10 +304,10 @@ magnitude.
 ![Anthony Williams on Software and Safety](photos/IMG_5915.jpeg)
 
 Software is *everywhere* - toasters, pacemakers, cars, trains, the public
-services running quietly in the background. Anthony asked what end users
+services running quietly in the background. Anthony asked what end-users
 actually mean when they call software "safe," how that maps to what we do
 as developers, and what we - specifically as C++ developers - should be
-doing to meet those expectations.
+doing to meet those expectations. Very wide/high-level presentation, but profound in its messaging for the community, not just for safety-critical industry. 
 
 ### KEYNOTE - Out of Our Minds: What is AI Doing To Us and For Us?
 **Yvonne Rogers**
@@ -325,7 +322,8 @@ of effort*: outsourcing our thinking to AI can make work less effortful
 but also less rewarding. Her challenge to the room: how do we design AI
 tools that make work *more* effortful and more rewarding, supporting
 better reasoning and - in the coming agentic era - genuinely collaborative
-decision-making?
+decision-making?  
+Dr. Rogers took ample time to answer a lot of audience questions at the end. Lots of interest in this topic! 
 
 ---
 
@@ -336,12 +334,13 @@ decision-making?
 
 ![Tina Ulbrich - The Code is Documentation Enough](photos/IMG_5924.jpeg)
 
+Click-bait title, of course. But the presentation was profound and very well delivered. With lots of code examples.  
 Opening with Stroustrup's "the compiler does not read comments, and
 neither do I," Tina made the case for self-documenting code: how to name
 variables and functions, which language features improve readability, and
 how unit tests can serve as living documentation of intended usage. And,
 honestly, where a comment really *is* the right tool - and how to write a
-good one.
+good one. 
 
 ### Microarchitecture: What Lies Beneath
 **Matt Godbolt**
@@ -353,7 +352,8 @@ went *much* deeper, into the guts of Intel Skylake - register files,
 schedulers, memory disambiguation - following a real code snippet down the
 pipeline into the real-world complexity that the textbooks skip. Essential
 for latency-sensitive systems, and genuinely fascinating for everyone
-else. 
+else.  
+The room was overflowing, the presentation was packed with information and Matt did a great job keeping the crowd engaged with a very complex topic and lots of information. 
 
 ![A breakout session in full swing](photos/IMG_5926.jpeg)
 
@@ -369,7 +369,7 @@ governments keeps growing. Jon's optimistic thesis - backed by results
 from some of the largest C++ codebases in the world - is that the vast
 majority of *old* code does **not** need to be rewritten, and that C++ can
 and should evolve to give *new* code memory safety, securing the
-language's future.
+language's future. This is a particularly interesting take since Jon comes from the Rust world, and just recently refocused his attention to securing C++. 
 
 ### CLOSING KEYNOTE - Incrementally Securing Your C++ Using Rust
 **Taylor Cramer**
@@ -382,26 +382,25 @@ vulnerabilities easier than ever to find and exploit before they can be
 patched. Taylor's pitch: you don't have to choose between "keep your C++"
 and "rewrite everything in Rust." Using Rust libraries, cross-language
 interop tooling, and a sprinkle of AI, teams can adopt memory safety
-*incrementally* - specifically through **Crubit**, the Rust/C++ interop tool - with the stated goal of writing 100% of
-new software in memory-safe languages by 2030.
+*incrementally* - specifically through **Crubit**, the Rust/C++ interop tool that Taylor's team is building. 
 
 ![Taylor Cramer's outline: memory safety, Rust, interop, safer C++](photos/IMG_5932.jpeg)
 
-The keynote pillars framed it neatly: (1) memory safety, now more than ever;
-(2) "rewrite it in Rust?"; (3) interop - adopting Rust in a C++ codebase;
-and (4) safer C++ via Rust's lessons.
+The presentation pillars framed it neatly: **memory safety** (now more than ever), **rewrite it in Rust**, **smooth interop** - adopting Rust in a C++ codebase, and **safer C++ via Rust's lessons**.  
+
+Taylor's closing plenary was the perfect bookend for **my own** presentation at the beginning of the conference: [Rust for The Curious C++ Developers](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/).  
 
 ---
 
-## The hallway track, the sponsors, and the sea
+## The Hallway Track
 
-A conference is more than its talks, and ACCU on Sea nailed the
+A conference is much more than its talks, and ACCU on Sea nailed the
 in-between. The grand main hall regularly filled to the back,
 where the sponsor exhibition spilled around the gilded columns of the Victorian-style theater. 
 
 ![A packed main hall](photos/IMG_5901.jpeg)
 
-The exhibition was a roll-call of the systems-and-finance C++ world -
+Sponsors: The exhibition was a roll-call of the systems-and-finance C++ world -
 Bloomberg, Hudson River Trading, Optiver, Citadel Securities, WorldQuant,
 think-cell, Undo, G-Research, Ripple - with the requisite swag, coffee,
 and recruiting energy.
@@ -412,7 +411,7 @@ and recruiting energy.
 
 ---
 
-And then there was the setting. Few conferences offer a coffee break with
+And then there was **the setting**. Few conferences offer a coffee break with
 *this* view: the Folkestone seafront, the harbour arm, and the Channel
 stretching out to the horizon.
 
@@ -426,29 +425,24 @@ stretching out to the horizon.
   thick seam of talks treated AI not as a novelty but as a force reshaping
   what software engineering *is* - shifting the prize from producing code
   to understanding systems, and asking hard questions about effort,
-  judgment, and what we offload.
+  judgment, and what we offload.  
+  **The Age of Inversions**: Now that code production is commoditized (and automation keeps accelerating it), the balance tips hard from producing code to reviewing, understanding, and being accountable for it. Programming fluency gets de-emphasised, and a set of genuine role reversals emerges - from creator in control of primitive systems to accountability sink of AI systems.  
 - **Memory safety has gone mainstream - and pragmatic.** The closing
   keynote, Bauman's talk, and Lakos's UB-safety work all converged on the
   same pragmatic answer: don't rewrite the world; secure *new* code and
   adopt safety *incrementally* (Rust interop, contracts, runtime checks).
-- **C++26 is arriving in force.** Reflection and composability were
-  everywhere - Laurie Kirk pushing `std::meta` into runtime reflection, and
-  Björn Fahller on composable callables.
+- **C++26 Reflection is arriving in force.**  People are already finding new interesting scenarios where this might become a game changer. I've already seen a few cool ideas at this conference, but I'm sure this is just the beginning of 10+ years of _innovation_ and _abuse_ to come :)   
 - **C++26 Contracts: promise and pushback.** Contracts were the thread
   running through the safety conversation - Teodorescu using them to separate
   *safety* from *correctness*, and Lakos building a whole UB-safety vision on
   them, where *every* source of undefined behavior becomes detectable at
   runtime with the cost paid only where you can afford it. The honest
   counterpoint: the most common UB is a *lifetime* error - use-after-free and
-  friends - and there's no `assert(is_valid_lifetime(ptr))` you can write;
-  configurable runtime assertions have existed since C89, yet we still built
-  Rust. Contracts look less like a silver bullet than a genuine-but-partial
+  friends - and there's no magic incantation you can write for that;
+  configurable runtime assertions have existed for 35-40 years, yet we still had to built something like Rust to solve the industry problem for good 😈. Contracts look less like a silver bullet than a genuine-but-partial
   step forward - a standardized construct compilers and sanitizers can both
-  reason about, without by itself making C++ "safe."
-- **"Safety" needs definitions.** Several speakers (Teodorescu, Williams)
-  pushed back on the word itself, separating *safety* from *correctness*
-  and from *users' expectations*.
-- **The craft still matters.** A strong counter-current celebrated
-  fundamentals: Walter Brown's history of our craft, Godbolt's
-  microarchitecture deep dive, the performance mindset, and the eternal
-  art of writing code that "documents itself".
+  reason about, without by itself making C++ _truly_ safe. 
+
+## It's a wrap
+
+Looking forward to the next year's conference by the sea! In the meantime, I have a bunch more C++ and Rust conferences in my 2026 calendar...
