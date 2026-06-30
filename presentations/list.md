@@ -5,6 +5,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances (2026)...  
 
+### 🗺️ [Pure Virtual C++ Conference](https://devblogs.microsoft.com/cppblog/save-the-date-pure-virtual-cpp-2026/)
+
+#### Mind The Gap: C++/Rust Interop     
+[💡Abstract](https://developer.microsoft.com/en-us/reactor/events/27359/?wt.mc_id=blog_27359_webpage_reactor) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### Allocator-Aware Rust     
