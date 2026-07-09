@@ -9,7 +9,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Mind The Gap: C++/Rust Interop     
 [💡Abstract](https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2026-talks-announced/) 
-[📜Slides]() 
+[📜Slides](2026/Conferences/Mind The Gap - C++ Rust Interop - Victor Ciura - Pure Virtual C++ 2026.pdf) 
 [🎞️Video]()  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
@@ -47,7 +47,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 #### Rust for The Curious C++ Developers   
 [💡Abstract](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/) 
-[📜Slides](2026/Conferences/Rust-for-the-Curious-Cpp-Developers.pdf) 
+[📜Slides](2026/Conferences/Rust for the Curious C++ Developers - Victor Ciura - ACCU 2026.pdf) 
 [🎞️Video]()  
 
 ### ... 
