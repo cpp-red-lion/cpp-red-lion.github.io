@@ -24,6 +24,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [📜Slides]() 
 [🎞️Video]()  
 
+### 🗺️ [C++ Under the Sea](https://cppunderthesea.nl), Breda (NL) 
+
+#### Kinds of Invariants   
+[💡Abstract]() 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [Meeting C++ Conference](https://meetingcpp.com/2025/), Berlin (Germany) 
 
 #### Memory Allocator Amnesia   
