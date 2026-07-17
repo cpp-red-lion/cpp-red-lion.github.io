@@ -8,7 +8,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [Pure Virtual C++ Conference](https://developer.microsoft.com/en-us/reactor/events/27359/?wt.mc_id=blog_27359_webpage_reactor)
 
 #### Mind The Gap: C++/Rust Interop     
-[💡Abstract](https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2026-talks-announced/) 
+[💡Abstract](https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2026-meet-the-speakers-part-3-modernizing-c/) 
 [📜Slides](2026/Conferences/Mind The Gap - C++ Rust Interop - Victor Ciura - Pure Virtual C++ 2026.pdf) 
 [🎞️Video]()  
 
