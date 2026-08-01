@@ -5,6 +5,13 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances (2026)...  
 
+### 🗺️ [🦀 RustConf](https://rustconf.com), Montréal (Canada) 
+
+#### Rust (in production) Without Fear     
+[💡Abstract](https://rustconf.com/schedule/) 
+[📜Slides]() 
+[🎞️Video]()  
+
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
 #### Allocator-Aware Rust     
