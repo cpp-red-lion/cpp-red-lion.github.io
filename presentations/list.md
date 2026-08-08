@@ -27,7 +27,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [C++ Under the Sea](https://cppunderthesea.nl), Breda (NL) 
 
 #### Kinds of Invariants   
-[💡Abstract]() 
+[💡Abstract](https://cppunderthesea.nl/talk-abstracts/) 
 [📜Slides]() 
 [🎞️Video]()  
 
