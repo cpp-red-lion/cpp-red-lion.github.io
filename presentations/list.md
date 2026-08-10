@@ -8,7 +8,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 ### 🗺️ [🦀 RustConf](https://rustconf.com), Montréal (Canada) 
 
 #### Rust (in production) Without Fear     
-[💡Abstract](https://rustconf.com/schedule/) 
+[💡Abstract](https://rustconf2026.sched.com/event/2TvG2) 
 [📜Slides]() 
 [🎞️Video]()  
 
