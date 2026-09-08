@@ -55,7 +55,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Rust for The Curious C++ Developers   
 [💡Abstract](https://accuonsea.uk/2026/sessions/rust-for-the-curious-cpp-developers/) 
 [📜Slides](2026/Conferences/Rust for the Curious C++ Developers - Victor Ciura - ACCU 2026.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=2hf0PHcpKBI)  
 
 ### 🗺️ [Pure Virtual C++ Conference](https://developer.microsoft.com/en-us/reactor/events/27359/?wt.mc_id=blog_27359_webpage_reactor)
 
