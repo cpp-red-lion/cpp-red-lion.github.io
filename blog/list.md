@@ -4,6 +4,8 @@
 
 ## 📓 Conference Trip Reports  
 
+### [RustConf 2026 Trip Report](RustConf_2026/RustConf-2026-Trip-Report.html)  
+
 ### [ACCU On Sea 2026 Trip Report](ACCU_2026/ACCU-on-Sea-2026-Trip-Report.html)  
 
 ### [RustWeek 2026 Trip Report](RustWeek_2026/RustWeek_2026_Trip_Report.html)  
