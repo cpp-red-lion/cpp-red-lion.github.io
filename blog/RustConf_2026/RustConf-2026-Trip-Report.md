@@ -2,6 +2,10 @@
 
 I attended [RustConf 2026](https://rustconf.com) in Montreal 🇨🇦, during September 9-11. My thread through the conference leaned heavily toward C++/Rust interoperability, the parts of Rust's safety story that still need explicit specifications and tooling, and the engineering work involved in adopting the language at scale. There were also many opportunities to connect those technical discussions with another recurring question: how to sustain the people and infrastructure behind Rust project & ecosystem.
 
+## Attendees
+
+This year, we had **680** onsite attendees in Montreal and **1,076** virtual attendees joining from all over the world.
+
 ## The Venue
 
 Back in Montreal, after two years. This time we were hosted by the wonderful [Palais des Congrès de Montréal](https://congresmtl.com/en/), where we had plenty of space for sessions, breakout rooms, expo, collaboration and meetups/socials. 
