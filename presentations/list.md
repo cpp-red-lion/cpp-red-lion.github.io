@@ -5,25 +5,6 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 
 ## Upcoming appearances (2026)...  
 
-### 🗺️ [🦀 RustConf](https://rustconf.com), Montréal (Canada) 
-
-#### Rust (in production) Without Fear     
-[💡Abstract](https://rustconf2026.sched.com/event/2TvG2) 
-[📜Slides](2026/Conferences/Rust in production Without Fear - Victor Ciura - RustConf 2026.pdf) 
-[🎞️Video]()  
-
-### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
-
-#### Allocator-Aware Rust     
-[💡Abstract](https://ndctechtown.com/agenda/allocator-aware-rust-0iqa/08yu11b65o9) 
-[📜Slides]() 
-[🎞️Video]()  
-
-#### Panel: Rust (in production) Without Fear     
-[💡Abstract](https://ndctechtown.com/agenda/panel-rust-in-production-without-fear-0c76/0i6spnoju14) 
-[📜Slides]() 
-[🎞️Video]()  
-
 ### 🗺️ [C++ Under the Sea](https://cppunderthesea.nl), Breda (NL) 
 
 #### Kinds of Invariants   
@@ -63,6 +44,25 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 [💡Abstract](https://devblogs.microsoft.com/cppblog/pure-virtual-cpp-2026-meet-the-speakers-part-3-modernizing-c/) 
 [📜Slides](2026/Conferences/Mind The Gap - C++ Rust Interop - Victor Ciura - Pure Virtual C++ 2026.pdf) 
 [🎞️Video](https://www.youtube.com/watch?v=oPK7sfhxW6M)  
+
+### 🗺️ [🦀 RustConf](https://rustconf.com), Montréal (Canada) 
+
+#### Rust (in production) Without Fear     
+[💡Abstract](https://rustconf2026.sched.com/event/2TvG2) 
+[📜Slides](2026/Conferences/Rust in production Without Fear - Victor Ciura - RustConf 2026.pdf) 
+[🎞️Video]()  
+
+### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
+
+#### Allocator-Aware Rust     
+[💡Abstract](https://ndctechtown.com/agenda/allocator-aware-rust-0iqa/08yu11b65o9) 
+[📜Slides](2026/Conferences/Allocator-Aware-Rust - Victor Ciura - NDC TechTown 2026.pdf) 
+[🎞️Video]()  
+
+#### Panel: Rust (in production) Without Fear     
+[💡Abstract](https://ndctechtown.com/agenda/panel-rust-in-production-without-fear-0c76/0i6spnoju14) 
+[🎞️Video]()  
+
 
 ### ... 
 
