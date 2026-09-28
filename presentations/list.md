@@ -50,7 +50,7 @@ For convenience, here's a YouTube [playlist](https://www.youtube.com/playlist?li
 #### Rust (in production) Without Fear     
 [💡Abstract](https://rustconf2026.sched.com/event/2TvG2) 
 [📜Slides](2026/Conferences/Rust in production Without Fear - Victor Ciura - RustConf 2026.pdf) 
-[🎞️Video]()  
+[🎞️Video](https://www.youtube.com/watch?v=eYb76t0nTok)  
 
 ### 🗺️ [NDC { TechTown }](https://ndctechtown.com), Kongsberg (Norway) 
 
